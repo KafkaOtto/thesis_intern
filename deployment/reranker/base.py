@@ -4,7 +4,7 @@ from pydantic import BaseModel
 class RerankRequest(BaseModel):
     query: str
     documents: List[str]
-    topk: int = 5
+    topN: int = 5
     threshold: float = 0.0
 
 class RerankResult(BaseModel):

@@ -8,15 +8,14 @@ class RerankerService:
         self.model = CrossEncoder(HF_MODEL_NAME)
 
     def reranking(self, request: RerankRequest) -> RerankResponse:
-        print(f"threshold: {request.threshold}")
-        results = self.model.rank(request.query, request.documents, return_documents=False, top_k=request.topk)
-
+        results = self.model.rank(request.query, request.documents, return_documents=False, top_k=request.topN)
+        threshold = request.threshold if request.threshold is not None else 0.0
         print(results)
         filtered_results = [
             RerankResult(index=result['corpus_id'], relevance_score=float(result['score']))
-            for result in results if float(result['score']) >= request.threshold
+            for result in results if float(result['score']) >= threshold
         ]
 
-        return RerankResponse(rankings=filtered_results)
+        return RerankResponse(results=filtered_results)
 
 reranker_service = RerankerService()

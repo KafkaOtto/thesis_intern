@@ -3,7 +3,7 @@ from pydantic import BaseModel
 
 class EmbeddingOptions(BaseModel):
     """ Options for generating embeddings. """
-    model: str = "sentence-transformers/all-MiniLM-L6-v2"
+    model: str = "mixedbread-ai/mxbai-embed-large-v1"
     normalize: bool = False
 
 class EmbeddingRequest(BaseModel):

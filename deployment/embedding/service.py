@@ -13,7 +13,7 @@ class EmbeddingService:
 
     def generate_embeddings(self, request: EmbeddingRequest) -> EmbeddingResponse:
         embeddings = self.model.encode(request.inputs, convert_to_numpy=True).tolist()
-
+        # print(f"Embedding dimension: {embeddings.shape[1]}")
         if request.options.normalize:
             embeddings = self._normalize_embeddings(embeddings)
 

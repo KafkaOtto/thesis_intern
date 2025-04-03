@@ -1,0 +1,6 @@
+global:
+  postgresql:
+    auth:
+      postgresPassword: root
+persistence:
+  existingClaim: task-pv-claim

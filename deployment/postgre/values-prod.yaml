@@ -5,3 +5,5 @@ global:
 primary:
   persistence:
     existingClaim: task-pv-claim
+volumePermissions:
+  enabled: true

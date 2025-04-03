@@ -1,31 +1,31 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: llama3.1-8b
+  name: llama3-1-8b
   namespace: default
   labels:
-    app: llama3.1-8b
+    app: llama3-1-8b
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: llama3.1-8b
+      app: llama3-1-8b
   template:
     metadata:
       labels:
-        app: llama3.1-8b
+        app: llama3-1-8b
     spec:
       volumes:
       - name: cache-volume
         persistentVolumeClaim:
-          claimName: llama3.1-8b
+          claimName: llama3-1-8b
       # vLLM needs to access the host's shared memory for tensor parallel inference.
       - name: shm
         emptyDir:
           medium: Memory
           sizeLimit: "2Gi"
       containers:
-      - name: llama3.1-8b
+      - name: llama3-1-8b
         image: vllm/vllm-openai:latest
         command: ["/bin/sh", "-c"]
         args: [

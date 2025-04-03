@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: llama3.1-8b
+  name: llama3-1-8b
   namespace: default
 spec:
   accessModes:

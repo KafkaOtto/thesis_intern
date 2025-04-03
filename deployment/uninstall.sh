@@ -6,6 +6,8 @@ helm uninstall prometheus
 helm uninstall grafana
 helm uninstall rag-db
 
+kubectl delete -f ~/thesis/projects/thesis_intern/deployment/storage.yaml
+
 # Delete Kubernetes resources
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/postgre/pvc.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/postgre/pv.yaml

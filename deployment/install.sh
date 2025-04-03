@@ -1,8 +1,12 @@
 #!/bin/bash
 
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/storage.yaml
+
 helm install scaphandre ~/thesis/projects/scaphandre/helm/scaphandre --set serviceMonitor.interval=1s
 helm install prometheus prometheus-community/prometheus --set alertmanager.persistentVolume.enabled=false --set server.persistentVolume.enabled=false
 helm install grafana grafana/grafana --values docs_src/tutorials/grafana-helm-values.yaml
+
+
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pv.yaml
 helm install -f ~/thesis/projects/thesis_intern/deployment/postgre/values-prod.yaml rag-db oci://registry-1.docker.io/bitnamicharts/postgresql

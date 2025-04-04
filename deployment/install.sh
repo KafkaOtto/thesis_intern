@@ -25,3 +25,6 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/dep
 # Embedding
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml
+
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/reranker/k8s/bge_reranker_v2_m3/pvc.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/reranker/k8s/bge_reranker_v2_m3/deployment.yaml

@@ -1,35 +1,35 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: bge-reranker-v2-layerwise
+  name: bge-reranker-v2-m3
   namespace: default
   labels:
-    app: bge-reranker-v2-layerwise
+    app: bge-reranker-v2-m3
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: bge-reranker-v2-layerwise
+      app: bge-reranker-v2-m3
   template:
     metadata:
       labels:
-        app: bge-reranker-v2-layerwise
+        app: bge-reranker-v2-m3
     spec:
       volumes:
       - name: cache-volume
         persistentVolumeClaim:
-          claimName: bge-reranker-v2-layerwise
+          claimName: bge-reranker-v2-m3
       # vLLM needs to access the host's shared memory for tensor parallel inference.
       - name: shm
         emptyDir:
           medium: Memory
           sizeLimit: "2Gi"
       containers:
-      - name: bge-reranker-v2-layerwise
+      - name: bge-reranker-v2-m3
         image: vllm/vllm-openai:v0.7.3
         command: ["/bin/sh", "-c"]
         args: [
-          "vllm serve BAAI/bge-reranker-v2-minicpm-layerwise --trust-remote-code --port 8001"
+          "vllm serve BAAI/bge-reranker-v2-m3 --trust-remote-code --port 8001"
         ]
         ports:
         - containerPort: 8001

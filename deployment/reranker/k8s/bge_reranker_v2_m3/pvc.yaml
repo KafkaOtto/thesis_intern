@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: bge-reranker-v2-layerwise
+  name: bge-reranker-v2-m3
   namespace: default
 spec:
   accessModes:

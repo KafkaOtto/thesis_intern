@@ -1,44 +1,38 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: llama3-1-8b
+  name: e5-large-v2
   namespace: default
   labels:
-    app: llama3-1-8b
+    app: e5-large-v2
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: llama3-1-8b
+      app: e5-large-v2
   template:
     metadata:
       labels:
-        app: llama3-1-8b
+        app: e5-large-v2
     spec:
       volumes:
       - name: cache-volume
         persistentVolumeClaim:
-          claimName: llama3-1-8b
+          claimName: e5-large-v2
       # vLLM needs to access the host's shared memory for tensor parallel inference.
       - name: shm
         emptyDir:
           medium: Memory
           sizeLimit: "2Gi"
       containers:
-      - name: llama3-1-8b
+      - name: e5-large-v2
         image: vllm/vllm-openai:latest
         command: ["/bin/sh", "-c"]
         args: [
-          "vllm serve meta-llama/Llama-3.1-8B --trust-remote-code"
+          "vllm serve intfloat/e5-large-v2 --trust-remote-code"
         ]
-        env:
-        - name: HUGGING_FACE_HUB_TOKEN
-          valueFrom:
-            secretKeyRef:
-              name: hf-token-secret
-              key: token
         ports:
-        - containerPort: 8002
+        - containerPort: 8000
         resources:
           limits:
             cpu: "1"
@@ -46,7 +40,7 @@ spec:
             nvidia.com/gpu: "1"
           requests:
             cpu: "1"
-            memory: 16G
+            memory: 4G
             nvidia.com/gpu: "1"
         volumeMounts:
         - mountPath: /root/.cache/huggingface
@@ -56,12 +50,12 @@ spec:
         livenessProbe:
           httpGet:
             path: /health
-            port: 8002
+            port: 8000
           initialDelaySeconds: 60
           periodSeconds: 10
         readinessProbe:
           httpGet:
             path: /health
-            port: 8002
+            port: 8000
           initialDelaySeconds: 60
           periodSeconds: 5

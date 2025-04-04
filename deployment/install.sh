@@ -18,6 +18,10 @@ helm install grafana grafana/grafana --values docs_src/tutorials/grafana-helm-va
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pv.yaml
 helm install -f ~/thesis/projects/thesis_intern/deployment/postgre/values-prod.yaml rag-db oci://registry-1.docker.io/bitnamicharts/postgresql
+# LLM
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/secret.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/deployment.yaml
+# Embedding
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml

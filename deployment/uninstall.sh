@@ -14,6 +14,9 @@ kubectl delete -f ~/thesis/projects/thesis_intern/deployment/postgre/pv.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/secret.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/deployment.yaml
+# Embedding
+kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
+kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml
 
 # Optionally delete any remaining PVCs
 kubectl delete pvc --all

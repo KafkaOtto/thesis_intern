@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# On the Kubernetes control spot
+helm repo add nvidia https://helm.ngc.nvidia.com/nvidia
+helm repo update
+helm install --wait --generate-name -n gpu-operator --create-namespace nvidia/gpu-operator
+# Optional, lets you assign the same GPU to multiple pods
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/nvidia/time-slicing-config-all.yaml
+kubectl patch clusterpolicy/cluster-policy -n gpu-operator --type merge -p '{"spec": {"devicePlugin": {"config": {"name": "time-slicing-config-all", "default": "any"}}}}'
+
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/storage.yaml
 
 helm install scaphandre ~/thesis/projects/scaphandre/helm/scaphandre --set serviceMonitor.interval=1s

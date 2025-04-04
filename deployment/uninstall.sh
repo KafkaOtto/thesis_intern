@@ -17,3 +17,7 @@ kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/de
 
 # Optionally delete any remaining PVCs
 kubectl delete pvc --all
+
+helm uninstall -n gpu-operator $(helm list -n gpu-operator -q)
+kubectl delete namespace gpu-operator
+kubectl delete -f ~/thesis/projects/thesis_intern/deployment/nvidia/time-slicing-config-all.yaml

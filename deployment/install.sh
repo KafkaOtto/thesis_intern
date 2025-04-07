@@ -10,10 +10,13 @@ kubectl patch clusterpolicy/cluster-policy -n gpu-operator --type merge -p '{"sp
 
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/storage.yaml
 
-helm install scaphandre ~/thesis/projects/scaphandre/helm/scaphandre --set serviceMonitor.interval=1s
-helm install prometheus prometheus-community/prometheus --set alertmanager.persistentVolume.enabled=false --set server.persistentVolume.enabled=false
-helm install grafana grafana/grafana --values docs_src/tutorials/grafana-helm-values.yaml
 
+helm install kepler kepler/kepler \
+    --namespace kepler \
+    --create-namespace \
+    --set serviceMonitor.enabled=true \
+    --set serviceMonitor.labels.release=prometheus \
+    --set serviceMonitor.interval=1s \
 
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pv.yaml

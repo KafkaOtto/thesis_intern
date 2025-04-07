@@ -3,7 +3,7 @@ kind: PersistentVolumeClaim
 metadata:
   name: task-pv-claim
 spec:
-  storageClassName: openebs-hostpath
+  storageClassName: default
   accessModes:
     - ReadWriteOnce
   resources:

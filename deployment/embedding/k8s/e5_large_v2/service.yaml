@@ -6,7 +6,7 @@ metadata:
 spec:
   ports:
   - name: http-e5-large-v2
-    port: 80
+    port: 8000
     protocol: TCP
     targetPort: 8000
   # The label selector should match the deployment labels & it is useful for prefix caching feature

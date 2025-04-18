@@ -6,8 +6,8 @@ replicaCount: 1
 
 # need to be fully qualified
 properties:
-  original_file: "/home/otto/dataset/dataset/crag_task_1_and_2_dev_v4.jsonl"
-  converted_file: "/home/otto/dataset/dataset/output/"
+  original_file: "/mnt/host/crag_task_1_and_2_dev_v4.jsonl"
+  converted_file: "/mnt/host/output/"
   spring.datasource.url: jdbc:postgresql://my-release-postgresql:5432/ragdb
 
 # list of secrets in same namespace which gearet loaded as env variables
@@ -90,3 +90,23 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+persistentVolume:
+  name: host-pv
+  storage: 1Gi
+  accessMode: ReadWriteMany
+  hostPath: /home/otto/dataset/dataset/
+
+persistentVolumeClaim:
+  name: host-pvc
+  accessMode: ReadWriteMany
+  storage: 1Gi
+
+deployment:
+  container:
+    volumeMount:
+      mountPath: /mnt/host
+      name: host-volume
+  volume:
+    name: host-volume
+    persistentVolumeClaim: host-pvc

@@ -34,6 +34,9 @@ spec:
             {{- toYaml .Values.securityContext | nindent 12 }}
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
           imagePullPolicy: {{ .Values.image.pullPolicy }}
+          volumeMounts:
+            - mountPath: {{ .Values.deployment.container.volumeMount.mountPath }}
+              name: {{ .Values.deployment.container.volumeMount.name }}
           ports:
             - name: http
               containerPort: {{ .Values.service.port }}
@@ -55,6 +58,10 @@ spec:
             - secretRef: 
                 name: {{ . }}
             {{- end }}
+      volumes:
+      - name: {{ .Values.deployment.volume.name }}
+        persistentVolumeClaim:
+          claimName: {{ .Values.deployment.volume.persistentVolumeClaim }}
       {{- with .Values.nodeSelector }}
       nodeSelector:
         {{- toYaml . | nindent 8 }}

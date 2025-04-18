@@ -97,5 +97,6 @@ deployment:
       mountPath: /app/data
       name: data-volume
   volume:
+    name: data-volume
     path: /mnt/data
     type: Directory

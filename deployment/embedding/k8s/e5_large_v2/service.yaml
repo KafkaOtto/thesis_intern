@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: e5-large-v2
+  namespace: default
+spec:
+  ports:
+  - name: http-e5-large-v2
+    port: 80
+    protocol: TCP
+    targetPort: 8000
+  # The label selector should match the deployment labels & it is useful for prefix caching feature
+  selector:
+    app: e5-large-v2
+  sessionAffinity: None
+  type: ClusterIP

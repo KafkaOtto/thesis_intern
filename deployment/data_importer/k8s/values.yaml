@@ -9,6 +9,7 @@ properties:
   original_file: "/app/data/crag_task_1_and_2_dev_v4.jsonl"
   converted_file: "/app/data/output/"
   spring.datasource.url: jdbc:postgresql://my-release-postgresql:5432/ragdb
+  spring.ai.embedding.endpointUrl: http://e5-large-v2:8000/
 
 # list of secrets in same namespace which gearet loaded as env variables
 secretRef: []

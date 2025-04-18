@@ -60,8 +60,9 @@ spec:
             {{- end }}
       volumes:
       - name: {{ .Values.deployment.volume.name }}
-        persistentVolumeClaim:
-          claimName: {{ .Values.deployment.volume.persistentVolumeClaim }}
+        hostPath:
+          path: {{ .Values.deployment.volume.path }}
+          type: {{ .Values.deployment.volume.type }}
       {{- with .Values.nodeSelector }}
       nodeSelector:
         {{- toYaml . | nindent 8 }}

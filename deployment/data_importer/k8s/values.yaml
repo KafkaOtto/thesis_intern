@@ -94,12 +94,12 @@ affinity: {}
 persistentVolume:
   name: host-pv
   storage: 1Gi
-  accessMode: ReadWriteMany
+  accessMode: ReadWriteOnce
   hostPath: /home/otto/dataset/dataset/
 
 persistentVolumeClaim:
   name: host-pvc
-  accessMode: ReadWriteMany
+  accessMode: ReadWriteOnce
   storage: 1Gi
 
 deployment:

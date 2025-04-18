@@ -8,6 +8,7 @@ replicaCount: 1
 properties:
   original_file: "/home/otto/dataset/dataset/crag_task_1_and_2_dev_v4.jsonl"
   converted_file: "/home/otto/dataset/dataset/output/"
+  spring.datasource.url: jdbc:postgresql://my-release-postgresql:5432/ragdb
 
 # list of secrets in same namespace which gearet loaded as env variables
 secretRef: []

@@ -10,6 +10,8 @@ properties:
   converted_file: "/app/data/output/"
   spring.datasource.url: jdbc:postgresql://my-release-postgresql:5432/ragdb
   spring.ai.embedding.endpointUrl: http://e5-large-v2:8000/
+  spring.ai.chunking.default-chunk-size: 300
+  spring.ai.chunking.min-chunk-size: 300
 
 # list of secrets in same namespace which gearet loaded as env variables
 secretRef: []

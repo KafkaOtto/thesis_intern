@@ -63,6 +63,7 @@ spec:
         hostPath:
           path: {{ .Values.deployment.volume.path }}
           type: {{ .Values.deployment.volume.type }}
+      restartPolicy: Never
       {{- with .Values.nodeSelector }}
       nodeSelector:
         {{- toYaml . | nindent 8 }}

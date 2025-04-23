@@ -1,13 +1,20 @@
-FROM python:3.9
+FROM python:3.11-slim
 
-WORKDIR /code
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    gcc \
+    g++ \
+    python3-dev \
+    && rm -rf /var/lib/apt/lists/*
 
-COPY ./requirements.txt /code/requirements.txt
+WORKDIR /app
 
-RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
+COPY requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
 
 
-COPY ./app.py /code/
+COPY ./app /app
 
 
-CMD ["fastapi", "run", "app.py", "--port", "8001"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8001"]

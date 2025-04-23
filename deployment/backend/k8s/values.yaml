@@ -21,7 +21,8 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: "branch-otto_thesis"
 
-imagePullSecrets: []
+imagePullSecrets:
+  - name: awssecret
 nameOverride: ""
 fullnameOverride: ""
 

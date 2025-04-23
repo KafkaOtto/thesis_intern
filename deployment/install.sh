@@ -8,7 +8,7 @@ helm install --wait --generate-name -n gpu-operator --create-namespace nvidia/gp
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/nvidia/time-slicing-config-all.yaml
 kubectl patch clusterpolicy/cluster-policy -n gpu-operator --type merge -p '{"spec": {"devicePlugin": {"config": {"name": "time-slicing-config-all", "default": "any"}}}}'
 
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/storage.yaml
+#kubectl apply -f ~/thesis/projects/thesis_intern/deployment/storage.yaml
 
 
 helm install kepler kepler/kepler \
@@ -16,18 +16,21 @@ helm install kepler kepler/kepler \
     --create-namespace \
     --set serviceMonitor.enabled=true \
     --set serviceMonitor.labels.release=prometheus \
-    --set serviceMonitor.interval=1s \
 
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pvc.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/postgre/pv.yaml
 helm install -f ~/thesis/projects/thesis_intern/deployment/postgre/values-prod.yaml rag-db oci://registry-1.docker.io/bitnamicharts/postgresql
 # LLM
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/secret.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/deployment.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/service.yaml
+
 # Embedding
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
 
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/reranker/k8s/bge_reranker_v2_m3/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/reranker/k8s/bge_reranker_v2_m3/deployment.yaml
+
+DOCKER_PAS=$(aws ecr get-login-password --region eu-central-1)
+kubectl create secret docker-registry awssecret   --docker-server=214775410005.dkr.ecr.eu-central-1.amazonaws.com   --docker-email=zhinuan.guo@softwareimprovementgroup.com   --docker-username=AWS   --docker-password="$DOCKER_PAS"

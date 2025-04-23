@@ -33,15 +33,15 @@ spec:
         ]
         ports:
         - containerPort: 8000
-        resources:
-          limits:
-            cpu: "1"
-            memory: 20G
-            nvidia.com/gpu: "1"
-          requests:
-            cpu: "1"
-            memory: 4G
-            nvidia.com/gpu: "1"
+#        resources:
+#          limits:
+#            cpu: "1"
+#            memory: 20G
+#            nvidia.com/gpu: "1"
+#          requests:
+#            cpu: "1"
+#            memory: 4G
+#            nvidia.com/gpu: "1"
         volumeMounts:
         - mountPath: /root/.cache/huggingface
           name: cache-volume

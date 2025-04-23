@@ -8,6 +8,8 @@ replicaCount: 1
 properties:
   spring.datasource.url: jdbc:postgresql://pgvector:5432/ragdb
   spring.ai.embedding.endpointUrl: http://e5-large-v2:8000/
+  spring.ai.embedding.model-name: "intfloat/e5-large-v2"
+  spring.ai.embedding.model-type: vllm
   spring.ai.reranking.properties.endpointUrl: http://reranker-bm25s:8001/rerank
   spring.ai.chat.properties.endpointUrl: http://e5-large-v2:8000/
   spring.ai.chat.properties.model-name: "meta-llama/Llama-3.1-8B-Instruct"

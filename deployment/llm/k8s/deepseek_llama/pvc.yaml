@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: DeepSeek-R1-Distill-Llama-8B
+  name: deepseek-r1-distill-llama-8b
   namespace: default
 spec:
   accessModes:

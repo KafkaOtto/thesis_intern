@@ -11,8 +11,8 @@ properties:
   spring.ai.embedding.model-name: "intfloat/e5-large-v2"
   spring.ai.embedding.model-type: vllm
   spring.ai.reranking.properties.endpointUrl: http://reranker-bm25s:8001/rerank
-  spring.ai.chat.properties.endpointUrl: http://llama3-1-8b:8002/
-  spring.ai.chat.properties.model-name: "meta-llama/Llama-3.1-8B-Instruct"
+  spring.ai.chat.properties.endpointUrl: http://deepseek-r1-distill-llama-8b:8002/
+  spring.ai.chat.properties.model-name: "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
 
 # list of secrets in same namespace which gearet loaded as env variables
 secretRef: []

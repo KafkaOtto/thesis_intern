@@ -36,11 +36,11 @@ spec:
         resources:
           limits:
             cpu: "1"
-            memory: 20G
+            memory: 24G
             nvidia.com/gpu: "1"
           requests:
             cpu: "1"
-            memory: 16G
+            memory: 20G
             nvidia.com/gpu: "1"
         volumeMounts:
         - mountPath: /root/.cache/huggingface

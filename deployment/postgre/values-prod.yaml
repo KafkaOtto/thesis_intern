@@ -2,8 +2,3 @@ global:
   postgresql:
     auth:
       postgresPassword: root
-primary:
-  persistence:
-    existingClaim: task-pv-claim
-volumePermissions:
-  enabled: true

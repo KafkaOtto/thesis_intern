@@ -11,12 +11,13 @@ helm install --wait --generate-name \
 helm install pgvector ~/thesis/projects/thesis_intern/deployment/postgre/helm-pgvector/helm/pgvector --set postgresql.password=root
 
 # initialize DB script
+NAMESPACE="default"
 PG_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^pgvector-' | head -n 1)
 if [ -z "$PG_POD_NAME" ]; then
   echo "Error: No pod starting with 'pgvector-' found in namespace $NAMESPACE"
   exit 1
 fi
-kubectl wait --for=condition=Running pod "$PG_POD_NAME" --timeout=120s
+
 echo "Detected pod: $PG_POD_NAME"
 echo "📦 Copying SQL scripts to pod..."
 INIT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/1__initialization_script.sql"

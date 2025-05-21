@@ -20,8 +20,7 @@ if [ -z "$PG_POD_NAME" ]; then
 fi
 
 echo "Detected pod: $PG_POD_NAME"
-kubectl wait --for=condition=Ready pod "$PG_POD_NAME" -n "$NAMESPACE" --timeout=120s
-sleep 10
+sleep 20
 
 echo "📦 Copying SQL scripts to pod..."
 INIT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/1__initialization_script.sql"

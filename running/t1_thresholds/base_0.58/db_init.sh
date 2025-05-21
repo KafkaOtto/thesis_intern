@@ -22,6 +22,7 @@ INIT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/1__i
 SCHEMA_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/2__schema_script.sql"
 kubectl cp "$INIT_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/1__initialization_script.sql"
 kubectl cp "$SCHEMA_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/2__schema_script.sql"
+kubectl wait --for=condition=Ready pod "$PG_POD_NAME" --timeout=120s
 echo "🚀 Running initialization script..."
 kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -f /tmp/1__initialization_script.sql"
 echo "🚀 Running schema script..."

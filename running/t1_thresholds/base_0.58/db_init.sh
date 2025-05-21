@@ -41,6 +41,9 @@ kubectl create secret docker-registry "awssecret" \
   --docker-password="$DOCKER_PAS"
 
 helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
+
+IMPORTER_POD=$(kubectl get pods -o name | grep importer-springboot-helm-chart | head -n1)
+
 echo "Waiting for $IMPORTER_POD to complete..."
 while true; do
   STATUS=$(kubectl get "$IMPORTER_POD" -o jsonpath='{.status.phase}')

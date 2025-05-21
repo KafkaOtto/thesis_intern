@@ -1,6 +1,9 @@
 #!/bin/bash
+set -euo pipefail
 
-# On the Kubernetes control spot
+NAMESPACE="default"
+
+# Add Helm repo and install GPU operator
 helm repo add nvidia https://helm.ngc.nvidia.com/nvidia
 helm repo update
 helm install --wait --generate-name \
@@ -10,8 +13,6 @@ helm install --wait --generate-name \
 
 helm install pgvector ~/thesis/projects/thesis_intern/deployment/postgre/helm-pgvector/helm/pgvector --set postgresql.password=root
 
-# initialize DB script
-NAMESPACE="default"
 PG_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^pgvector-' | head -n 1)
 if [ -z "$PG_POD_NAME" ]; then
   echo "Error: No pod starting with 'pgvector-' found in namespace $NAMESPACE"
@@ -19,7 +20,7 @@ if [ -z "$PG_POD_NAME" ]; then
 fi
 
 echo "Detected pod: $PG_POD_NAME"
-kubectl wait --for=condition=Ready pod "$PG_POD_NAME" --timeout=120s
+kubectl wait --for=condition=Ready pod "$PG_POD_NAME" -n "$NAMESPACE" --timeout=120s
 sleep 10
 
 echo "📦 Copying SQL scripts to pod..."
@@ -27,8 +28,10 @@ INIT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/1__i
 SCHEMA_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/2__schema_script.sql"
 kubectl cp "$INIT_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/1__initialization_script.sql"
 kubectl cp "$SCHEMA_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/2__schema_script.sql"
+
 echo "🚀 Running initialization script..."
 kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -f /tmp/1__initialization_script.sql"
+
 echo "🚀 Running schema script..."
 kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -f /tmp/2__schema_script.sql"
 
@@ -36,7 +39,6 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_lar
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment_gpu.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
 
-# precondition: you need to input aws
 DOCKER_PAS=$(aws ecr get-login-password --region eu-central-1)
 
 kubectl create secret docker-registry "awssecret" \
@@ -47,7 +49,16 @@ kubectl create secret docker-registry "awssecret" \
 
 helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
 
+echo "Waiting for importer pod to start..."
+until kubectl get pods -o name | grep -q importer-springboot-helm-chart; do
+  sleep 2
+done
+
 IMPORTER_POD=$(kubectl get pods -o name | grep importer-springboot-helm-chart | head -n1)
+if [ -z "$IMPORTER_POD" ]; then
+  echo "Error: Importer pod not found"
+  exit 1
+fi
 
 echo "Waiting for $IMPORTER_POD to complete..."
 while true; do
@@ -59,7 +70,7 @@ while true; do
   sleep 5
 done
 
-kubectl exec -i "$PG_POD_NAME" -- bash -c "PGPASSWORD=root psql -U postgres -d ragdb -c 'SELECT COUNT(*) FROM text_segments;'"
+kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -d ragdb -c 'SELECT COUNT(*) FROM text_segments;'"
 
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment_gpu.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml

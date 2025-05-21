@@ -39,18 +39,11 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_lar
 
 EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^e5-large-v2' | head -n 1)
 
-echo "Waiting for pod $EMB_POD_NAME to be in Running status..."
+echo "Waiting for pod $EMB_POD_NAME to be in Ready status..."
 
-while true; do
-  STATUS=$(kubectl get pod "$EMB_POD_NAME" -n "$NAMESPACE" -o jsonpath='{.status.phase}')
-  if [ "$STATUS" == "Running" ]; then
-    echo "Pod $EMB_POD_NAME is Running."
-    break
-  else
-    echo "Current status: $STATUS. Waiting..."
-    sleep 3
-  fi
-done
+kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$EMB_POD_NAME --timeout=120s
+
+echo "pod $EMB_POD_NAME in Ready status..."
 
 DOCKER_PAS=$(aws ecr get-login-password --region eu-central-1)
 
@@ -60,7 +53,6 @@ kubectl create secret docker-registry "awssecret" \
   --docker-username=AWS \
   --docker-password="$DOCKER_PAS"
 
-sleep 30
 
 helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
 

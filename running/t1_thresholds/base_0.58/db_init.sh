@@ -60,6 +60,8 @@ kubectl create secret docker-registry "awssecret" \
   --docker-username=AWS \
   --docker-password="$DOCKER_PAS"
 
+sleep 3
+
 helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
 
 echo "Waiting for importer pod to start..."

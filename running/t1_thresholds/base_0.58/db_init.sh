@@ -37,6 +37,21 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_lar
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment_gpu.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
 
+EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^-e5-large-v2' | head -n 1)
+
+echo "Waiting for pod $EMBEDDING_POD_NAME to be in Running status..."
+
+while true; do
+  STATUS=$(kubectl get pod "$EMB_POD_NAME" -n "$NAMESPACE" -o jsonpath='{.status.phase}')
+  if [ "$STATUS" == "Running" ]; then
+    echo "Pod $EMB_POD_NAME is Running."
+    break
+  else
+    echo "Current status: $STATUS. Waiting..."
+    sleep 3
+  fi
+done
+
 DOCKER_PAS=$(aws ecr get-login-password --region eu-central-1)
 
 kubectl create secret docker-registry "awssecret" \

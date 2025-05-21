@@ -1,0 +1,29 @@
+#!/bin/bash
+
+helm install prometheus prometheus-community/kube-prometheus-stack \
+    --namespace monitoring \
+    --create-namespace \
+    --set global.serviceMonitor.interval=5s \
+    --wait
+
+helm install kepler kepler/kepler \
+ --namespace kepler \
+ --create-namespace \
+ --set serviceMonitor.enabled=true \
+ --set serviceMonitor.labels.release=prometheus \
+  --set image.tag="release-0.7.11" \
+  --set serviceMonitor.interval=5s \
+  --wait
+
+# LLM
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/secret.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/deployment.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/service.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
+
+# Embedding
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
+
+helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t1-threshold0.58.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s

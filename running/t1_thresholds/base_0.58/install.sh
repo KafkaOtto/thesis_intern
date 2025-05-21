@@ -21,6 +21,14 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/dep
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/service.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
 
+LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
+
+echo "Waiting for pod $LLM_POD_NAME to be in Ready status..."
+
+kubectl wait --for=condition=Ready pod/$LLM_POD_NAME--timeout=120s
+
+echo "pod $LLM_POD_NAME in Ready status..."
+
 # Embedding
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml

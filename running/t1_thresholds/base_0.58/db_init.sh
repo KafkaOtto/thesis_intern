@@ -39,7 +39,7 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_lar
 
 EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^-e5-large-v2' | head -n 1)
 
-echo "Waiting for pod $EMBEDDING_POD_NAME to be in Running status..."
+echo "Waiting for pod $EMB_POD_NAME to be in Running status..."
 
 while true; do
   STATUS=$(kubectl get pod "$EMB_POD_NAME" -n "$NAMESPACE" -o jsonpath='{.status.phase}')

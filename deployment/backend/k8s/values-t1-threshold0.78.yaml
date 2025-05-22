@@ -13,7 +13,7 @@ properties:
   spring.ai.reranking.properties.endpointUrl: http://reranker-bm25s:8001/rerank
   spring.ai.chat.properties.endpointUrl: http://llama3-1-8b:8002/
   spring.ai.chat.properties.model-name: "meta-llama/Llama-3.1-8B-Instruct"
-  rag.similarity.threshold: 0.8
+  rag.similarity.threshold: 0.78
 
 # list of secrets in same namespace which gearet loaded as env variables
 secretRef: []

@@ -22,7 +22,7 @@ image:
   repository: 214775410005.dkr.ecr.eu-central-1.amazonaws.com/chat-api-service
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "branch-otto_thesis"
+  tag: "branch-otto_thesis_emb_384"
 
 imagePullSecrets:
   - name: awssecret

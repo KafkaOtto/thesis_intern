@@ -10,6 +10,7 @@ properties:
   converted_file: "/app/data/output/"
   spring.datasource.url: jdbc:postgresql://pgvector:5432/ragdb
   spring.ai.embedding.endpointUrl: http://e5-base-v2:8000/
+  spring.ai.embedding.modelName: "intfloat/e5-base-v2"
   spring.ai.chunking.default-chunk-size: 320
   spring.ai.chunking.min-chunk-size: 320
 

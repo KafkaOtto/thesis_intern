@@ -34,4 +34,4 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_sma
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_small_v2/deployment.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_small_v2/service.yaml
 
-helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t1-threshold0.68.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
+helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t3-e5-small-v2.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s

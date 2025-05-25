@@ -54,7 +54,7 @@ kubectl create secret docker-registry "awssecret" \
   --docker-password="$DOCKER_PAS"
 
 
-helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
+helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values-t3-e5-small-v2.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
 
 echo "Waiting for importer pod to start..."
 until kubectl get pods -o name | grep -q importer-springboot-helm-chart; do

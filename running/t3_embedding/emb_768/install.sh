@@ -1,0 +1,37 @@
+#!/bin/bash
+
+helm install prometheus prometheus-community/kube-prometheus-stack \
+    --namespace monitoring \
+    --create-namespace \
+    --set global.serviceMonitor.interval=5s \
+    --wait
+
+helm install kepler kepler/kepler \
+ --namespace kepler \
+ --create-namespace \
+ --set serviceMonitor.enabled=true \
+ --set serviceMonitor.labels.release=prometheus \
+  --set image.tag="release-0.7.11" \
+  --set serviceMonitor.interval=5s \
+  --wait
+
+# LLM
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/secret.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/deployment.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/service.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
+
+LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
+
+echo "Waiting for pod $LLM_POD_NAME to be in Ready status..."
+
+kubectl wait --for=condition=Ready pod/$LLM_POD_NAME--timeout=120s
+
+echo "pod $LLM_POD_NAME in Ready status..."
+
+# Embedding
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/pvc.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/deployment.yaml
+kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/service.yaml
+
+helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t1-threshold0.68.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s

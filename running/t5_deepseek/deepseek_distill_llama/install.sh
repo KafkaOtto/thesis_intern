@@ -16,7 +16,7 @@ helm install kepler kepler/kepler \
   --wait
 
 # LLM
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/secret.yaml
+#kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/secret.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/deployment.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/service.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/pvc.yaml

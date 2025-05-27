@@ -8,7 +8,7 @@ helm uninstall pgvector
 helm uninstall chat-backend
 helm uninstall importer
 
-kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/secret.yaml
+#kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/secret.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/deployment.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/service.yaml
 kubectl delete -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/deepseek_llama/pvc.yaml

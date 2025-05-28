@@ -45,9 +45,11 @@ kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$EMB_POD_NAME --
 
 echo "pod $EMB_POD_NAME in Ready status..."
 
-BACKEND_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^chat-backend' | head -n 1)
-
-while [[ $(kubectl get pod $BACKEND_POD_NAME -n $NAMESPACE -o jsonpath='{.status.phase}') != "Running" ]]; do
+while [[ -z "${BACKEND_POD_NAME:-}" ]]; do
+  BACKEND_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^chat-backend' | head -n 1 || true)
+  sleep 2
+done
+while [[ $(kubectl get pod $BACKEND_POD_NAME -n "$NAMESPACE" -o jsonpath='{.status.phase}') != "Running" ]]; do
   echo "Waiting for backend pod to be in Running status..."
   sleep 5
 done

@@ -32,7 +32,7 @@ LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns="
 
 echo "Waiting for pod $LLM_POD_NAME to be in Ready status..."
 
-kubectl wait --for=condition=Ready pod/$LLM_POD_NAME--timeout=120s
+kubectl wait --for=condition=Ready pod/$LLM_POD_NAME --timeout=120s
 
 echo "pod $LLM_POD_NAME in Ready status..."
 
@@ -43,5 +43,12 @@ echo "Waiting for pod $EMB_POD_NAME to be in Ready status..."
 kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$EMB_POD_NAME --timeout=120s
 
 echo "pod $EMB_POD_NAME in Ready status..."
+
+BACKEND_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^chat-backend' | head -n 1)
+
+while [[ $(kubectl get pod $BACKEND_POD_NAME -n $NAMESPACE -o jsonpath='{.status.phase}') != "Running" ]]; do
+  echo "Waiting for backend pod to be in Running status..."
+  sleep 5
+done
 
 sleep 20

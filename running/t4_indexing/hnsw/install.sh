@@ -37,8 +37,10 @@ kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$LLM_POD_NAME --
 
 echo "pod $LLM_POD_NAME in Ready status..."
 
-EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^e5-large-v2' | head -n 1)
-
+while [[ -z "${EMB_POD_NAME:-}" ]]; do
+  EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^e5-large-v2' | head -n 1)
+  sleep 2
+done
 echo "Waiting for pod $EMB_POD_NAME to be in Ready status..."
 
 kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$EMB_POD_NAME --timeout=1200s

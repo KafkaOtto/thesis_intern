@@ -22,17 +22,38 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/dep
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/service.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
 
-LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
-
-echo "Waiting for pod $LLM_POD_NAME to be in Ready status..."
-
-kubectl wait --for=condition=Ready pod/$LLM_POD_NAME--timeout=120s
-
-echo "pod $LLM_POD_NAME in Ready status..."
-
 # Embedding
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/pvc.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/deployment.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/service.yaml
 
 helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t3-e5-base-v2.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
+
+LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
+
+echo "Waiting for pod $LLM_POD_NAME to be in Ready status..."
+
+kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$LLM_POD_NAME --timeout=1200s
+
+echo "pod $LLM_POD_NAME in Ready status..."
+
+while [[ -z "${EMB_POD_NAME:-}" ]]; do
+  EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^e5-base-v2' | head -n 1)
+  sleep 2
+done
+echo "Waiting for pod $EMB_POD_NAME to be in Ready status..."
+
+kubectl wait --namespace "$NAMESPACE" --for=condition=Ready pod/$EMB_POD_NAME --timeout=1200s
+
+echo "pod $EMB_POD_NAME in Ready status..."
+
+while [[ -z "${BACKEND_POD_NAME:-}" ]]; do
+  BACKEND_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^chat-backend' | head -n 1 || true)
+  sleep 2
+done
+while [[ $(kubectl get pod $BACKEND_POD_NAME -n "$NAMESPACE" -o jsonpath='{.status.phase}') != "Running" ]]; do
+  echo "Waiting for backend pod to be in Running status..."
+  sleep 5
+done
+
+sleep 20

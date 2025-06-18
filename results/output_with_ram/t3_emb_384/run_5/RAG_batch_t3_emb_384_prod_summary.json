@@ -1,0 +1,16 @@
+{
+    "version": "2023-08-31",
+    "name": "RAG_batch_t3_emb_384_prod_summary",
+    "start_time": 1748274528.1734862,
+    "end_time": 1748279778.4292417,
+    "number_errors": 0,
+    "num_mismatched_requests": 0,
+    "error_rate": 0.0,
+    "mismatch_rate": 0.0,
+    "num_completed_requests": 2606,
+    "num_non_errored_requests": 2606,
+    "model": "RAG",
+    "num_concurrent_requests": 1,
+    "llm_api": "RAG",
+    "timestamp": 1748279778
+}

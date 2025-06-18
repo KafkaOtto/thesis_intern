@@ -1,0 +1,2202 @@
+[
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0396419637836516,
+            "number_input_tokens": 33
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what's auph's earnings per share?",
+                33
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "0.4"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9494695961475372,
+            "number_input_tokens": 39
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the etymology of haribo's name?",
+                39
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "a syllabic abbreviation formed from hans riegel bonn"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9986561588011682,
+            "number_input_tokens": 57
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the most popular song on billboard in 2024-02-28?",
+                57
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "texas hold 'em"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9143255329690874,
+            "number_input_tokens": 45
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many islands are there in the philippines",
+                45
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the philippines is an archipelago that comprises 7,641 islands"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9973737099207938,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the main sections on a balance sheet?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "assets, liabilities, and equity"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.7864582668989897,
+            "number_input_tokens": 69
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "was what happens in vegas the title originally chosen for that movie?",
+                69
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "yes"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9290048000402749,
+            "number_input_tokens": 84
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which cars movie had the higher box office gross worldwide, the first or the second?",
+                84
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the second"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1712258011102676,
+            "number_input_tokens": 88
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which one of these came out earlier, the greater meaning of water or small town ecstasy?",
+                88
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "small town ecstasy"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.907185718882829,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on which days did the bq stock closes lower last week?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2024-02-12, 2024-02-13, 2024-02-15, 2024-02-16"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9807723038829863,
+            "number_input_tokens": 69
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are first ten companies in the dow jones, sorted alphabetically?",
+                69
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "ten companies in the dow jones are: 3m, american express, amgen, apple, boeing, caterpillar, chenvron, cisco, coca-cola, and disney."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.6168214501813054,
+            "number_input_tokens": 43
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what has more fat between chicken and lamb?",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "lamb has more fat at 14g compared to chicken breast at 7g."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8022376280277967,
+            "number_input_tokens": 81
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many nba championships have the golden state warriors won in the past decade?",
+                81
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the golden state warriors have won four nba championships in the past decade."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0942615112289786,
+            "number_input_tokens": 104
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "during the first week of january 2024, on which days did bkn's stock price reach a higher closing price?",
+                104
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2024-01-02, 2024-01-03, 2024-01-04"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1851360090076923,
+            "number_input_tokens": 50
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has trevor noah hosted the grammys?",
+                50
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "4"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.802275264635682,
+            "number_input_tokens": 50
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many members are part of red hot chili pepper?",
+                50
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "red hot chili peppers currently has 4 members."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9077913258224726,
+            "number_input_tokens": 25
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "nep's current market cap.",
+                25
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$2,543,205,863.73"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.998217131011188,
+            "number_input_tokens": 52
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what film marked angelina jolie's directorial debut?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "in the land of blood and honey released in 2011"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.113868157379329,
+            "number_input_tokens": 70
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many women billionaires are there in the united states as of 2023?",
+                70
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "92 as of 2023"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.878737485036254,
+            "number_input_tokens": 67
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in which film did leonardo dicaprio and kate winslet first co-star?",
+                67
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "titanic"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9097219929099083,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who did rihanna co-headline a tour with?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "rihanna and eminem co-headlined the monster tour in 2014"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9866146622225642,
+            "number_input_tokens": 48
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who are the members of the band imagine dragons?",
+                48
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the members of imagine dragons are dan reynolds, wayne sermon, ben mckee and daniel platzman."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0330882505513728,
+            "number_input_tokens": 87
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many actors had roles in both gifted hands: the ben carson story and bone tomahawk?",
+                87
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.977533683180809,
+            "number_input_tokens": 35
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many songs are in adele's \"21\"?",
+                35
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "there are 11 songs in the album"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.981222994159907,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was taylor swifts age when she released her debut album?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "16 years old"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.6387319536879659,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who made the creative decisions for madea's big happy family?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "tyler perry"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.274304588790983,
+            "number_input_tokens": 81
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the total amount of corporate bonds issued in the united states in 2020?",
+                81
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the total amount of corporate bonds issued in the united states in 2020 was $1.189 trillion."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.2005228069610894,
+            "number_input_tokens": 43
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the price-to-earnings ratio of haia",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "i don't know"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9870236502029002,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which movie has a higher number of sequels, toy story or the matrix?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "they both have 4 movies total in their franchises."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0898270648904145,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the names of rihanna's albums in chronological order?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "music of the sun (2005), a girl like me (2006), good girl gone bad (2007), rated r (2009), loud (2010), talk that talk (2011), unapologetic (2012), and anti (2016)"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9510771771892905,
+            "number_input_tokens": 98
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most consecutive stolen bases in mlb history without being caught since 1980?",
+                98
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "vince coleman has the most consecutive stolen bases in mlb history without being caught, with 50 stolen bases."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8673601080663502,
+            "number_input_tokens": 67
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the language that the man who lost himself was released in?",
+                67
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "en"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8855541199445724,
+            "number_input_tokens": 118
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most career home runs in major league baseball among players who have never won a home run title?",
+                118
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "rafael palmeiro has the most career home runs in major league baseball among players who have never won a home run title, with 569 home runs."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.901686865836382,
+            "number_input_tokens": 96
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which wta player had a higher singles ranking to end last year, madison keys or daria kasatkina?",
+                96
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "madison keys"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8956909980624914,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was tbmc's closing price yesterday?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$10.53"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9018936450593174,
+            "number_input_tokens": 34
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many singers do westlife have?",
+                34
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "5"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1178125478327274,
+            "number_input_tokens": 38
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did meryl streep stop performing?",
+                38
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8759863451123238,
+            "number_input_tokens": 51
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who won the nobel prize in physics in 2022 from usa",
+                51
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "john f clauser"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.7016779030673206,
+            "number_input_tokens": 108
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on their last game day in eng-premier league, what was manchester city's record in terms of wins and losses?",
+                108
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "d"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.937841567210853,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "do you know who the director of katherine ryan: in trouble is?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "colin dench"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.3619251609779894,
+            "number_input_tokens": 98
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the market share of microsoft in the cloud computing industry compared to its competitors?",
+                98
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "22%"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.069654800929129,
+            "number_input_tokens": 58
+        },
+        "generated_text": "8 years",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many years did barack obama serve as president for usa",
+                58
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "8 years"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0235309558920562,
+            "number_input_tokens": 93
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which law school has a longer history, monterey college of law or san joaquin college of law?",
+                93
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "san joaquin college of law"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.79375985218212,
+            "number_input_tokens": 117
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has had more number one hits on the us billboard dance/electronic songs chart, calvin harris or the chainsmokers?",
+                117
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the chainsmokers"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8311498649418354,
+            "number_input_tokens": 47
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did one for all start performing together?",
+                47
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1993"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1675364300608635,
+            "number_input_tokens": 43
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many tours has beyonc\u00e9 gone on by 2006?",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "beyonc\u00e9 went on one tour herself and co-headlined an additional tour by 2006."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9432679191231728,
+            "number_input_tokens": 53
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the global box office revenue for caught up?",
+                53
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "6754484"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9653850537724793,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the nasdaq 100 index has the highest return on assets (roa)?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest roa in the nasdaq 100 index is nvidia, with an roa of 55.67%."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.812267739791423,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the opening price of nike stock in january last year?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$118.55"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.2490414292551577,
+            "number_input_tokens": 41
+        },
+        "generated_text": "Daniel Kwan and Daniel Scheinert.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who directed swiss army man, can you say?",
+                41
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "daniel scheinert"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9716493361629546,
+            "number_input_tokens": 52
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who is the youngest player in the san antonio spurs?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "sidy cissoko is the youngest player of the san antonio spurs."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9699045629240572,
+            "number_input_tokens": 76
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has kanye west won the grammy award for producer of the year?",
+                76
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "kanye west has never won the grammy award for producer of the year, however he was nominated in 2019."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8211606941185892,
+            "number_input_tokens": 71
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the russell 2000 index has the highest dividend yield?",
+                71
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest dividend yield in the russell 2000 index is b. riley financial, with a dividend yield of 23.65%."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.061794721055776,
+            "number_input_tokens": 42
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the four great lakes in michigan?",
+                42
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "superior, michigan, huron and erie."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9272560919634998,
+            "number_input_tokens": 104
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most career wins in the nfl among quarterbacks who have never been to a super bowl?",
+                104
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "philip rivers has the most career wins in the nfl among quarterbacks who have never been to a super bowl, with 134 wins."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.2991116400808096,
+            "number_input_tokens": 108
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the total number of shares traded for special opportunities fund during the first week of february?",
+                108
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "93600"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9903933368623257,
+            "number_input_tokens": 82
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did serena williams win their first grand slam title in men's singles tennis?",
+                82
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.804455870296806,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which has a greater market capitalization, tron or mgrm?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "mgrm"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9093668079003692,
+            "number_input_tokens": 71
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the number of shares traded for adsk on the final trading day?",
+                71
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "951000"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.189764013979584,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which animal has a longer gestation period, whale or giraffe?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "whale"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0965903298929334,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the final score of los angeles lakers's game on 2023-05-22?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "111"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8742866939865053,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when was the last time the yankees won the world series?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2009"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8202557661570609,
+            "number_input_tokens": 100
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "i'm curious to know, which of the two stars, procyon or arcturus, is the brighter object in the sky?",
+                100
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "arcturus"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8109584730118513,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on 2022-10-11, how many points did bulls put up in their game?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "127"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.064130486920476,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "could you provide me with the price-to-earnings ratio of gps?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "15.52"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.817551668267697,
+            "number_input_tokens": 47
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which children does arnold schwarzenegger have?",
+                47
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "arnold schwarzenegger has five children, including katherine schwarzenegger, patrick schwarzenegger and joseph baena."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9906446388922632,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who is the chair of the federal reserve?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "jerome powell"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.124823630787432,
+            "number_input_tokens": 83
+        },
+        "generated_text": "2017: Chance the Rapper \n2018: Alessia Cara \n2019: Dua Lipa",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who were awarded the best new artist from 59th grammy (2016) to 61st grammy (2018)?",
+                83
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "chance the rapper, alessia cara, dua lipa"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.087218423373997,
+            "number_input_tokens": 38
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many kids does justin beiber have?",
+                38
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0124584971927106,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which movie had the higher box office earnings, whiplash or the big lebowski?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "whiplash had a box office earnings, with a profit of $49 million, while the big lebowski earned $46.7 million."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0848099631257355,
+            "number_input_tokens": 70
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what time did the noto earthquake in japan happened in january of 2022",
+                70
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 374.7619865150191,
+            "number_input_tokens": 60
+        },
+        "generated_text": "404, 470, 678, 770, 762, 229, 912, 478, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, 229, ",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "i need to know the area codes for the atlanta. can you help?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "404, 678, 470, 943, 770"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9363231770694256,
+            "number_input_tokens": 60
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many different record labels has eminem been signed for?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "throughout his career, eminem has been signed to 5 different record labels."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.063343578018248,
+            "number_input_tokens": 72
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has been in more stage productions, idris elba or denzel washington?",
+                72
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "denzel washington has been in more stage productions than idris elba , with his roles in plays like \"fences\" and \"a raisin in the sun\", while elba has primarily focused on film and tv roles, with only a few stage appearances in plays like \"hamlet\" and \"the wire\"."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9349883529357612,
+            "number_input_tokens": 52
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who ordered the building of the blue mosque, tabriz?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "jahan shah"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8839903599582613,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has had a longer career in music, the beattles or elvis presley?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "elvis presley"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9253247347660363,
+            "number_input_tokens": 51
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the total market worth of indb as of today?",
+                51
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$2,256,297,068.58"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.297763566020876,
+            "number_input_tokens": 124
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what year did ben-hur win the most academy awards in a single year, including best picture, best director, and best actress?",
+                124
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.06213307287544,
+            "number_input_tokens": 64
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has won more american music awards, drake or kendrick lamar?",
+                64
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "drake has won more american music awards than kendrick lamar, with eight wins compared to kendrick's 4 wins."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.04741888679564,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many people live in the smallest state in the us by area?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the smallest state in the us by area, rhode island, has a population of 1,097,379."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.170723309274763,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many minarets does al-muhdhar mosque have?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9090134389698505,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what's the current score of rayo vallecano's game today?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0711105330847204,
+            "number_input_tokens": 66
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company has a higher price-to-book ratio, splunk or mongodb?",
+                66
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "as of the current financial data, splunk has a higher price-to-book ratio than mongodb, with a price-to-book ratio of 132.33 compared to mongodb's 32.98."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8908118647523224,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how old is dave franco's oldest brother?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "dave franco's oldest brother, james franco, is 45 years old."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1214900841005147,
+            "number_input_tokens": 44
+        },
+        "generated_text": "Wrangell-St. Elias National Park and Preserve.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the largest national park in the us?",
+                44
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "wrangell-st. elias national park & preserve"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8790873689576983,
+            "number_input_tokens": 66
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "for the fall of saigon, can you tell me who was the main director?",
+                66
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "michael dutfield"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.6445213630795479,
+            "number_input_tokens": 82
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the nasdaq 100 index has the highest ratio of green energy usage?",
+                82
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest percentage of renewable energy usage in the nasdaq 100 index is google (alphabet), with over 106% of its total power usage coming from green energy."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.041842207778245,
+            "number_input_tokens": 87
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in 1990 who received the best actor oscar for their outstanding performance in a movie?",
+                87
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "daniel day lewis"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9408021490089595,
+            "number_input_tokens": 65
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what year did david cassidy release their hit song \"white horse\"?",
+                65
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9004172943532467,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was dallas mavericks's win tally in 2022?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "67"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1558920331299305,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which artist was younger, alice cooper or nina simone?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "alice cooper"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.7308231969363987,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on which day did the gdev inc. warrant distribute dividends in the last year?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "none of the days"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.992975058965385,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "where did g. p. nerli paint whistler's mother?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.1003752667456865,
+            "number_input_tokens": 37
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many masters has tiger woods won?",
+                37
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "5 times"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.022130475845188,
+            "number_input_tokens": 83
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in 2021-12, which teams were able to take down houston rockets and come out on top?",
+                83
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "charlotte hornets, chicago bulls, cleveland cavaliers, indiana pacers, los angeles lakers, memphis grizzlies, miami heat, milwaukee bucks, new york knicks"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.0962774278596044,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who among patricia place and lana clarkson is younger?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "lana clarkson"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.7020853352732956,
+            "number_input_tokens": 60
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has brooks koepka won the masters tournament?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.9660721998661757,
+            "number_input_tokens": 90
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when forest whitaker won his/her first oscar best actor, which movie won the best picture?",
+                90
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the departed"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.986342360265553,
+            "number_input_tokens": 79
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which one has the higher trading volume on the last trading day, sbux or  hsic?",
+                79
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "sbux"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 1.8731695120222867,
+            "number_input_tokens": 27
+        },
+        "generated_text": "The Treaty of Ghent.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what ended the war of 1812?",
+                27
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "on february 16, 1815, the day president james madison sent the treaty of ghent to the senate, senators approved it unanimously. with ratification of this treaty, the war of 1812 came to an end."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.2273800037801266,
+            "number_input_tokens": 80
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has taylor swift won the billboard award for best country artist?",
+                80
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "taylor swift has won the billboard award for best country artist two times, in 2013 and 2022."
+            }
+        }
+    }
+]

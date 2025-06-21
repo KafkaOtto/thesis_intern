@@ -28,7 +28,7 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_lar
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
 
 helm install -f ~/thesis/projects/thesis_intern/deployment/reranker/k8s/bm25s/values.yaml reranker-bm25s ~/thesis/projects/thesis_intern/deployment/reranker/k8s/bm25s
-helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t1-threshold0.58.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
+helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t2-reranking.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
 
 LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
 

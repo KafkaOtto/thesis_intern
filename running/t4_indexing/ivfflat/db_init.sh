@@ -23,7 +23,7 @@ sleep 20
 
 echo "📦 Copying SQL scripts to pod..."
 INIT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/1__initialization_script.sql"
-SCHEMA_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/2__schema_script_ivfflat.sql"
+SCHEMA_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/2__schema_script.sql"
 kubectl cp "$INIT_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/1__initialization_script.sql"
 kubectl cp "$SCHEMA_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/2__schema_script.sql"
 
@@ -76,6 +76,13 @@ while true; do
   fi
   sleep 5
 done
+
+IVFFLAT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/ivfflat.sql"
+kubectl cp "$IVFFLAT_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/ivfflat.sql"
+
+echo "🚀 Running ivfflat script..."
+kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -f /tmp/ivfflat.sql"
+
 
 kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -d ragdb -c 'SELECT COUNT(*) FROM text_segments;'"
 

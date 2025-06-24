@@ -49,8 +49,7 @@ create table rag.text_segments
     embedding   vector(1024)
 );
 
--- Create HNSW index
-CREATE INDEX ON rag.text_segments USING hnsw (embedding vector_cosine_ops);
+-- Create ivfflat index
 CREATE INDEX ON rag.text_segments USING ivfflat (embedding vector_cosine_ops) WITH (lists = 175);
 
 alter table rag.text_segments

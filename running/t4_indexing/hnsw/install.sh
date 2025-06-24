@@ -27,7 +27,7 @@ kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_lar
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml
 kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
 
-helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t4-indexing.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
+helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t4-indexing-hnsw.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
 
 LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
 

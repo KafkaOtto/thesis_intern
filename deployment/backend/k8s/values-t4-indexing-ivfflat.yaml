@@ -7,7 +7,7 @@ replicaCount: 1
 # need to be fully qualified
 properties:
   spring.datasource.url: jdbc:postgresql://pgvector:5432/ragdb
-  spring.datasource.hikari.connection-init-sql: "SET ivfflat.probes = 13"
+  spring.datasource.hikari.connection-init-sql: "SET ivfflat.probes = 1"
   spring.ai.embedding.endpointUrl: http://e5-large-v2:8000/
   spring.ai.embedding.model-name: "intfloat/e5-large-v2"
   spring.ai.embedding.model-type: vllm

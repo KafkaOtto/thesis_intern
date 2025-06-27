@@ -37,6 +37,8 @@ spec:
             secretKeyRef:
               name: hf-token-secret
               key: token
+        - name: VLLM_LOG_LEVEL
+          value: DEBUG
         ports:
         - containerPort: 8002
         resources:

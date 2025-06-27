@@ -10,7 +10,7 @@ helm install --wait --generate-name \
      nvidia/gpu-operator \
      --set driver.enabled=false
 
-helm install pgvector ~/thesis/projects/thesis_intern/deployment/postgre/helm-pgvector/helm/pgvector --set postgresql.password=root --set resources.limits.memory=6Gi --set resources.requests.memory=4Gi
+helm install pgvector ~/thesis/projects/thesis_intern/deployment/postgre/helm-pgvector/helm/pgvector-hnsw --set postgresql.password=root --set resources.limits.memory=6Gi --set resources.requests.memory=4Gi
 
 PG_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^pgvector-' | head -n 1)
 if [ -z "$PG_POD_NAME" ]; then

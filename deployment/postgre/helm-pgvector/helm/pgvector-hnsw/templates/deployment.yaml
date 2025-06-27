@@ -29,13 +29,15 @@ spec:
               value: {{ .Values.postgresql.password }}
             - name: POSTGRES_DB
               value: {{ .Values.postgresql.database }}
+            - name: PGOPTIONS
+              value: "-c dynamic_shared_memory_type=mmap"
           resources:
             {{- toYaml .Values.resources | nindent 12 }}
           volumeMounts:
             - name: data
               mountPath: /bitnami/postgresql
-            - name: dshm                                # [PATCH] Mount /dev/shm
-              mountPath: /dev/shm
+            - name: dshm
+              mountPath: /shm
       volumes:
         - name: data
           {{- if .Values.persistence.enabled }}
@@ -44,7 +46,7 @@ spec:
           {{- else }}
           emptyDir: {}
           {{- end }}
-        - name: dshm                                    # [PATCH] Add shared memory volume
+        - name: dshm
           emptyDir:
             medium: Memory
             sizeLimit: 6Gi

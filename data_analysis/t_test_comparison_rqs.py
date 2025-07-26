@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 from helpers.read_to_df import load_to_df
 from scipy.stats import shapiro, ttest_rel
-from helpers.utils import LABEL_MAPPING, TREATMENT_MAPPING, RED, RESET
-from helpers.load_plots import plot_effect_sizes, plot_percentage_change
+from helpers.utils import LABEL_MAPPING, TREATMENT_MAPPING, RED, RESET, group_orders_combo
+from helpers.load_plots import plot_metrics_comparison
 
 def compute_cohens_d(control_values, treatment_values):
     diff = np.array(control_values) - np.array(treatment_values)
@@ -13,14 +13,8 @@ def compute_cohens_d(control_values, treatment_values):
     small_constant = 1e-8  # Small constant to prevent division by zero
     cohens_d = mean_diff / (pooled_std + small_constant)
     return cohens_d
-def pvalue_formatter(x):
-    if isinstance(x, (float, int)):
-        if x < 0.0001:
-            return "<0.0001"
-        return f"{x:.5f}"
-    return str(x)
 
-def perform_paired_ttests_with_effect_size(df, group_orders, column, label, one_tailed=False):
+def perform_paired_ttests_with_effect_size(df, group, column, label, one_tailed=False):
     p_values = []
     treatment_labels = []
     variable_labels = []
@@ -38,12 +32,9 @@ def perform_paired_ttests_with_effect_size(df, group_orders, column, label, one_
 
     grouped = df.groupby(["treatment", "variable"])[column]
 
-    for group in group_orders:
-        for group_t, group_vs in group.items():
+    for item_group in group_orders_combo:
+        for group_t, group_vs in item_group.items():
             for group_v in group_vs:
-                if group_v == "thresholds_base0.58" and group_t == "t1":
-                    continue
-
                 values = grouped.get_group((group_t, group_v))
                 if values.size == 0:
                     continue
@@ -69,40 +60,36 @@ def perform_paired_ttests_with_effect_size(df, group_orders, column, label, one_
                 )
                 effect_sizes.append(cohens_d)
                 p_values.append(p_value)
-                treatment_labels.append(TREATMENT_MAPPING.get(group_t, group_t))
-                variable_labels.append(LABEL_MAPPING.get(group_v, group_v))
+                # treatment_labels.append(TREATMENT_MAPPING.get(group_t, group_t))
+                # variable_labels.append(LABEL_MAPPING.get(group_v, group_v))
 
                 control_mean = np.mean(control_values)
                 val_mean = np.mean(values)
                 percentage_decrease = ((val_mean - control_mean) / control_mean) * 100
-                percentage_changes.append(percentage_decrease)
+                if 'accuracy' in column:
+                    percentage_changes.append(percentage_decrease)
+                else:
+                    percentage_changes.append(-percentage_decrease)
 
-    palette = None
     corrected_p_values = holm_bonferroni_correction(p_values)
 
-    # Create a results DataFrame for pretty printing
+    i = 0
+    result_percentage_changes = []
 
-    results_df = pd.DataFrame({
-        'Treatment': treatment_labels,
-        'Variable': variable_labels,
-        "Percentage changes": [f"{x:.2f}" for x in percentage_changes],
-        'Adj. p-value': ["<0.0001" if x < 0.0001 else f"{x:.5f}" for x in corrected_p_values],
-        'Effect Size': [f"{x:.3f}" for x in effect_sizes],
-        # 'p-value': ["<0.0001" if x < 0.0001 else f"{x:.5f}" for x in p_values],
-        'Significant': ['Yes' if p < 0.05 else 'No' for p in corrected_p_values]
-    })
+    for item_group in group_orders_combo:
+        for group_t, group_vs in item_group.items():
+            for group_v in group_vs:
+                if group_t == group:
+                    treatment_labels.append(TREATMENT_MAPPING.get(group_t, group_t))
+                    variable_labels.append(LABEL_MAPPING.get(group_v, group_v))
+                    if corrected_p_values[i] < 0.05:
+                        result_percentage_changes.append(percentage_changes[i])
+                    else:
+                        result_percentage_changes.append(0.0)
+                i += 1
 
+    return treatment_labels, variable_labels, result_percentage_changes
 
-    # Print the results in a pretty format
-    print("\n" + "=" * 80)
-    print(f"Statistical Analysis Results for {column}")
-    print("=" * 80)
-    print(results_df.to_markdown(
-        index=False,
-    ))
-    plot_effect_sizes(effect_sizes, treatment_labels, variable_labels, f"t_test_{column}", corrected_p_values,
-                              palette=palette)
-    plot_percentage_change(percentage_changes, treatment_labels, variable_labels, f"percentage_change_{column}", corrected_p_values, palette=palette)
 
 
 def holm_bonferroni_correction(p_values):
@@ -118,20 +105,30 @@ def holm_bonferroni_correction(p_values):
 
 metrics = ["energy", "responses", "accuracies"]
 
-group_orders = [
-    {"t1" : ["thresholds_base0.58", "thresholds_0.68", "thresholds_0.78", "thresholds_0.88"]},
-    {"t2": ["reranking_bm25s"]},
-    {"t3": ["embedding_768", "embedding_384"]},
-    {"t4": ["indexing_ivfflat", "indexing_hnsw"]},
-    {"t6": ["caching_prefix"]},
-]
-
 base_dir = "../results/output_with_ram"
 
 df = load_to_df(base_dir)
 
-# plot_metrics_correlation_matrix(df, ["energy consumption", "latency"])
-print(df.to_markdown())
-perform_paired_ttests_with_effect_size(df, group_orders, column="energy_total", label="energy(J)", one_tailed=True)
-perform_paired_ttests_with_effect_size(df, group_orders, column="latency", label="latency(ms)", one_tailed=False)
-perform_paired_ttests_with_effect_size(df, group_orders, column="accuracy", label="accuracy(%)", one_tailed=False)
+for group in group_orders_combo:
+    group_k = list(group.keys())[0]
+    treatment_labels, variable_labels, energy_percentage_changes = perform_paired_ttests_with_effect_size(df, group=group_k, column="energy_total", label="energy(J)", one_tailed=True)
+    treatment_labels, variable_labels, accuracy_percentage_changes = perform_paired_ttests_with_effect_size(df, group=group_k, column="accuracy", label="accuracy(%)", one_tailed=False)
+    treatment_labels, variable_labels, latency_percentage_changes = perform_paired_ttests_with_effect_size(df, group=group_k, column="latency", label="latency(ms)", one_tailed=False)
+
+    # For energy vs latency comparison
+    # plot_metrics_comparison(
+    #     metrics_data={'energy reduction': energy_percentage_changes, 'latency decrease': latency_percentage_changes},
+    #     treatment_labels=treatment_labels,
+    #     variable_labels=variable_labels,
+    #     title="Energy vs Latency Comparison",
+    #     save_path=f"plots/energy_latency_comparison_{group_k}.png"
+    # )
+
+    # For all three metrics comparison
+    plot_metrics_comparison(
+        metrics_data={'energy reduction': energy_percentage_changes, 'latency reduction': latency_percentage_changes, 'accuracy changes': accuracy_percentage_changes},
+        treatment_labels=treatment_labels,
+        variable_labels=variable_labels,
+        title="Energy, Latency and Accuracy Comparison",
+        save_path=f"plots/all_metrics_comparison_{group_k}.pdf"
+    )

@@ -17,17 +17,17 @@ helm install kepler kepler/kepler \
   --wait
 
 # LLM
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/secret.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/deployment.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/service.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/llm/k8s/llama3_1/pvc.yaml
+kubectl apply -f "$BASE_DIR/deployment/llm/k8s/llama3_1/secret.yaml"
+kubectl apply -f "$BASE_DIR/deployment/llm/k8s/llama3_1/deployment.yaml"
+kubectl apply -f "$BASE_DIR/deployment/llm/k8s/llama3_1/service.yaml"
+kubectl apply -f "$BASE_DIR/deployment/llm/k8s/llama3_1/pvc.yaml"
 
 # Embedding
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/pvc.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/deployment.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_large_v2/service.yaml
+kubectl apply -f "$BASE_DIR/deployment/embedding/k8s/e5_large_v2/pvc.yaml"
+kubectl apply -f "$BASE_DIR/deployment/embedding/k8s/e5_large_v2/deployment.yaml"
+kubectl apply -f "$BASE_DIR/deployment/embedding/k8s/e5_large_v2/service.yaml"
 
-helm install -f ~/thesis/projects/thesis_intern/deployment/backend/k8s/values-t4-indexing-hnsw.yaml chat-backend ~/thesis/projects/thesis_intern/deployment/backend/k8s
+helm install -f "$BASE_DIR/deployment/backend/k8s/values-t4-indexing-hnsw.yaml" chat-backend "$BASE_DIR/deployment/backend/k8s"
 
 LLM_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^llama' | head -n 1)
 

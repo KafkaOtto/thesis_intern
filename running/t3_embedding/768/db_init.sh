@@ -10,7 +10,7 @@ helm install --wait --generate-name \
      nvidia/gpu-operator \
      --set driver.enabled=false
 
-helm install pgvector ~/thesis/projects/thesis_intern/deployment/postgre/helm-pgvector/helm/pgvector --set postgresql.password=root
+helm install pgvector "$BASE_DIR/deployment/postgre/helm-pgvector/helm/pgvector" --set postgresql.password=root
 
 PG_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^pgvector-' | head -n 1)
 if [ -z "$PG_POD_NAME" ]; then
@@ -22,8 +22,8 @@ echo "Detected pod: $PG_POD_NAME"
 sleep 20
 
 echo "📦 Copying SQL scripts to pod..."
-INIT_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/1__initialization_script.sql"
-SCHEMA_SCRIPT="$HOME/thesis/projects/thesis_intern/deployment/postgre/scripts/2__schema_script_embd768.sql"
+INIT_SCRIPT="$BASE_DIR/deployment/postgre/scripts/1__initialization_script.sql"
+SCHEMA_SCRIPT="$BASE_DIR/deployment/postgre/scripts/2__schema_script_embd768.sql"
 kubectl cp "$INIT_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/1__initialization_script.sql"
 kubectl cp "$SCHEMA_SCRIPT" "$NAMESPACE/$PG_POD_NAME:/tmp/2__schema_script.sql"
 
@@ -33,9 +33,9 @@ kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql 
 echo "🚀 Running schema script..."
 kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -f /tmp/2__schema_script.sql"
 
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/pvc.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/deployment_gpu.yaml
-kubectl apply -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/service.yaml
+kubectl apply -f "$BASE_DIR/deployment/embedding/k8s/e5_base_v2/pvc.yaml"
+kubectl apply -f "$BASE_DIR/deployment/embedding/k8s/e5_base_v2/deployment_gpu.yaml"
+kubectl apply -f "$BASE_DIR/deployment/embedding/k8s/e5_base_v2/service.yaml"
 
 EMB_POD_NAME=$(kubectl get pods -n "$NAMESPACE" --no-headers -o custom-columns=":metadata.name" | grep '^e5-base-v2' | head -n 1)
 
@@ -48,13 +48,13 @@ echo "pod $EMB_POD_NAME in Ready status..."
 DOCKER_PAS=$(aws ecr get-login-password --region eu-central-1)
 
 kubectl create secret docker-registry "awssecret" \
-  --docker-server=214775410005.dkr.ecr.eu-central-1.amazonaws.com \
-  --docker-email=zhinuan.guo@softwareimprovementgroup.com \
+  --docker-server="$ECR_REGISTRY" \
+  --docker-email="$DOCKER_EMAIL" \
   --docker-username=AWS \
   --docker-password="$DOCKER_PAS"
 
 
-helm install -f /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s/values-t3-e5-base-v2.yaml importer /home/otto/thesis/projects/thesis_intern/deployment/data_importer/k8s
+helm install -f "$BASE_DIR/deployment/data_importer/k8s/values-t3-e5-base-v2.yaml" importer "$BASE_DIR/deployment/data_importer/k8s"
 
 echo "Waiting for importer pod to start..."
 until kubectl get pods -o name | grep -q importer-springboot-helm-chart; do
@@ -79,6 +79,6 @@ done
 
 kubectl exec -i "$PG_POD_NAME" -n "$NAMESPACE" -- bash -c "PGPASSWORD=root psql -U postgres -d ragdb -c 'SELECT COUNT(*) FROM text_segments;'"
 
-kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/deployment_gpu.yaml
-kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/service.yaml
-kubectl delete -f ~/thesis/projects/thesis_intern/deployment/embedding/k8s/e5_base_v2/pvc.yaml
+kubectl delete -f "$BASE_DIR/deployment/embedding/k8s/e5_base_v2/deployment_gpu.yaml"
+kubectl delete -f "$BASE_DIR/deployment/embedding/k8s/e5_base_v2/service.yaml"
+kubectl delete -f "$BASE_DIR/deployment/embedding/k8s/e5_base_v2/pvc.yaml"

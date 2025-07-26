@@ -4,7 +4,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.689525257097557,
+            "end_to_end_latency_s": 1.2578044380061328,
             "number_input_tokens": 33
         },
         "generated_text": "$-0.55",
@@ -26,10 +26,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.450067800004035,
+            "end_to_end_latency_s": 0.81666847364977,
             "number_input_tokens": 39
         },
-        "generated_text": "HARIBO is the acronym that comprises the founder's name and the city in which the company was born: HAns RIegel BOnn.",
+        "generated_text": "Hans Riegel Bonn.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -48,10 +48,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.38363288086839,
+            "end_to_end_latency_s": 0.7025156919844449,
             "number_input_tokens": 57
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -70,7 +70,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.1748524201102555,
+            "end_to_end_latency_s": 0.736700545065105,
             "number_input_tokens": 45
         },
         "generated_text": "7,641",
@@ -92,7 +92,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.126721133943647,
+            "end_to_end_latency_s": 0.8405485958792269,
             "number_input_tokens": 46
         },
         "generated_text": "Assets, Liabilities, and Equity.",
@@ -114,7 +114,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6827275389805436,
+            "end_to_end_latency_s": 0.7826039767824113,
             "number_input_tokens": 69
         },
         "generated_text": "I don't know.",
@@ -136,10 +136,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.012362360022962,
+            "end_to_end_latency_s": 0.7995241549797356,
             "number_input_tokens": 84
         },
-        "generated_text": "Cars (2006) had a higher box office gross worldwide ($461,983,149) than Cars 2 (2011) ($191,450,000).",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -158,7 +158,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7166651720181108,
+            "end_to_end_latency_s": 0.7757545169442892,
             "number_input_tokens": 88
         },
         "generated_text": "I don't know.",
@@ -180,7 +180,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.13210574304685,
+            "end_to_end_latency_s": 0.787894494831562,
             "number_input_tokens": 54
         },
         "generated_text": "I don't know.",
@@ -202,7 +202,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.170556809054688,
+            "end_to_end_latency_s": 0.7595611726865172,
             "number_input_tokens": 69
         },
         "generated_text": "I don't know",
@@ -224,10 +224,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.623364869970828,
+            "end_to_end_latency_s": 0.7959028580226004,
             "number_input_tokens": 43
         },
-        "generated_text": "Lamb.",
+        "generated_text": "Lamb has more fat.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -246,10 +246,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.316551614087075,
+            "end_to_end_latency_s": 0.7532833749428391,
             "number_input_tokens": 81
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -268,10 +268,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.29088262305595,
+            "end_to_end_latency_s": 0.7792705027386546,
             "number_input_tokens": 104
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -290,7 +290,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.801706494065002,
+            "end_to_end_latency_s": 0.6943376259878278,
             "number_input_tokens": 50
         },
         "generated_text": "4",
@@ -312,7 +312,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.09414050122723,
+            "end_to_end_latency_s": 0.8023798749782145,
             "number_input_tokens": 50
         },
         "generated_text": "I don't know.",
@@ -334,7 +334,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.079841244965792,
+            "end_to_end_latency_s": 0.7656242181546986,
             "number_input_tokens": 25
         },
         "generated_text": "$2.55B",
@@ -356,10 +356,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.587581109022722,
+            "end_to_end_latency_s": 0.808131464291364,
             "number_input_tokens": 52
         },
-        "generated_text": "In the Land of Blood and Honey.",
+        "generated_text": "In the Land of Blood and Honey",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -378,10 +378,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.747845279984176,
+            "end_to_end_latency_s": 0.7478308589197695,
             "number_input_tokens": 70
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -400,7 +400,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.92698918399401,
+            "end_to_end_latency_s": 0.797079673036933,
             "number_input_tokens": 67
         },
         "generated_text": "Titanic (1997)",
@@ -422,10 +422,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.478007294004783,
+            "end_to_end_latency_s": 0.7530955038964748,
             "number_input_tokens": 40
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -444,7 +444,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.78389810398221,
+            "end_to_end_latency_s": 0.9715793044306338,
             "number_input_tokens": 48
         },
         "generated_text": "Dan Reynolds, Wayne Sermon, Ben McKee, and Daniel Platzman.",
@@ -466,7 +466,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.383782777003944,
+            "end_to_end_latency_s": 0.7905688965693116,
             "number_input_tokens": 87
         },
         "generated_text": "I don't know.",
@@ -488,7 +488,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.833352338988334,
+            "end_to_end_latency_s": 0.6923392941243947,
             "number_input_tokens": 35
         },
         "generated_text": "11",
@@ -510,7 +510,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.224216633941978,
+            "end_to_end_latency_s": 0.6914165881462395,
             "number_input_tokens": 61
         },
         "generated_text": "16",
@@ -532,7 +532,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.014150026021525,
+            "end_to_end_latency_s": 0.7789851217530668,
             "number_input_tokens": 61
         },
         "generated_text": "I don't know.",
@@ -554,7 +554,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.566418279893696,
+            "end_to_end_latency_s": 0.7726304619573057,
             "number_input_tokens": 81
         },
         "generated_text": "I don't know.",
@@ -576,10 +576,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.4781555419322103,
+            "end_to_end_latency_s": 0.7480875379405916,
             "number_input_tokens": 43
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -598,7 +598,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5934632120188326,
+            "end_to_end_latency_s": 0.7703042612411082,
             "number_input_tokens": 68
         },
         "generated_text": "I don't know.",
@@ -620,10 +620,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.368410303024575,
+            "end_to_end_latency_s": 1.6787682841531932,
             "number_input_tokens": 62
         },
-        "generated_text": "Music of the Sun (2005), A Girl like Me (2006), Good Girl Gone Bad (2007), Rated R (2009), Loud (2010), Talk That Talk (2011), Unapologetic (2012), Anti (2016)",
+        "generated_text": "Music of the Sun (2005), A Girl Like Me (2006), Good Girl Gone Bad (2007), Rated R (2009), Loud (2010), Talk That Talk (2011), Unapologetic (2012), Anti (2016)",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -642,7 +642,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.057218289002776,
+            "end_to_end_latency_s": 0.7898564739152789,
             "number_input_tokens": 98
         },
         "generated_text": "I don't know.",
@@ -664,7 +664,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3834919210057706,
+            "end_to_end_latency_s": 0.7485421509481966,
             "number_input_tokens": 67
         },
         "generated_text": "I don't know.",
@@ -686,7 +686,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.612915529171005,
+            "end_to_end_latency_s": 0.7745109340175986,
             "number_input_tokens": 118
         },
         "generated_text": "I don't know.",
@@ -708,7 +708,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3749159041326493,
+            "end_to_end_latency_s": 0.7676866096444428,
             "number_input_tokens": 96
         },
         "generated_text": "I don't know.",
@@ -730,7 +730,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.822950839996338,
+            "end_to_end_latency_s": 0.7961681368760765,
             "number_input_tokens": 40
         },
         "generated_text": "I don't know.",
@@ -752,7 +752,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.575517453951761,
+            "end_to_end_latency_s": 0.6950988471508026,
             "number_input_tokens": 34
         },
         "generated_text": "4",
@@ -774,7 +774,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.202915555099025,
+            "end_to_end_latency_s": 0.7193193933926523,
             "number_input_tokens": 38
         },
         "generated_text": "2006",
@@ -796,7 +796,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9291243341285735,
+            "end_to_end_latency_s": 0.7961773062124848,
             "number_input_tokens": 51
         },
         "generated_text": "John F. Clauser",
@@ -818,10 +818,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7040709091816097,
+            "end_to_end_latency_s": 0.807290303055197,
             "number_input_tokens": 108
         },
-        "generated_text": "19-6-3",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -840,10 +840,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.479541489155963,
+            "end_to_end_latency_s": 0.7631375091150403,
             "number_input_tokens": 62
         },
-        "generated_text": "Yes. Colin Dench.",
+        "generated_text": "Colin Dench",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -862,7 +862,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5504280189052224,
+            "end_to_end_latency_s": 0.7284644632600248,
             "number_input_tokens": 98
         },
         "generated_text": "23%",
@@ -884,10 +884,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8785829830449075,
+            "end_to_end_latency_s": 0.7312908037565649,
             "number_input_tokens": 58
         },
-        "generated_text": "8 years",
+        "generated_text": "31 years",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -906,10 +906,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.966815237887204,
+            "end_to_end_latency_s": 0.7618737607263029,
             "number_input_tokens": 93
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -928,10 +928,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.277940436033532,
+            "end_to_end_latency_s": 0.8049982702359557,
             "number_input_tokens": 117
         },
-        "generated_text": "The Chainsmokers.",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -950,10 +950,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.114424251019955,
+            "end_to_end_latency_s": 0.7859464948996902,
             "number_input_tokens": 47
         },
-        "generated_text": "1997",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -972,10 +972,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.492300843121484,
+            "end_to_end_latency_s": 0.7499033669009805,
             "number_input_tokens": 43
         },
-        "generated_text": "4",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -994,10 +994,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.57871384290047,
+            "end_to_end_latency_s": 0.7761897323653102,
             "number_input_tokens": 53
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1016,7 +1016,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.321572249988094,
+            "end_to_end_latency_s": 0.7865273519419134,
             "number_input_tokens": 77
         },
         "generated_text": "I don't know.",
@@ -1038,7 +1038,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.378606465877965,
+            "end_to_end_latency_s": 0.7635018760338426,
             "number_input_tokens": 62
         },
         "generated_text": "I don't know",
@@ -1060,7 +1060,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.643926942022517,
+            "end_to_end_latency_s": 0.8498202268965542,
             "number_input_tokens": 41
         },
         "generated_text": "Daniel Scheinert and Daniel Kwan.",
@@ -1082,7 +1082,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.153421370079741,
+            "end_to_end_latency_s": 0.7947152862325311,
             "number_input_tokens": 52
         },
         "generated_text": "I don't know.",
@@ -1104,7 +1104,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.916732054902241,
+            "end_to_end_latency_s": 0.7767944769002497,
             "number_input_tokens": 76
         },
         "generated_text": "I don't know.",
@@ -1126,7 +1126,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.4170097501482815,
+            "end_to_end_latency_s": 0.78737473487854,
             "number_input_tokens": 71
         },
         "generated_text": "I don't know.",
@@ -1148,7 +1148,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5063918540254235,
+            "end_to_end_latency_s": 0.8979382510297,
             "number_input_tokens": 42
         },
         "generated_text": "Superior, Michigan, Huron, and Erie.",
@@ -1170,7 +1170,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.828197036171332,
+            "end_to_end_latency_s": 0.724009329918772,
             "number_input_tokens": 104
         },
         "generated_text": "Philip Rivers",
@@ -1192,7 +1192,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.3175042741931975,
+            "end_to_end_latency_s": 0.7793495319783688,
             "number_input_tokens": 108
         },
         "generated_text": "I don't know.",
@@ -1214,7 +1214,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.129084727959707,
+            "end_to_end_latency_s": 0.763313916977495,
             "number_input_tokens": 82
         },
         "generated_text": "I don't know.",
@@ -1236,7 +1236,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.4173087938688695,
+            "end_to_end_latency_s": 0.7957591130398214,
             "number_input_tokens": 56
         },
         "generated_text": "I don't know.",
@@ -1258,10 +1258,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5955521180294454,
+            "end_to_end_latency_s": 0.7727802218869328,
             "number_input_tokens": 71
         },
-        "generated_text": "I don't know.",
+        "generated_text": "200,916 million",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1280,7 +1280,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.937526032794267,
+            "end_to_end_latency_s": 0.7858878271654248,
             "number_input_tokens": 61
         },
         "generated_text": "I don't know.",
@@ -1302,7 +1302,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.513792551122606,
+            "end_to_end_latency_s": 0.7343467748723924,
             "number_input_tokens": 68
         },
         "generated_text": "113-111",
@@ -1324,7 +1324,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.985880136024207,
+            "end_to_end_latency_s": 0.7129146023653448,
             "number_input_tokens": 56
         },
         "generated_text": "2009",
@@ -1346,7 +1346,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8932521778624505,
+            "end_to_end_latency_s": 0.752216043882072,
             "number_input_tokens": 100
         },
         "generated_text": "I don't know.",
@@ -1368,7 +1368,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.347309018019587,
+            "end_to_end_latency_s": 0.7975364257581532,
             "number_input_tokens": 62
         },
         "generated_text": "I don't know.",
@@ -1390,10 +1390,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.455240324838087,
+            "end_to_end_latency_s": 0.45927886571735144,
             "number_input_tokens": 61
         },
-        "generated_text": "164.17",
+        "generated_text": "193.70",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1412,7 +1412,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.432411171030253,
+            "end_to_end_latency_s": 0.8931010900996625,
             "number_input_tokens": 47
         },
         "generated_text": "Katherine, Christina, Patrick, Christopher, and Joseph.",
@@ -1434,7 +1434,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.03674376104027,
+            "end_to_end_latency_s": 0.8006449448876083,
             "number_input_tokens": 40
         },
         "generated_text": "Jerome H. Powell.",
@@ -1456,7 +1456,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.73274722811766,
+            "end_to_end_latency_s": 0.9430131050758064,
             "number_input_tokens": 83
         },
         "generated_text": "2017: Chance the Rapper\n2018: Alessia Cara",
@@ -1478,7 +1478,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8130251260008663,
+            "end_to_end_latency_s": 0.7783601800911129,
             "number_input_tokens": 38
         },
         "generated_text": "I don't know.",
@@ -1500,7 +1500,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.700575762195513,
+            "end_to_end_latency_s": 0.7901877858676016,
             "number_input_tokens": 77
         },
         "generated_text": "I don't know.",
@@ -1522,10 +1522,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.671543101081625,
+            "end_to_end_latency_s": 0.7897455440834165,
             "number_input_tokens": 70
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1544,7 +1544,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.365605344995856,
+            "end_to_end_latency_s": 0.9141480531543493,
             "number_input_tokens": 60
         },
         "generated_text": "404, 470, 678, and 770.",
@@ -1566,7 +1566,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6823814150411636,
+            "end_to_end_latency_s": 0.7800595848821104,
             "number_input_tokens": 60
         },
         "generated_text": "I don't know.",
@@ -1588,7 +1588,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.29234637087211,
+            "end_to_end_latency_s": 0.7708143340423703,
             "number_input_tokens": 72
         },
         "generated_text": "I don't know.",
@@ -1610,10 +1610,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.469922114862129,
+            "end_to_end_latency_s": 0.7913025440648198,
             "number_input_tokens": 52
         },
-        "generated_text": "Jahan Shah.",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1632,7 +1632,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.277649538125843,
+            "end_to_end_latency_s": 0.7650676378980279,
             "number_input_tokens": 68
         },
         "generated_text": "I don't know.",
@@ -1654,7 +1654,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.621685116086155,
+            "end_to_end_latency_s": 0.7809982970356941,
             "number_input_tokens": 51
         },
         "generated_text": "$2.464 B",
@@ -1676,7 +1676,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.189618916017935,
+            "end_to_end_latency_s": 0.7809489751234651,
             "number_input_tokens": 124
         },
         "generated_text": "I don't know.",
@@ -1698,7 +1698,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.024803483858705,
+            "end_to_end_latency_s": 0.7740133861079812,
             "number_input_tokens": 64
         },
         "generated_text": "I don't know.",
@@ -1720,7 +1720,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.28368112212047,
+            "end_to_end_latency_s": 0.7805962571874261,
             "number_input_tokens": 61
         },
         "generated_text": "I don't know.",
@@ -1742,7 +1742,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.114814092870802,
+            "end_to_end_latency_s": 0.7720207069069147,
             "number_input_tokens": 46
         },
         "generated_text": "I don't know.",
@@ -1764,10 +1764,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.401850913884118,
+            "end_to_end_latency_s": 0.7920659892261028,
             "number_input_tokens": 56
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1786,10 +1786,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.314934222027659,
+            "end_to_end_latency_s": 0.7919468260370195,
             "number_input_tokens": 66
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1808,7 +1808,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.255037872120738,
+            "end_to_end_latency_s": 0.732849732041359,
             "number_input_tokens": 40
         },
         "generated_text": "38 years old",
@@ -1830,10 +1830,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.159508060198277,
+            "end_to_end_latency_s": 0.848767617251724,
             "number_input_tokens": 44
         },
-        "generated_text": "Wrangell St Elias National Park.",
+        "generated_text": "Wrangell-St. Elias National Park.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1852,7 +1852,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8852892860304564,
+            "end_to_end_latency_s": 0.7911574337631464,
             "number_input_tokens": 66
         },
         "generated_text": "I don't know.",
@@ -1874,7 +1874,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.582216511014849,
+            "end_to_end_latency_s": 0.7861147942021489,
             "number_input_tokens": 82
         },
         "generated_text": "I don't know.",
@@ -1896,7 +1896,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6256186401005834,
+            "end_to_end_latency_s": 0.8789999880827963,
             "number_input_tokens": 87
         },
         "generated_text": "Jeremy Irons for \"Reversal of Fortune\".",
@@ -1918,7 +1918,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6810851499903947,
+            "end_to_end_latency_s": 0.7763169817626476,
             "number_input_tokens": 65
         },
         "generated_text": "I don't know.",
@@ -1940,7 +1940,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5786999980919063,
+            "end_to_end_latency_s": 0.75602489663288,
             "number_input_tokens": 46
         },
         "generated_text": "I don't know",
@@ -1962,7 +1962,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.727618134114891,
+            "end_to_end_latency_s": 0.7824741001240909,
             "number_input_tokens": 54
         },
         "generated_text": "I don't know.",
@@ -1984,7 +1984,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.499952648067847,
+            "end_to_end_latency_s": 0.7942579071968794,
             "number_input_tokens": 77
         },
         "generated_text": "I don't know.",
@@ -2006,7 +2006,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3757878029718995,
+            "end_to_end_latency_s": 0.7801866848021746,
             "number_input_tokens": 46
         },
         "generated_text": "I don't know.",
@@ -2028,7 +2028,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.731709800893441,
+            "end_to_end_latency_s": 0.6956752338446677,
             "number_input_tokens": 37
         },
         "generated_text": "5",
@@ -2050,7 +2050,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9018182640429586,
+            "end_to_end_latency_s": 0.7942714532837272,
             "number_input_tokens": 83
         },
         "generated_text": "I don't know.",
@@ -2072,7 +2072,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.0079076630063355,
+            "end_to_end_latency_s": 0.7523131878115237,
             "number_input_tokens": 54
         },
         "generated_text": "I don't know",
@@ -2094,10 +2094,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.558591854060069,
+            "end_to_end_latency_s": 0.7205699598416686,
             "number_input_tokens": 60
         },
-        "generated_text": "I don't know.",
+        "generated_text": "No.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2116,7 +2116,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.421263661934063,
+            "end_to_end_latency_s": 0.7762214532122016,
             "number_input_tokens": 90
         },
         "generated_text": "I don't know.",
@@ -2138,10 +2138,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.795806164154783,
+            "end_to_end_latency_s": 0.787870469968766,
             "number_input_tokens": 79
         },
-        "generated_text": "710,978 (SBUX) vs 204,820 (HSIC)",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2160,10 +2160,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7923732718918473,
+            "end_to_end_latency_s": 1.0781676331534982,
             "number_input_tokens": 27
         },
-        "generated_text": "The Battle of New Orleans, January 8, 1815, and the ratification of the Treaty of Ghent on February 17, 1815.",
+        "generated_text": "The Treaty of Ghent, ratified by the U.S. Senate on February 17, 1815.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2182,7 +2182,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.205821268958971,
+            "end_to_end_latency_s": 0.7800015727989376,
             "number_input_tokens": 80
         },
         "generated_text": "I don't know.",

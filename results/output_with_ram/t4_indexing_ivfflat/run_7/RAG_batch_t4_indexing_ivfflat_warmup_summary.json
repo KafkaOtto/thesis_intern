@@ -1,8 +1,8 @@
 {
     "version": "2023-08-31",
     "name": "RAG_batch_t4_indexing_ivfflat_warmup_summary",
-    "start_time": 1748869733.6346252,
-    "end_time": 1748870379.4976037,
+    "start_time": 1751026351.8529956,
+    "end_time": 1751026433.020068,
     "number_errors": 0,
     "num_mismatched_requests": 0,
     "error_rate": 0.0,
@@ -12,5 +12,5 @@
     "model": "RAG",
     "num_concurrent_requests": 1,
     "llm_api": "RAG",
-    "timestamp": 1748870379
+    "timestamp": 1751026433
 }

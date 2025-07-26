@@ -84,8 +84,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -211,7 +211,7 @@
     },
     {
         "score": 1,
-        "explanation": "The prediction matches the ground truth as it correctly states the number of times asked in the question.",
+        "explanation": "The prediction matches the ground truth as it correctly states the number of times Taylor Swift has been named.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -574,8 +574,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -798,8 +798,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -1008,8 +1008,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -1120,8 +1120,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -1204,8 +1204,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -1260,8 +1260,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the numbers in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -1484,8 +1484,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain exactly same items as the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -1932,8 +1932,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -2184,8 +2184,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -2338,8 +2338,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -3556,8 +3556,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -3598,8 +3598,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction covers more items than what are given by the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -3738,8 +3738,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth answer, which is 'us'.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -4074,8 +4074,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -4340,8 +4340,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -4354,8 +4354,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain item, invesco and global x, that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -4397,7 +4397,7 @@
     },
     {
         "score": 0,
-        "explanation": "The prediction contains an item, patrick mahomes, which is not in ground truth.",
+        "explanation": "The prediction includes an item, patrick mahomes, which is not in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -4550,8 +4550,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -4998,8 +4998,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction correctly identifies that Michael Jordan won more rings than LeBron James.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5320,8 +5320,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5404,8 +5404,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain items, vanguard and state street, that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5474,8 +5474,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5488,8 +5488,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain all items that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5727,7 +5727,7 @@
     },
     {
         "score": 0,
-        "explanation": "The prediction does not match the ground truth, which states that 'thriller' was the better selling album.",
+        "explanation": "The prediction does not match the ground truth, which states that thriller was the better selling album.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5754,8 +5754,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -5894,8 +5894,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -6202,8 +6202,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth as it includes teams not listed in the ground truth and repeats teams multiple times.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -6468,8 +6468,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as it correctly identifies the location of their marriage.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -7196,8 +7196,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as it correctly states the number of children Rihanna has.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -7280,8 +7280,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -7364,8 +7364,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain exactly the same items as the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -7826,8 +7826,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction correctly calculates and matches the ground truth number of grand slam titles.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -7854,8 +7854,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not exactly match the ground truth as it includes an incorrect detail about the collaboration.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -8106,8 +8106,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -8526,8 +8526,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -9268,8 +9268,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction correctly identifies that Kim Kardashian has more kids than Khlo\u00e9 Kardashian.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -9436,8 +9436,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction covers more items than what are given by the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -9450,8 +9450,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction covers more items than what are given by the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -9828,8 +9828,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -9856,8 +9856,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -10333,7 +10333,7 @@
     },
     {
         "score": 1,
-        "explanation": "The prediction exactly matches the ground truth.",
+        "explanation": "The prediction matches the ground truth as it correctly identifies the album.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -10626,8 +10626,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -11270,8 +11270,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain item, pittsburgh steelers, that is in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -11284,8 +11284,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as 'six' is the word form of the number 6.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -11312,8 +11312,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -11928,8 +11928,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain exactly same items as the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -12124,8 +12124,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth, which indicates uncertainty about the answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -12880,8 +12880,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction 'quarterly' correctly matches the ground truth '4' as it implies four times a year.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -13048,8 +13048,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -13748,8 +13748,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction includes items not in the ground truth and misses the requirement to list only films released after 2017.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -13973,7 +13973,7 @@
     },
     {
         "score": 0,
-        "explanation": "The prediction does not exactly match the ground truth as it includes additional details not mentioned in the ground truth.",
+        "explanation": "The prediction does not exactly match the ground truth as it includes additional details not specified in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -14490,8 +14490,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -14700,8 +14700,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -14784,8 +14784,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -14966,8 +14966,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -14994,8 +14994,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -15078,8 +15078,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -15191,7 +15191,7 @@
     },
     {
         "score": 0,
-        "explanation": "The prediction does not provide a comparison to 2005 as asked in the question.",
+        "explanation": "The prediction does not provide the comparison as asked in the question.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -15316,8 +15316,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -15652,8 +15652,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth as it lacks the year.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -15904,8 +15904,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -17192,8 +17192,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -17458,8 +17458,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction supports the ground truth by providing the exact numbers of goals scored by both players, confirming Ronaldo has more goals.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -17472,8 +17472,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -17626,8 +17626,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as it correctly states the duration required for long-term capital gains.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -17682,8 +17682,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -17724,8 +17724,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction contains items, vivienne and knox, which are not in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -18298,8 +18298,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth answer of 5 trading days.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -18368,8 +18368,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not exactly match the ground truth items.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -18984,8 +18984,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -19264,8 +19264,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -19460,8 +19460,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain exactly same items as the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -19642,8 +19642,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -19754,8 +19754,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -20132,8 +20132,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction covers more items than what are given by the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -20398,8 +20398,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -20538,8 +20538,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction, 850 feet (approximately 259 m), does not match the ground truth, 238 m.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -20622,8 +20622,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -21154,8 +21154,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth as it lists all days in the first week of January 2024 without specifying which days the stock price closed higher.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -21504,8 +21504,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -21560,8 +21560,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -21700,8 +21700,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -22639,7 +22639,7 @@
     },
     {
         "score": 0,
-        "explanation": "The prediction does not match the ground truth, which states that none of the days are correct.",
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -23184,8 +23184,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -23688,8 +23688,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -23702,8 +23702,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain all items that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -23786,8 +23786,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -24416,8 +24416,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -24640,8 +24640,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -25144,8 +25144,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -25284,8 +25284,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not exactly match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -25410,8 +25410,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as 'english' is the same as 'en'.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -25424,8 +25424,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -25620,8 +25620,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -25718,8 +25718,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not list the exact stock exchanges as given in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -26376,8 +26376,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -27370,8 +27370,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -27482,8 +27482,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth, which indicates uncertainty about the answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -27706,8 +27706,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain all items that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -27776,8 +27776,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain any items that match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -27930,8 +27930,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -27972,8 +27972,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -28336,8 +28336,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -28546,8 +28546,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -28658,8 +28658,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -28700,8 +28700,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -28840,8 +28840,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction contains more items than the ground truth and is repetitive.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -28854,8 +28854,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -29022,8 +29022,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -29120,8 +29120,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -29484,8 +29484,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -29834,8 +29834,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not exactly match the ground truth and includes many items not listed in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -29988,8 +29988,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction is a concise and correct summary of the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -30394,8 +30394,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction covers more items than what are given by the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -30758,8 +30758,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction contains items not in the ground truth and is incomplete.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -30786,8 +30786,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -30968,8 +30968,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction contains an item, amanda nunes, which is not in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -31514,8 +31514,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32088,8 +32088,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain all items that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32214,8 +32214,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction contains an item, jarrod alexander, which is not in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32368,8 +32368,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as it correctly identifies the origin of the company name.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32396,8 +32396,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain any items that match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32452,8 +32452,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain all items that are in the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32536,8 +32536,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32634,8 +32634,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -32872,8 +32872,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth, which indicates uncertainty about the answer.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -33181,7 +33181,7 @@
     },
     {
         "score": 1,
-        "explanation": "The prediction matches the ground truth as it correctly states that rhinos weigh more than grizzly bears.",
+        "explanation": "The prediction correctly states that a rhino weighs more than a grizzly bear, matching the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -33446,8 +33446,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction exactly matches the ground truth, albeit in a different order.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -33740,8 +33740,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -34048,8 +34048,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -34118,8 +34118,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the number in ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -34986,8 +34986,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -35070,8 +35070,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 0,
+        "explanation": "The prediction does not contain any items that match the ground truth.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -35084,8 +35084,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as 'ful' is an abbreviation of 'fulham'.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [
@@ -36092,8 +36092,8 @@
         }
     },
     {
-        "score": -1,
-        "explanation": "LLM request failed",
+        "score": 1,
+        "explanation": "The prediction matches the ground truth as the Tajo River is another name for the Tagus River.",
         "request_config": {
             "model": "deepseek-chat",
             "prompt": [

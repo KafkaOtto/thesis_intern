@@ -4,12 +4,6 @@ import pandas as pd
 from .utils import RED, RESET
 
 exclude_runs = {
-    "embedding_768": ["run_9"],
-    "embedding_384": ["run_11"],
-    # "thresholds_base0.58": ["run_6"],
-    "caching_prefix": ["run_14", "run_2", "run_10", "run_8"],
-#     "threshold0.88": ["run_2"],
-    "reranking_bm25s": ["run_4", "run_5"],
 }
 
 def check_llm_fail(base_dir):

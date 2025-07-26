@@ -1,0 +1,2202 @@
+[
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.691041601356119,
+            "number_input_tokens": 33
+        },
+        "generated_text": "Data is currently not available.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what's auph's earnings per share?",
+                33
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "0.4"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.234564835205674,
+            "number_input_tokens": 39
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the etymology of haribo's name?",
+                39
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "a syllabic abbreviation formed from hans riegel bonn"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.171284906100482,
+            "number_input_tokens": 57
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the most popular song on billboard in 2024-02-28?",
+                57
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "texas hold 'em"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.7285750596784055,
+            "number_input_tokens": 45
+        },
+        "generated_text": "7,641 islands.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many islands are there in the philippines",
+                45
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the philippines is an archipelago that comprises 7,641 islands"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.054986645933241,
+            "number_input_tokens": 46
+        },
+        "generated_text": "Assets, Liabilities, and Shareholders' Equity.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the main sections on a balance sheet?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "assets, liabilities, and equity"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.943748890887946,
+            "number_input_tokens": 69
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "was what happens in vegas the title originally chosen for that movie?",
+                69
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "yes"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7988894190639257,
+            "number_input_tokens": 84
+        },
+        "generated_text": "Cars (2006) had a higher box office gross worldwide.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which cars movie had the higher box office gross worldwide, the first or the second?",
+                84
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the second"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.039268211927265,
+            "number_input_tokens": 88
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which one of these came out earlier, the greater meaning of water or small town ecstasy?",
+                88
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "small town ecstasy"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.301856643054634,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on which days did the bq stock closes lower last week?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2024-02-12, 2024-02-13, 2024-02-15, 2024-02-16"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8610927630215883,
+            "number_input_tokens": 69
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are first ten companies in the dow jones, sorted alphabetically?",
+                69
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "ten companies in the dow jones are: 3m, american express, amgen, apple, boeing, caterpillar, chenvron, cisco, coca-cola, and disney."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7266502799466252,
+            "number_input_tokens": 43
+        },
+        "generated_text": "Lamb.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what has more fat between chicken and lamb?",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "lamb has more fat at 14g compared to chicken breast at 7g."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.247194489929825,
+            "number_input_tokens": 81
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many nba championships have the golden state warriors won in the past decade?",
+                81
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the golden state warriors have won four nba championships in the past decade."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9523388650268316,
+            "number_input_tokens": 104
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "during the first week of january 2024, on which days did bkn's stock price reach a higher closing price?",
+                104
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2024-01-02, 2024-01-03, 2024-01-04"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.378445426002145,
+            "number_input_tokens": 50
+        },
+        "generated_text": "Four times.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has trevor noah hosted the grammys?",
+                50
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "4"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.916407436132431,
+            "number_input_tokens": 50
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many members are part of red hot chili pepper?",
+                50
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "red hot chili peppers currently has 4 members."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.948801933322102,
+            "number_input_tokens": 25
+        },
+        "generated_text": "$2.55B",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "nep's current market cap.",
+                25
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$2,543,205,863.73"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7191211762838066,
+            "number_input_tokens": 52
+        },
+        "generated_text": "In the Land of Blood and Honey.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what film marked angelina jolie's directorial debut?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "in the land of blood and honey released in 2011"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.240115426015109,
+            "number_input_tokens": 70
+        },
+        "generated_text": "13.05% of all billionaires in the United States in 2022, which is 735 billionaires.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many women billionaires are there in the united states as of 2023?",
+                70
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "92 as of 2023"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.446563552133739,
+            "number_input_tokens": 67
+        },
+        "generated_text": "Titanic (1997)",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in which film did leonardo dicaprio and kate winslet first co-star?",
+                67
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "titanic"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.846615618094802,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who did rihanna co-headline a tour with?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "rihanna and eminem co-headlined the monster tour in 2014"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.395998732186854,
+            "number_input_tokens": 48
+        },
+        "generated_text": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who are the members of the band imagine dragons?",
+                48
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the members of imagine dragons are dan reynolds, wayne sermon, ben mckee and daniel platzman."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.053702109027654,
+            "number_input_tokens": 87
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many actors had roles in both gifted hands: the ben carson story and bone tomahawk?",
+                87
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.198833335656673,
+            "number_input_tokens": 35
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many songs are in adele's \"21\"?",
+                35
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "there are 11 songs in the album"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.0099273370578885,
+            "number_input_tokens": 61
+        },
+        "generated_text": "16 years old.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was taylor swifts age when she released her debut album?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "16 years old"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.259685757104307,
+            "number_input_tokens": 61
+        },
+        "generated_text": "Tyler Perry.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who made the creative decisions for madea's big happy family?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "tyler perry"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.8343515708111227,
+            "number_input_tokens": 81
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the total amount of corporate bonds issued in the united states in 2020?",
+                81
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the total amount of corporate bonds issued in the united states in 2020 was $1.189 trillion."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.272200231906027,
+            "number_input_tokens": 43
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the price-to-earnings ratio of haia",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "i don't know"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6793856830336154,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which movie has a higher number of sequels, toy story or the matrix?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "they both have 4 movies total in their franchises."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.979010018054396,
+            "number_input_tokens": 62
+        },
+        "generated_text": "Music of the Sun, A Girl Like Me, Good Girl Gone Bad, Rated R, Rated R: Remixed, Loud",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the names of rihanna's albums in chronological order?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "music of the sun (2005), a girl like me (2006), good girl gone bad (2007), rated r (2009), loud (2010), talk that talk (2011), unapologetic (2012), and anti (2016)"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6663239868357778,
+            "number_input_tokens": 98
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most consecutive stolen bases in mlb history without being caught since 1980?",
+                98
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "vince coleman has the most consecutive stolen bases in mlb history without being caught, with 50 stolen bases."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.841171570122242,
+            "number_input_tokens": 67
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the language that the man who lost himself was released in?",
+                67
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "en"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6511166389100254,
+            "number_input_tokens": 118
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most career home runs in major league baseball among players who have never won a home run title?",
+                118
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "rafael palmeiro has the most career home runs in major league baseball among players who have never won a home run title, with 569 home runs."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.003004302736372,
+            "number_input_tokens": 96
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which wta player had a higher singles ranking to end last year, madison keys or daria kasatkina?",
+                96
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "madison keys"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8806196050718427,
+            "number_input_tokens": 40
+        },
+        "generated_text": "$10.53",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was tbmc's closing price yesterday?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$10.53"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.533841283991933,
+            "number_input_tokens": 34
+        },
+        "generated_text": "5",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many singers do westlife have?",
+                34
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "5"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.8195280646905303,
+            "number_input_tokens": 38
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did meryl streep stop performing?",
+                38
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7121247947216034,
+            "number_input_tokens": 51
+        },
+        "generated_text": "John F. Clauser",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who won the nobel prize in physics in 2022 from usa",
+                51
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "john f clauser"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8391284700483084,
+            "number_input_tokens": 108
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on their last game day in eng-premier league, what was manchester city's record in terms of wins and losses?",
+                108
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "d"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9749684990383685,
+            "number_input_tokens": 62
+        },
+        "generated_text": "Colin Dench",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "do you know who the director of katherine ryan: in trouble is?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "colin dench"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.553049541078508,
+            "number_input_tokens": 98
+        },
+        "generated_text": "23% (Microsoft Azure)",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the market share of microsoft in the cloud computing industry compared to its competitors?",
+                98
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "22%"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.314672112930566,
+            "number_input_tokens": 58
+        },
+        "generated_text": "2009-17",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many years did barack obama serve as president for usa",
+                58
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "8 years"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8332211966626346,
+            "number_input_tokens": 93
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which law school has a longer history, monterey college of law or san joaquin college of law?",
+                93
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "san joaquin college of law"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.0332965329289436,
+            "number_input_tokens": 117
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has had more number one hits on the us billboard dance/electronic songs chart, calvin harris or the chainsmokers?",
+                117
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the chainsmokers"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.738106558099389,
+            "number_input_tokens": 47
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did one for all start performing together?",
+                47
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1993"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.043576824944466,
+            "number_input_tokens": 43
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many tours has beyonc\u00e9 gone on by 2006?",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "beyonc\u00e9 went on one tour herself and co-headlined an additional tour by 2006."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.045454348903149,
+            "number_input_tokens": 53
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the global box office revenue for caught up?",
+                53
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "6754484"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.465158063918352,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the nasdaq 100 index has the highest return on assets (roa)?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest roa in the nasdaq 100 index is nvidia, with an roa of 55.67%."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9506354709155858,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the opening price of nike stock in january last year?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$118.55"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7345577371306717,
+            "number_input_tokens": 41
+        },
+        "generated_text": "The Daniels (Dan Kwan and Daniel Scheinert).",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who directed swiss army man, can you say?",
+                41
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "daniel scheinert"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.183835797943175,
+            "number_input_tokens": 52
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who is the youngest player in the san antonio spurs?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "sidy cissoko is the youngest player of the san antonio spurs."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.2076156428083777,
+            "number_input_tokens": 76
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has kanye west won the grammy award for producer of the year?",
+                76
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "kanye west has never won the grammy award for producer of the year, however he was nominated in 2019."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.856299865990877,
+            "number_input_tokens": 71
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the russell 2000 index has the highest dividend yield?",
+                71
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest dividend yield in the russell 2000 index is b. riley financial, with a dividend yield of 23.65%."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.167090852744877,
+            "number_input_tokens": 42
+        },
+        "generated_text": "Superior, Huron, Erie, and Michigan.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the four great lakes in michigan?",
+                42
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "superior, michigan, huron and erie."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.240870388224721,
+            "number_input_tokens": 104
+        },
+        "generated_text": "Boomer Esiason",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most career wins in the nfl among quarterbacks who have never been to a super bowl?",
+                104
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "philip rivers has the most career wins in the nfl among quarterbacks who have never been to a super bowl, with 134 wins."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.509370965883136,
+            "number_input_tokens": 108
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the total number of shares traded for special opportunities fund during the first week of february?",
+                108
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "93600"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.7175444373860955,
+            "number_input_tokens": 82
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did serena williams win their first grand slam title in men's singles tennis?",
+                82
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.4946304936893284,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which has a greater market capitalization, tron or mgrm?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "mgrm"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.4009399111382663,
+            "number_input_tokens": 71
+        },
+        "generated_text": "200,916 million",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the number of shares traded for adsk on the final trading day?",
+                71
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "951000"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.331437317188829,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which animal has a longer gestation period, whale or giraffe?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "whale"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3114261189475656,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the final score of los angeles lakers's game on 2023-05-22?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "111"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.0117161902599037,
+            "number_input_tokens": 56
+        },
+        "generated_text": "2009.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when was the last time the yankees won the world series?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2009"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.014214373193681,
+            "number_input_tokens": 100
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "i'm curious to know, which of the two stars, procyon or arcturus, is the brighter object in the sky?",
+                100
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "arcturus"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.0562559850513935,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on 2022-10-11, how many points did bulls put up in their game?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "127"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.1908615841530263,
+            "number_input_tokens": 61
+        },
+        "generated_text": "164.17",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "could you provide me with the price-to-earnings ratio of gps?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "15.52"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.006086219102144,
+            "number_input_tokens": 47
+        },
+        "generated_text": "Katherine, Christina, Patrick, Christopher, and Joseph.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which children does arnold schwarzenegger have?",
+                47
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "arnold schwarzenegger has five children, including katherine schwarzenegger, patrick schwarzenegger and joseph baena."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.362088426016271,
+            "number_input_tokens": 40
+        },
+        "generated_text": "Jerome H. Powell.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who is the chair of the federal reserve?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "jerome powell"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.5057791229337454,
+            "number_input_tokens": 83
+        },
+        "generated_text": "Meghan Trainor (2016), Chance the Rapper (2017), and Dua Lipa (2019).",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who were awarded the best new artist from 59th grammy (2016) to 61st grammy (2018)?",
+                83
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "chance the rapper, alessia cara, dua lipa"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.4276725007221103,
+            "number_input_tokens": 38
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many kids does justin beiber have?",
+                38
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6181693067774177,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which movie had the higher box office earnings, whiplash or the big lebowski?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "whiplash had a box office earnings, with a profit of $49 million, while the big lebowski earned $46.7 million."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.632430566009134,
+            "number_input_tokens": 70
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what time did the noto earthquake in japan happened in january of 2022",
+                70
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.0291990148834884,
+            "number_input_tokens": 60
+        },
+        "generated_text": "404, 470, 678, 770.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "i need to know the area codes for the atlanta. can you help?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "404, 678, 470, 943, 770"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.211794528178871,
+            "number_input_tokens": 60
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many different record labels has eminem been signed for?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "throughout his career, eminem has been signed to 5 different record labels."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.266905257012695,
+            "number_input_tokens": 72
+        },
+        "generated_text": "Denzel Washington.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has been in more stage productions, idris elba or denzel washington?",
+                72
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "denzel washington has been in more stage productions than idris elba , with his roles in plays like \"fences\" and \"a raisin in the sun\", while elba has primarily focused on film and tv roles, with only a few stage appearances in plays like \"hamlet\" and \"the wire\"."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.240193978883326,
+            "number_input_tokens": 52
+        },
+        "generated_text": "Jahan Shah.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who ordered the building of the blue mosque, tabriz?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "jahan shah"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.744365369901061,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has had a longer career in music, the beattles or elvis presley?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "elvis presley"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.066592156421393,
+            "number_input_tokens": 51
+        },
+        "generated_text": "$2.464 B",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the total market worth of indb as of today?",
+                51
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$2,256,297,068.58"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.535631036851555,
+            "number_input_tokens": 124
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what year did ben-hur win the most academy awards in a single year, including best picture, best director, and best actress?",
+                124
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.840728002600372,
+            "number_input_tokens": 64
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has won more american music awards, drake or kendrick lamar?",
+                64
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "drake has won more american music awards than kendrick lamar, with eight wins compared to kendrick's 4 wins."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.087551136035472,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many people live in the smallest state in the us by area?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the smallest state in the us by area, rhode island, has a population of 1,097,379."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.1440247520804405,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many minarets does al-muhdhar mosque have?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.4644657340832055,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what's the current score of rayo vallecano's game today?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.137607620097697,
+            "number_input_tokens": 66
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company has a higher price-to-book ratio, splunk or mongodb?",
+                66
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "as of the current financial data, splunk has a higher price-to-book ratio than mongodb, with a price-to-book ratio of 132.33 compared to mongodb's 32.98."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.0198428221046925,
+            "number_input_tokens": 40
+        },
+        "generated_text": "38.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how old is dave franco's oldest brother?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "dave franco's oldest brother, james franco, is 45 years old."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 2.9128663232550025,
+            "number_input_tokens": 44
+        },
+        "generated_text": "Wrangell St Elias National Park in Alaska.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the largest national park in the us?",
+                44
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "wrangell-st. elias national park & preserve"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3646688447333872,
+            "number_input_tokens": 66
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "for the fall of saigon, can you tell me who was the main director?",
+                66
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "michael dutfield"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8444205126725137,
+            "number_input_tokens": 82
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the nasdaq 100 index has the highest ratio of green energy usage?",
+                82
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest percentage of renewable energy usage in the nasdaq 100 index is google (alphabet), with over 106% of its total power usage coming from green energy."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9887500940822065,
+            "number_input_tokens": 87
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in 1990 who received the best actor oscar for their outstanding performance in a movie?",
+                87
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "daniel day lewis"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.921783182770014,
+            "number_input_tokens": 65
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what year did david cassidy release their hit song \"white horse\"?",
+                65
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.344013111665845,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was dallas mavericks's win tally in 2022?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "67"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.5511324969120324,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which artist was younger, alice cooper or nina simone?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "alice cooper"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.771605130750686,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on which day did the gdev inc. warrant distribute dividends in the last year?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "none of the days"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.129581382032484,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "where did g. p. nerli paint whistler's mother?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7778972857631743,
+            "number_input_tokens": 37
+        },
+        "generated_text": "5",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many masters has tiger woods won?",
+                37
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "5 times"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.791363019030541,
+            "number_input_tokens": 83
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in 2021-12, which teams were able to take down houston rockets and come out on top?",
+                83
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "charlotte hornets, chicago bulls, cleveland cavaliers, indiana pacers, los angeles lakers, memphis grizzlies, miami heat, milwaukee bucks, new york knicks"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8687842790968716,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who among patricia place and lana clarkson is younger?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "lana clarkson"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8296744567342103,
+            "number_input_tokens": 60
+        },
+        "generated_text": "No.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has brooks koepka won the masters tournament?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3214707341976464,
+            "number_input_tokens": 90
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when forest whitaker won his/her first oscar best actor, which movie won the best picture?",
+                90
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the departed"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.08673652401194,
+            "number_input_tokens": 79
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which one has the higher trading volume on the last trading day, sbux or  hsic?",
+                79
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "sbux"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.610046219080687,
+            "number_input_tokens": 27
+        },
+        "generated_text": "The Treaty of Ghent.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what ended the war of 1812?",
+                27
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "on february 16, 1815, the day president james madison sent the treaty of ghent to the senate, senators approved it unanimously. with ratification of this treaty, the war of 1812 came to an end."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.835293721873313,
+            "number_input_tokens": 80
+        },
+        "generated_text": "1",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has taylor swift won the billboard award for best country artist?",
+                80
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "taylor swift has won the billboard award for best country artist two times, in 2013 and 2022."
+            }
+        }
+    }
+]

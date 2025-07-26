@@ -1,0 +1,2202 @@
+[
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.67128942720592,
+            "number_input_tokens": 33
+        },
+        "generated_text": "$-0.55",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what's auph's earnings per share?",
+                33
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "0.4"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.299556442070752,
+            "number_input_tokens": 39
+        },
+        "generated_text": "HARIBO is the acronym that comprises the founder's name and the city in which the company was born: HAns RIegel BOnn.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the etymology of haribo's name?",
+                39
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "a syllabic abbreviation formed from hans riegel bonn"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.959272386971861,
+            "number_input_tokens": 57
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the most popular song on billboard in 2024-02-28?",
+                57
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "texas hold 'em"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.4590169759467244,
+            "number_input_tokens": 45
+        },
+        "generated_text": "7,641",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many islands are there in the philippines",
+                45
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the philippines is an archipelago that comprises 7,641 islands"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.265751938801259,
+            "number_input_tokens": 46
+        },
+        "generated_text": "Assets, Liabilities, and Equity.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the main sections on a balance sheet?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "assets, liabilities, and equity"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.940782026853412,
+            "number_input_tokens": 69
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "was what happens in vegas the title originally chosen for that movie?",
+                69
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "yes"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.621064442209899,
+            "number_input_tokens": 84
+        },
+        "generated_text": "Cars (2006) had a higher box office gross worldwide ($461,983,149) than Cars 2 (2011) ($332 million).",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which cars movie had the higher box office gross worldwide, the first or the second?",
+                84
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the second"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.559095542412251,
+            "number_input_tokens": 88
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which one of these came out earlier, the greater meaning of water or small town ecstasy?",
+                88
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "small town ecstasy"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.4258598759770393,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on which days did the bq stock closes lower last week?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2024-02-12, 2024-02-13, 2024-02-15, 2024-02-16"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.018606004770845,
+            "number_input_tokens": 69
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are first ten companies in the dow jones, sorted alphabetically?",
+                69
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "ten companies in the dow jones are: 3m, american express, amgen, apple, boeing, caterpillar, chenvron, cisco, coca-cola, and disney."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8692040061578155,
+            "number_input_tokens": 43
+        },
+        "generated_text": "Lamb has more fat.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what has more fat between chicken and lamb?",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "lamb has more fat at 14g compared to chicken breast at 7g."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.116752894129604,
+            "number_input_tokens": 81
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many nba championships have the golden state warriors won in the past decade?",
+                81
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the golden state warriors have won four nba championships in the past decade."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 266.9028890170157,
+            "number_input_tokens": 104
+        },
+        "generated_text": "Tuesday 2 January 2024, Wednesday 3 January 2024, Thursday 4 January 2024, Friday 5 January 2024, Sunday 7 January 2024, Monday 8 January 2024, Tuesday 9 January 2024, Wednesday 10 January 2024, Thursday 11 January 2024, Friday 12 January 2024, Sunday 14 January 2024, Monday 15 January 2024, Tuesday 16 January 2024, Wednesday 17 January 2024, Thursday 18 January 2024, Friday 19 January 2024, Sunday 21 January 2024, Monday 22 January 2024, Tuesday 23 January 2024, Wednesday 24 January 2024, Thursday 25 January 2024, Friday 26 January 2024, Sunday 28 January 2024, Monday 29 January 2024, Tuesday 30 January 2024, Wednesday 31 January 2024, Thursday 1 February 2024, Friday 2 February 2024, Sunday 4 February 2024, Monday 5 February 2024, Tuesday 6 February 2024, Wednesday 7 February 2024, Thursday 8 February 2024, Friday 9 February 2024, Sunday 11 February 2024, Monday 12 February 2024, Tuesday 13 February 2024, Wednesday 14 February 2024, Thursday 15 February 2024, Friday 16 February 2024, Sunday 18 February 2024, Monday 19 February 2024, Tuesday 20 February 2024, Wednesday 21 February 2024, Thursday 22 February 2024, Friday 23 February 2024, Sunday 25 February 2024, Monday 26 February 2024, Tuesday 27 February 2024, Wednesday 28 February 2024, Thursday 29 February 2024, Friday 1 March 2024, Sunday 3 March 2024, Monday 4 March 2024, Tuesday 5 March 2024, Wednesday 6 March 2024, Thursday 7 March 2024, Friday 8 March 2024, Sunday 10 March 2024, Monday 11 March 2024, Tuesday 12 March 2024, Wednesday 13 March 2024, Thursday 14 March 2024, Friday 15 March 2024, Sunday 17 March 2024, Monday 18 March 2024, Tuesday 19 March 2024, Wednesday 20 March 2024, Thursday 21 March 2024, Friday 22 March 2024, Sunday 24 March 2024, Monday 25 March 2024, Tuesday 26 March 2024, Wednesday 27 March 2024, Thursday 28 March 2024, Friday 29 March 2024, Sunday 31 March 2024, Monday 1 April 2024, Tuesday 2 April 2024, Wednesday 3 April 2024, Thursday 4 April 2024, Friday 5 April 2024, Sunday 7 April 2024, Monday 8 April 2024, Tuesday 9 April 2024, Wednesday 10 April 2024, Thursday 11 April 2024, Friday 12 April 2024, Sunday 14 April 2024, Monday 15 April 2024, Tuesday 16 April 2024, Wednesday 17 April 2024, Thursday 18 April 2024, Friday 19 April 2024, Sunday 21 April 2024, Monday 22 April 2024, Tuesday 23 April 2024, Wednesday 24 April 2024, Thursday 25 April 2024, Friday 26 April 2024, Sunday 28 April 2024, Monday 29 April 2024, Tuesday 30 April 2024, Wednesday 1 May 2024, Thursday 2 May 2024, Friday 3 May 2024, Sunday 5 May 2024, Monday 6 May 2024, Tuesday 7 May 2024, Wednesday 8 May 2024, Thursday 9 May 2024, Friday 10 May 2024, Sunday 12 May 2024, Monday 13 May 2024, Tuesday 14 May 2024, Wednesday 15 May 2024, Thursday 16 May 2024, Friday 17 May 2024, Sunday 19 May 2024, Monday 20 May 2024, Tuesday 21 May 2024, Wednesday 22 May 2024, Thursday 23 May 2024, Friday 24 May 2024, Sunday 26 May 2024, Monday 27 May 2024, Tuesday 28 May 2024, Wednesday 29 May 2024, Thursday 30 May 2024, Friday 31 May 2024, Sunday 2 June 2024, Monday 3 June 2024, Tuesday 4 June 2024, Wednesday 5 June 2024, Thursday 6 June 2024, Friday 7 June 2024, Sunday 9 June 2024, Monday 10 June 2024, Tuesday 11 June 2024, Wednesday 12 June 2024, Thursday 13 June 2024, Friday 14 June 2024, Sunday 16 June 2024, Monday 17 June 2024, Tuesday 18 June 2024, Wednesday 19 June 2024, Thursday 20 June 2024, Friday 21 June 2024, Sunday 23 June 2024, Monday 24 June 2024, Tuesday 25 June 2024, Wednesday 26 June 2024, Thursday 27 June 2024, Friday 28 June 2024, Sunday 30 June 2024, Monday 1 July 2024, Tuesday 2 July 2024, Wednesday 3 July 2024, Thursday 4 July 2024, Friday 5 July 2024, Sunday 7 July 2024, Monday 8 July 2024, Tuesday 9 July 2024, Wednesday 10 July 2024, Thursday 11 July 2024, Friday 12 July 2024, Sunday 14 July 2024, Monday 15 July 2024, Tuesday 16 July 2024, Wednesday 17 July 2024, Thursday 18 July 2024, Friday 19 July 2024, Sunday 21 July 2024, Monday 22 July 2024, Tuesday 23 July 2024, Wednesday 24 July 2024, Thursday 25 July 2024, Friday 26 July 2024, Sunday 28 July 2024, Monday 29 July 2024, Tuesday 30 July 2024, Wednesday 31 July 2024, Thursday 1 August 2024, Friday 2 August 2024, Sunday 4 August 2024, Monday 5 August 2024, Tuesday 6 August 2024, Wednesday 7 August 2024, Thursday 8 August 2024, Friday 9 August 2024, Sunday 11 August 2024, Monday 12 August 2024, Tuesday 13 August 2024, Wednesday 14 August 2024, Thursday 15 August 2024, Friday 16 August 2024, Sunday 18 August 2024, Monday 19 August 2024, Tuesday 20 August 2024, Wednesday 21 August 2024, Thursday 22 August 2024, Friday 23 August 2024, Sunday 25 August 2024, Monday 26 August 2024, Tuesday 27 August 2024, Wednesday 28 August 2024, Thursday 29 August 2024, Friday 30 August 2024, Sunday 1 September 2024, Monday 2 September 2024, Tuesday 3 September 2024, Wednesday 4 September 2024, Thursday 5 September 2024, Friday 6 September 2024, Sunday 8 September 2024, Monday 9 September 2024, Tuesday 10 September 2024, Wednesday 11 September 2024, Thursday 12 September 2024, Friday 13 September 2024, Sunday 15 September 2024, Monday 16 September 2024, Tuesday 17 September 2024, Wednesday 18 September 2024, Thursday 19 September 2024, Friday 20 September 2024, Sunday 22 September 2024, Monday 23 September 2024, Tuesday 24 September 2024, Wednesday 25 September 2024, Thursday 26 September 2024, Friday 27 September 2024, Sunday 29 September 2024, Monday 30 September 2024, Tuesday 1 October 2024, Wednesday 2 October 2024, Thursday 3 October 2024, Friday 4 October 2024, Sunday 6 October 2024, Monday 7 October 2024, Tuesday 8 October 2024, Wednesday 9 October 2024, Thursday 10 October 2024, Friday 11 October 2024, Sunday 13 October 2024, Monday 14 October 2024, Tuesday 15 October 2024, Wednesday 16 October 2024, Thursday 17 October 2024, Friday 18 October 2024, Sunday 20 October 2024, Monday 21 October 2024, Tuesday 22 October 2024, Wednesday 23 October 2024, Thursday 24 October 2024, Friday 25 October 2024, Sunday 27 October 2024, Monday 28 October 2024, Tuesday 29 October 2024, Wednesday 30 October 2024, Thursday 31 October 2024, Friday 1 November 2024, Sunday 3 November 2024, Monday 4 November 2024, Tuesday 5 November 2024, Wednesday 6 November 2024, Thursday 7 November 2024, Friday 8 November 2024, Sunday 10 November 2024, Monday 11 November 2024, Tuesday 12 November 2024, Wednesday 13 November 2024, Thursday 14 November 2024, Friday 15 November 2024, Sunday 17 November 2024, Monday 18 November 2024, Tuesday 19 November 2024, Wednesday 20 November 2024, Thursday 21 November 2024, Friday 22 November 2024, Sunday 24 November 2024, Monday 25 November 2024, Tuesday 26 November 2024, Wednesday 27 November 2024, Thursday 28 November 2024, Friday 29 November 2024, Sunday 1 December 2024, Monday 2 December 2024, Tuesday 3 December 2024, Wednesday 4 December 2024, Thursday 5 December 2024, Friday 6 December 2024, Sunday 8 December 2024, Monday 9 December 2024, Tuesday 10 December 2024, Wednesday 11 December 2024, Thursday 12 December 2024, Friday 13 December 2024, Sunday 15 December 2024, Monday 16 December 2024, Tuesday 17 December 2024, Wednesday 18 December 2024, Thursday 19 December 2024, Friday 20 December 2024, Sunday 22 December 2024, Monday 23 December 2024, Tuesday 24 December 2024, Wednesday 25 December 2024, Thursday 26 December 2024, Friday 27 December 2024, Sunday 29 December 2024, Monday 30 December 2024, Tuesday 31 December 2024, Wednesday 1 January 2025, Thursday 2 January 2025, Friday 3 January 2025, Sunday 5 January 2025, Monday 6 January 2025, Tuesday 7 January 2025, Wednesday 8 January 2025, Thursday 9 January 2025, Friday 10 January 2025, Sunday 12 January 2025, Monday 13 January 2025, Tuesday 14 January 2025, Wednesday 15 January 2025, Thursday 16 January 2025, Friday 17 January 2025, Sunday 19 January 2025, Monday 20 January 2025, Tuesday 21 January 2025, Wednesday 22 January 2025, Thursday 23 January 2025, Friday 24 January 2025, Sunday 26 January 2025, Monday 27 January 2025, Tuesday 28 January 2025, Wednesday 29 January 2025, Thursday 30 January 2025, Friday 31 January 2025, Sunday 2 February 2025, Monday 3 February 2025, Tuesday 4 February 2025, Wednesday 5 February 2025, Thursday 6 February 2025, Friday 7 February 2025, Sunday 9 February 2025, Monday 10 February 2025, Tuesday 11 February 2025, Wednesday 12 February 2025, Thursday 13 February 2025, Friday 14 February 2025, Sunday 16 February 2025, Monday 17 February 2025, Tuesday 18 February 2025, Wednesday 19 February 2025, Thursday 20 February 2025, Friday 21 February 2025, Sunday 23 February 2025, Monday 24 February 2025, Tuesday 25 February 2025, Wednesday 26 February 2025, Thursday 27 February 2025, Friday 28 February 2025, Sunday 1 March 2025, Monday 2 March 2025, Tuesday 3 March 2025, Wednesday 4 March 2025, Thursday 5 March 2025, Friday 6 March 2025, Sunday 8 March 2025, Monday 9 March 2025, Tuesday 10 March 2025, Wednesday 11 March 2025, Thursday 12 March 2025, Friday 13 March 2025, Sunday 15 March 2025, Monday 16 March 2025, Tuesday 17 March 2025, Wednesday 18 March 2025, Thursday 19 March 2025, Friday 20 March 2025, Sunday 22 March 2025, Monday 23 March 2025, Tuesday 24 March 2025, Wednesday 25 March 2025, Thursday 26 March 2025, Friday 27 March 2025, Sunday 29 March 2025, Monday 30 March 2025, Tuesday 31 March 2025, Wednesday 1 April 2025, Thursday 2 April 2025, Friday 3 April 2025, Sunday 5 April 2025, Monday 6 April 2025, Tuesday 7 April 2025, Wednesday 8 April 2025, Thursday 9 April 2025, Friday 10 April 2025, Sunday 12 April 2025, Monday 13 April 2025, Tuesday 14 April 2025, Wednesday 15 April 2025, Thursday 16 April 2025, Friday 17 April 2025, Sunday 19 April 2025, Monday 20 April 2025, Tuesday 21 April 2025, Wednesday 22 April 2025, Thursday 23 April 2025, Friday 24 April 2025, Sunday 26 April 2025, Monday 27 April 2025, Tuesday 28 April 2025, Wednesday 29 April 2025, Thursday 30 April 2025, Friday 1 May 2025, Sunday 3 May 2025, Monday 4 May 2025, Tuesday 5 May 2025, Wednesday 6 May 2025, Thursday 7 May 2025, Friday 8 May 2025, Sunday 10 May 2025, Monday 11 May 2025, Tuesday 12 May 2025, Wednesday 13 May 2025, Thursday 14 May 2025, Friday 15 May 2025, Sunday 17 May 2025, Monday 18 May 2025, Tuesday 19 May 2025, Wednesday 20 May 2025, Thursday 21 May 2025, Friday 22 May 2025, Sunday 24 May 2025, Monday 25 May 2025, Tuesday 26 May 2025, Wednesday 27 May 2025, Thursday 28 May 2025, Friday 29 May 2025, Sunday 31 May 2025, Monday 1 June 2025, Tuesday 2 June 2025, Wednesday 3 June 2025, Thursday 4 June 2025, Friday 5 June 2025, Sunday 7 June 2025, Monday 8 June 2025, Tuesday 9 June 2025, Wednesday 10 June 2025, Thursday 11 June 2025, Friday 12 June 2025, Sunday 14 June 2025, Monday 15 June 2025, Tuesday 16 June 2025, Wednesday 17 June 2025, Thursday 18 June 2025, Friday 19 June 2025, Sunday 21 June 2025, Monday 22 June 2025, Tuesday 23 June 2025, Wednesday 24 June 2025, Thursday 25 June 2025, Friday 26 June 2025, Sunday 28 June 2025, Monday 29 June 2025, Tuesday 30 June 2025, Wednesday 1 July 2025, Thursday 2 July 2025, Friday 3 July 2025, Sunday 5 July 2025, Monday 6 July 2025, Tuesday 7 July 2025, Wednesday 8 July 2025, Thursday 9 July 2025, Friday 10 July 2025, Sunday 12 July 2025, Monday 13 July 2025, Tuesday 14 July 2025, Wednesday 15 July 2025, Thursday 16 July 2025, Friday 17 July 2025, Sunday 19 July 2025, Monday 20 July 2025, Tuesday 21 July 2025, Wednesday 22 July 2025, Thursday 23 July 2025, Friday 24 July 2025, Sunday 26 July 2025, Monday 27 July 2025, Tuesday 28 July 2025, Wednesday 29 July 2025, Thursday 30 July 2025, Friday 31 July 2025, Sunday 2 August 2025, Monday 3 August 2025, Tuesday 4 August 2025, Wednesday 5 August 2025, Thursday 6 August 2025, Friday 7 August 2025, Sunday 9 August 2025, Monday 10 August 2025, Tuesday 11 August 2025, Wednesday 12 August 2025, Thursday 13 August 2025, Friday 14 August 2025, Sunday 16 August 2025, Monday 17 August 2025, Tuesday 18 August 2025, Wednesday 19 August 2025, Thursday 20 August 2025, Friday 21 August 2025, Sunday 23 August 2025, Monday 24 August 2025, Tuesday 25 August 2025, Wednesday 26 August 2025, Thursday 27 August 2025, Friday 28 August 2025, Sunday 30 August 2025, Monday 31 August 2025, Tuesday 1 September 2025, Wednesday 2 September 2025, Thursday 3 September 2025, Friday 4 September 2025, Sunday 6 September 2025, Monday 7 September 2025, Tuesday 8 September 2025, Wednesday 9 September 2025, Thursday 10 September 2025, Friday 11 September 2025, Sunday 13 September 2025, Monday 14 September 2025, Tuesday 15 September 2025, Wednesday 16 September 2025, Thursday 17 September 2025, Friday 18 September 2025, Sunday 20 September 2025, Monday 21 September 2025, Tuesday 22 September 2025, Wednesday 23 September 2025, Thursday 24 September 2025, Friday 25 September 2025, Sunday 27 September 2025, Monday 28 September 2025, Tuesday 29 September 2025, Wednesday 30 September 2025, Thursday 1 October 2025, Friday 2 October 2025, Sunday 4 October 2025, Monday 5 October 2025, Tuesday 6 October 2025, Wednesday 7 October 2025, Thursday 8 October 2025, Friday 9 October 2025, Sunday 11 October 2025, Monday 12 October 2025, Tuesday 13 October 2025, Wednesday 14 October 2025, Thursday 15 October 2025, Friday 16 October 2025, Sunday 18 October 2025, Monday 19 October 2025, Tuesday 20 October 2025, Wednesday 21 October 2025, Thursday 22 October 2025, Friday 23 October 2025, Sunday 25 October 2025, Monday 26 October 2025, Tuesday 27 October 2025, Wednesday 28 October 2025, Thursday 29 October 2025, Friday 30 October 2025, Sunday 1 November 2025, Monday 2 November 2025, Tuesday 3 November 2025, Wednesday 4 November 2025, Thursday 5 November 2025, Friday 6 November 2025, Sunday 8 November 2025, Monday 9 November 2025, Tuesday 10 November 2025, Wednesday 11 November 2025, Thursday 12 November 2025, Friday 13 November 2025, Sunday 15 November 2025, Monday 16 November 2025, Tuesday 17 November 2025, Wednesday 18 November 2025, Thursday 19 November 2025, Friday 20 November 2025, Sunday 22 November 2025, Monday 23 November 2025, Tuesday 24 November 2025, Wednesday 25 November 2025, Thursday 26 November 2025, Friday 27 November 2025, Sunday 29 November 2025, Monday 30 November 2025, Tuesday 1 December 2025, Wednesday 2 December 2025, Thursday 3 December 2025, Friday 4 December 2025, Sunday 6 December 2025, Monday 7 December 2025, Tuesday 8 December 2025, Wednesday 9 December 2025, Thursday 10 December 2025, Friday 11 December 2025, Sunday 13 December 2025, Monday 14 December 2025, Tuesday 15 December 2025, Wednesday 16 December 2025, Thursday 17 December 2025, Friday 18 December 2025, Sunday 20 December 2025, Monday 21 December 2025, Tuesday 22 December 2025, Wednesday 23 December 2025, Thursday 24 December 2025, Friday 25 December 2025, Sunday 27 December 2025, Monday 28 December 2025, Tuesday 29 December 2025, Wednesday 30 December 2025, Thursday 31 December 2025, Friday 1 January 2026, Sunday 3 January 2026, Monday 4 January 2026, Tuesday 5 January 2026, Wednesday 6 January 2026, Thursday 7 January 2026, Friday 8 January 2026, Sunday 10 January 2026, Monday 11 January 2026, Tuesday 12 January 2026, Wednesday 13 January 2026, Thursday 14 January 2026, Friday 15 January 2026, Sunday 17 January 2026, Monday 18 January 2026, Tuesday 19 January 2026, Wednesday 20 January 2026, Thursday 21 January 2026, Friday 22 January 2026, Sunday 24 January 2026, Monday 25 January 2026, Tuesday 26 January 2026, Wednesday 27 January 2026, Thursday 28 January 2026, Friday 29 January 2026, Sunday 31 January 2026, Monday 1 February 2026, Tuesday 2 February 2026, Wednesday 3 February 2026, Thursday 4 February 2026, Friday 5 February 2026, Sunday 7 February 2026, Monday 8 February 2026, Tuesday 9 February 2026, Wednesday 10 February 2026, Thursday 11 February 2026, Friday 12 February 2026, Sunday 14 February 2026, Monday 15 February 2026, Tuesday 16 February 2026, Wednesday 17 February 2026, Thursday 18 February 2026, Friday 19 February 2026, Sunday 21 February 2026, Monday 22 February 2026, Tuesday 23 February 2026, Wednesday 24 February 2026, Thursday 25 February 2026, Friday 26 February 2026, Sunday 28 February 2026, Monday 29 February 2026, Tuesday 1 March 2026, Wednesday 2 March 2026, Thursday 3 March 2026, Friday 4 March 2026, Sunday 6 March 2026, Monday 7 March 2026, Tuesday 8 March 2026, Wednesday 9 March 2026, Thursday 10 March 2026, Friday 11 March 2026, Sunday 13 March 2026, Monday 14 March 2026, Tuesday 15 March 2026, Wednesday 16 March 2026, Thursday 17 March 2026, Friday 18 March 2026, Sunday 20 March 2026, Monday 21 March 2026, Tuesday 22 March 2026, Wednesday 23 March 2026, Thursday 24 March 2026, Friday 25 March 2026, Sunday 27 March 2026, Monday 28 March 2026, Tuesday 29 March 2026, Wednesday 30 March 2026, Thursday 31 March 2026, Friday 1 April 2026, Sunday 3 April 2026, Monday 4 April 2026, Tuesday 5 April 2026, Wednesday 6 April 2026, Thursday 7 April 2026, Friday 8 April 2026, Sunday 10 April 2026, Monday 11 April 2026, Tuesday 12 April 2026, Wednesday 13 April 2026, Thursday 14 April 2026, Friday 15 April 2026, Sunday 17 April 2026, Monday 18 April 2026, Tuesday 19 April 2026, Wednesday 20 April 2026, Thursday 21 April 2026, Friday 22 April 2026, Sunday 24 April 2026, Monday 25 April 2026, Tuesday 26 April 2026, Wednesday 27 April 2026, Thursday 28 April 2026, Friday 29 April 2026, Sunday 1 May 2026, Monday 2 May 2026, Tuesday 3 May 2026, Wednesday 4 May 2026, Thursday 5 May 2026, Friday 6 May 2026, Sunday 8 May 2026, Monday 9 May 2026, Tuesday 10 May 2026, Wednesday 11 May 2026, Thursday 12 May 2026, Friday 13 May 2026, Sunday 15 May 2026, Monday 16 May 2026, Tuesday 17 May 2026, Wednesday 18 May 2026, Thursday 19 May 2026, Friday 20 May 2026, Sunday 22 May 2026, Monday 23 May 2026, Tuesday 24 May 2026, Wednesday 25 May 2026, Thursday 26 May 2026, Friday 27 May 2026, Sunday 29 May 2026, Monday 30 May 2026, Tuesday 31 May 2026, Wednesday 1 June 2026, Thursday 2 June 2026, Friday 3 June 2026, Sunday 5 June 2026, Monday 6 June 2026, Tuesday 7 June 2026, Wednesday 8 June 2026, Thursday 9 June 2026, Friday 10 June 2026, Sunday 12 June 2026, Monday 13 June 2026, Tuesday 14 June 2026, Wednesday 15 June 2026, Thursday 16 June 2026, Friday 17 June 2026, Sunday 19 June 2026, Monday 20 June 2026, Tuesday 21 June 2026, Wednesday 22 June 2026, Thursday 23 June 2026, Friday 24 June 2026, Sunday 26 June 2026, Monday 27 June 2026, Tuesday 28 June 2026, Wednesday 29 June 2026, Thursday 30 June 2026, Friday 1 July 2026, Sunday 3 July 2026, Monday 4 July 2026, Tuesday 5 July 2026, Wednesday 6 July 2026, Thursday 7 July 2026, Friday 8 July 2026, Sunday 10 July 2026, Monday 11 July 2026, Tuesday 12 July 2026, Wednesday 13 July 2026, Thursday 14 July 2026, Friday 15 July 2026, Sunday 17 July 2026, Monday 18 July 2026, Tuesday 19 July 2026, Wednesday 20 July 2026, Thursday 21 July 2026, Friday 22 July 2026, Sunday 24 July 2026, Monday 25 July 2026, Tuesday 26 July 2026, Wednesday 27 July 2026, Thursday 28 July 2026, Friday 29 July 2026, Sunday 31 July 2026, Monday 1 August 2026, Tuesday 2 August 2026, Wednesday 3 August 2026, Thursday 4 August 2026, Friday 5 August 2026, Sunday 7 August 2026, Monday 8 August 2026, Tuesday 9 August 2026, Wednesday 10 August 2026, Thursday 11 August 2026, Friday 12 August 2026, Sunday 14 August 2026, Monday 15 August 2026, Tuesday 16 August 2026, Wednesday 17 August 2026, Thursday 18 August 2026, Friday 19 August 2026, Sunday 21 August 2026, Monday 22 August 2026, Tuesday 23 August 2026, Wednesday 24 August 2026, Thursday 25 August 2026, Friday 26 August 2026, Sunday 28 August 2026, Monday 29 August 2026, Tuesday 30 August 2026, Wednesday 31 August 2026, Thursday 1 September 2026, Friday 2 September 2026, Sunday 4 September 2026, Monday 5 September 2026, Tuesday 6 September 2026, Wednesday 7 September 2026, Thursday 8 September 2026, Friday 9 September 2026, Sunday 11 September 2026, Monday 12 September 2026, Tuesday 13 September 2026, Wednesday 14 September 2026, Thursday 15 September 2026, Friday 16 September 2026, Sunday 18 September 2026, Monday 19 September 2026, Tuesday 20 September 2026, Wednesday 21 September 2026, Thursday 22 September 2026, Friday 23 September 2026, Sunday 25 September 2026, Monday 26 September 2026, Tuesday 27 September 2026, Wednesday 28 September 2026, Thursday 29 September 2026, Friday 30 September 2026, Sunday 2 October 2026, Monday 3 October 2026, Tuesday 4 October 2026, Wednesday 5 October 2026, Thursday 6 October 2026, Friday 7 October 2026, Sunday 9 October 2026, Monday 10 October 2026, Tuesday 11 October 2026, Wednesday 12 October 2026, Thursday 13 October 2026, Friday 14 October 2026, Sunday 16 October 2026, Monday 17 October 2026, Tuesday 18 October 2026, Wednesday 19 October 2026, Thursday 20 October 2026, Friday 21 October 2026, Sunday 23 October 2026, Monday 24 October 2026, Tuesday 25 October 2026, Wednesday 26 October 2026, Thursday 27 October 2026, Friday 28 October 2026, Sunday 30 October 2026, Monday 31 October 2026, Tuesday 1 November 2026, Wednesday 2 November 2026, Thursday 3 November 2026, Friday 4 November 2026, Sunday 6 November 2026, Monday 7 November 2026, Tuesday 8 November 2026, Wednesday 9 November 2026, Thursday 10 November 2026, Friday 11 November 2026, Sunday 13 November 2026, Monday 14 November 2026, Tuesday 15 November 2026, Wednesday 16 November 2026, Thursday 17 November 2026, Friday 18 November 2026, Sunday 20 November 2026, Monday 21 November 2026, Tuesday 22 November 2026, Wednesday 23 November 2026, Thursday 24 November 2026, Friday 25 November 2026, Sunday 27 November 2026, Monday 28 November 2026, Tuesday 29 November 2026, Wednesday 30 November 2026, Thursday 1 December 2026, Friday 2 December 2026, Sunday 4 December 2026, Monday 5 December 2026, Tuesday 6 December 2026, Wednesday 7 December 2026, Thursday 8 December 2026, Friday 9 December 2026, Sunday 11 December 2026, Monday 12 December 2026, Tuesday 13 December 2026, Wednesday 14 December 2026, Thursday 15 December 2026, Friday 16 December 2026, Sunday 18 December 2026, Monday 19 December 2026, Tuesday 20 December 2026, Wednesday 21 December 2026, Thursday 22 December 2026, Friday 23 December 2026, Sunday 25 December 2026, Monday 26 December 2026, Tuesday 27 December 2026, Wednesday 28 December 2026, Thursday 29 December 2026, Friday 30 December 2026, Sunday 1 January 2027, Monday 2 January 2027, Tuesday 3 January 2027, Wednesday 4 January 2027, Thursday 5 January 2027, Friday 6 January 2027, Sunday 8 January 2027, Monday 9 January 2027, Tuesday 10 January 2027, Wednesday 11 January 2027, Thursday 12 January 2027, Friday 13 January 2027, Sunday 15 January 2027, Monday 16 January 2027, Tuesday 17 January 2027, Wednesday 18 January 2027, Thursday 19 January 2027, Friday 20 January 2027, Sunday 22 January 2027, Monday 23 January 2027, Tuesday 24 January 2027, Wednesday 25 January 2027, Thursday 26 January 2027, Friday 27 January 2027, Sunday 29 January 2027, Monday 30 January 2027, Tuesday 31 January 2027, Wednesday 1 February 2027, Thursday 2 February 2027, Friday 3 February 2027, Sunday 5 February 2027, Monday 6 February 2027, Tuesday 7 February 2027, Wednesday 8 February 2027, Thursday 9 February 2027, Friday 10 February 2027, Sunday 12 February 2027, Monday 13 February 2027, Tuesday 14 February 2027, Wednesday 15 February 2027, Thursday 16 February 2027, Friday 17 February 2027, Sunday 19 February 2027, Monday 20 February 2027, Tuesday 21 February 2027, Wednesday 22 February 2027, Thursday 23 February 2027, Friday 24 February 2027, Sunday 26 February 2027, Monday 27 February 2027, Tuesday 28 February 2027, Wednesday 1 March 2027, Thursday 2 March 2027, Friday 3 March 2027, Sunday 5 March 2027, Monday 6 March 2027, Tuesday 7 March 2027, Wednesday 8 March 2027, Thursday 9 March 2027, Friday 10 March 2027, Sunday 12 March 2027, Monday 13 March 2027, Tuesday 14 March 2027, Wednesday 15 March 2027, Thursday 16 March 2027, Friday 17 March 2027, Sunday 19 March 2027, Monday 20 March 2027, Tuesday 21 March 2027, Wednesday 22 March 2027, Thursday 23 March 2027, Friday 24 March 2027, Sunday 26 March 2027, Monday 27 March 2027, Tuesday 28 March 2027, Wednesday 29 March 2027, Thursday 30 March 2027, Friday 31 March 2027, Sunday 2 April 2027, Monday 3 April 2027, Tuesday 4 April 2027, Wednesday 5 April 2027, Thursday 6 April 2027, Friday 7 April 2027, Sunday 9 April 2027, Monday 10 April 2027, Tuesday 11 April 2027, Wednesday 12 April 2027, Thursday 13 April 2027, Friday 14 April 2027, Sunday 16 April 2027, Monday 17 April 2027, Tuesday 18 April 2027, Wednesday 19 April 2027, Thursday 20 April 2027, Friday 21 April 2027, Sunday 23 April 2027, Monday 24 April 2027, Tuesday 25 April 2027, Wednesday 26 April 2027, Thursday 27 April 2027, Friday 28 April 2027, Sunday 30 April 2027, Monday 1 May 2027, Tuesday 2 May 2027, Wednesday 3 May 2027, Thursday 4 May 2027, Friday 5 May 2027, Sunday 7 May 2027, Monday 8 May 2027, Tuesday 9 May 2027, Wednesday 10 May 2027, Thursday 11 May 2027, Friday 12 May 2027, Sunday 14 May 2027, Monday 15 May 2027, Tuesday 16 May 2027, Wednesday 17 May 2027, Thursday 18 May 2027, Friday 19 May 2027, Sunday 21 May 2027, Monday 22 May 2027, Tuesday 23 May 2027, Wednesday 24 May 2027, Thursday 25 May 2027, Friday 26 May 2027, Sunday 28 May 2027, Monday 29 May 2027, Tuesday 30 May 2027, Wednesday 31 May 2027, Thursday 1 June 2027, Friday 2 June 2027, Sunday 4 June 2027, Monday 5 June 2027, Tuesday 6 June 2027, Wednesday 7 June 2027, Thursday 8 June 2027, Friday 9 June 2027, Sunday 11 June 2027, Monday 12 June 2027, Tuesday 13 June 2027, Wednesday 14 June 2027, Thursday 15 June 2027, Friday 16 June 2027, Sunday 18 June 2027, Monday 19 June 2027, Tuesday 20 June 2027, Wednesday 21 June 2027, Thursday 22 June 2027, Friday 23 June 2027, Sunday 25 June 2027, Monday 26 June 2027, Tuesday 27 June 2027, Wednesday 28 June 2027, Thursday 29 June 2027, Friday 30 June 2027, Sunday 2 July 2027, Monday 3 July 2027, Tuesday 4 July 2027, Wednesday 5 July 2027, Thursday 6 July 2027, Friday 7 July 2027, Sunday 9 July 2027, Monday 10 July 2027, Tuesday 11 July 2027, Wednesday 12 July 2027, Thursday 13 July 2027, Friday 14 July 2027, Sunday 16 July 2027, Monday 17 July 2027, Tuesday 18 July 2027, Wednesday 19 July 2027, Thursday 20 July 2027, Friday 21 July 2027, Sunday 23 July 2027, Monday 24 July 2027, Tuesday 25 July 2027, Wednesday 26 July 2027, Thursday 27 July 2027, Friday 28 July 2027, Sunday 30 July 2027, Monday 31 July 2027, Tuesday 1 August 2027, Wednesday 2 August 2027, Thursday 3 August 2027, Friday 4 August 2027, Sunday 6 August 2027, Monday 7 August 2027, Tuesday 8 August 2027, Wednesday 9 August 2027, Thursday 10 August 2027, Friday 11 August 2027, Sunday 13 August 2027, Monday 14 August 2027, Tuesday 15 August 2027, Wednesday 16 August 2027, Thursday 17 August 2027, Friday 18 August 2027, Sunday 20 August 2027, Monday 21 August 2027, Tuesday 22 August 2027, Wednesday 23 August 2027, Thursday 24 August 2027, Friday 25 August 2027, Sunday 27 August 2027, Monday 28 August 2027, Tuesday 29 August 2027, Wednesday 30 August 2027, Thursday 31 August 2027, Friday 1 September 2027, Sunday 3 September 2027, Monday 4 September 2027, Tuesday 5 September 2027, Wednesday 6 September 2027, Thursday 7 September 2027, Friday 8 September 2027, Sunday 10 September 2027, Monday 11 September 2027, Tuesday 12 September 2027, Wednesday 13 September 2027, Thursday 14 September 2027, Friday 15 September 2027, Sunday 17 September 2027, Monday 18 September 2027, Tuesday 19 September 2027, Wednesday 20 September 2027, Thursday 21 September 2027, Friday 22 September 2027, Sunday 24 September 2027, Monday 25 September 2027, Tuesday 26 September 2027, Wednesday 27 September 2027, Thursday 28 September 2027, Friday 29 September 2027, Sunday 1 October 2027, Monday 2 October 2027, Tuesday 3 October 2027, Wednesday 4 October 2027, Thursday 5 October 2027, Friday 6 October 2027, Sunday 8 October 2027, Monday 9 October 2027, Tuesday 10 October 2027, Wednesday 11 October 2027, Thursday 12 October 2027, Friday 13 October 2027, Sunday 15 October 2027, Monday 16 October 2027, Tuesday 17 October 2027, Wednesday 18 October 2027, Thursday 19 October 2027, Friday 20 October 2027, Sunday 22 October 2027, Monday 23 October 2027, Tuesday 24 October 2027, Wednesday 25 October 2027, Thursday 26 October 2027, Friday 27 October 2027, Sunday 29 October 2027, Monday 30 October 2027, Tuesday 31 October 2027, Wednesday 1 November 2027, Thursday 2 November 2027, Friday 3 November 2027, Sunday 5 November 2027, Monday 6 November 2027, Tuesday 7 November 2027, Wednesday 8 November 2027, Thursday 9 November 2027, Friday 10 November 2027, Sunday 12 November 2027, Monday 13 November 2027, Tuesday 14 November 2027, Wednesday 15 November 2027, Thursday 16 November 2027, Friday 17 November 2027, Sunday 19 November 2027, Monday 20 November 2027, Tuesday 21 November 2027, Wednesday 22 November 2027, Thursday 23 November 2027, Friday 24 November 2027, Sunday 26 November 2027, Monday 27 November 2027, Tuesday 28 November 2027, Wednesday 29 November 2027, Thursday 30 November 2027, Friday 1 December 2027, Sunday 3 December 2027, Monday 4 December 2027, Tuesday 5 December 2027, Wednesday 6 December 2027, Thursday 7 December 2027, Friday 8 December 2027, Sunday 10 December 2027, Monday 11 December 2027, Tuesday 12 December 2027, Wednesday 13 December 2027, Thursday 14 December 2027, Friday 15 December 2027, Sunday 17 December 2027, Monday 18 December 2027, Tuesday 19 December 2027, Wednesday 20 December 2027, Thursday 21 December 2027, Friday 22 December 2027, Sunday 24 December 2027, Monday 25 December 2027, Tuesday 26 December 2027, Wednesday 27 December 2027, Thursday 28 December 2027, Friday 29 December 2027, Sunday 31 December 2027, Monday 1 January 2028, Tuesday 2 January 2028, Wednesday 3 January 2028, Thursday 4 January 2028, Friday 5 January 2028, Sunday 7 January 2028, Monday 8 January 2028, Tuesday 9 January 2028, Wednesday 10 January 2028, Thursday 11 January 2028, Friday 12 January 2028, Sunday 14 January 2028, Monday 15 January 2028, Tuesday 16 January 2028, Wednesday 17 January 2028, Thursday 18 January 2028, Friday 19 January 2028, Sunday 21 January 2028, Monday 22 January 2028, Tuesday 23 January 2028, Wednesday 24 January 2028, Thursday 25 January 2028, Friday 26 January 2028, Sunday 28 January 2028, Monday 29 January 2028, Tuesday 30 January 2028, Wednesday 31 January 2028, Thursday 1 February 2028, Friday 2 February 2028, Sunday 4 February 2028, Monday 5 February 2028, Tuesday 6 February 2028, Wednesday 7 February 2028, Thursday 8 February 2028, Friday 9 February 2028, Sunday 11 February 2028, Monday 12 February 2028, Tuesday 13 February 2028, Wednesday 14 February 2028, Thursday 15 February 2028, Friday 16 February 2028, Sunday 18 February 2028, Monday 19 February 2028, Tuesday 20 February 2028, Wednesday 21 February 2028, Thursday 22 February 2028, Friday 23 February 2028, Sunday 25 February 2028, Monday 26 February 2028, Tuesday 27 February 2028, Wednesday 28 February 2028, Thursday 29 February 2028, Friday 1 March 2028, Sunday 3 March 2028, Monday 4 March 2028, Tuesday 5 March 2028, Wednesday 6 March 2028, Thursday 7 March 2028, Friday 8 March 2028, Sunday 10 March 2028, Monday 11 March 2028, Tuesday 12 March 2028, Wednesday 13 March 2028, Thursday 14 March 2028, Friday 15 March 2028, Sunday 17 March 2028, Monday 18 March 2028, Tuesday 19 March 2028, Wednesday 20 March 2028, Thursday 21 March 2028, Friday 22 March 2028, Sunday 24 March 2028, Monday 25 March 2028, Tuesday 26 March 2028, Wednesday 27 March 2028, Thursday 28 March 2028, Friday 29 March 2028, Sunday 31 March 2028, Monday 1 April 2028, Tuesday 2 April 2028, Wednesday 3 April 2028, Thursday 4 April 2028, Friday 5 April 2028, Sunday 7 April 2028, Monday 8 April 2028, Tuesday 9 April 2028, Wednesday 10 April 2028, Thursday 11 April 2028, Friday 12 April 2028, Sunday 14 April 2028, Monday 15 April 2028, Tuesday 16 April 2028, Wednesday 17 April 2028, Thursday 18 April 2028, Friday 19 April 2028, Sunday 21 April 2028, Monday 22 April 2028, Tuesday 23 April 2028, Wednesday 24 April 2028, Thursday 25 April 2028, Friday 26 April 2028, Sunday 28 April 2028, Monday 29 April 2028, Tuesday 30 April 2028, Wednesday 1 May 2028, Thursday 2 May 2028, Friday 3 May 2028, Sunday 5 May 2028, Monday 6 May 2028, Tuesday 7 May 2028, Wednesday 8 May 2028, Thursday 9 May 2028, Friday 10 May 2028, Sunday 12 May 2028, Monday 13 May 2028, Tuesday 14 May 2028, Wednesday 15 May 2028, Thursday 16 May 2028, Friday 17 May 2028, Sunday 19 May 2028, Monday 20 May 2028, Tuesday 21 May 2028, Wednesday 22 May 2028, Thursday 23 May 2028, Friday 24 May 2028, Sunday 26 May 2028, Monday 27 May 2028, Tuesday 28 May 2028, Wednesday 29 May 2028, Thursday 30 May 2028, Friday 31 May 2028, Sunday 2 June 2028, Monday 3 June 2028, Tuesday 4 June 2028, Wednesday 5 June 2028, Thursday 6 June 2028, Friday 7 June 2028, Sunday 9 June 2028, Monday 10 June 2028, Tuesday 11 June 2028, Wednesday 12 June 2028, Thursday 13 June 2028, Friday 14 June 2028, Sunday 16 June 2028, Monday 17 June 2028, Tuesday 18 June 2028, Wednesday 19 June 2028, Thursday 20 June 2028, Friday 21 June 2028, Sunday 23 June 2028, Monday 24 June 2028, Tuesday 25 June 2028, Wednesday 26 June 2028, Thursday 27 June 2028, Friday 28 June 2028, Sunday 30 June 2028, Monday 1 July 2028, Tuesday 2 July 2028, Wednesday 3 July 2028, Thursday 4 July 2028, Friday 5 July 2028, Sunday 7 July 2028, Monday 8 July 2028, Tuesday 9 July 2028, Wednesday 10 July 2028, Thursday 11 July 2028, Friday 12 July 2028, Sunday 14 July 2028, Monday 15 July 2028, Tuesday 16 July 2028, Wednesday 17 July 2028, Thursday 18 July 2028, Friday 19 July 2028, Sunday 21 July 2028, Monday 22 July 2028, Tuesday 23 July 2028, Wednesday 24 July 2028, Thursday 25 July 2028, Friday 26 July 2028, Sunday 28 July 2028, Monday 29 July 2028, Tuesday 30 July 2028, Wednesday 31 July 2028, Thursday 1 August 2028, Friday 2 August 2028, Sunday 4 August 2028, Monday 5 August 2028, Tuesday 6 August 2028, Wednesday 7 August 2028, Thursday 8 August 2028, Friday 9 August 2028, Sunday 11 August 2028, Monday 12 August 2028, Tuesday 13 August 2028, Wednesday 14 August 2028, Thursday 15 August 2028, Friday 16 August 2028, Sunday 18 August 2028, Monday 19 August 2028, Tuesday 20 August 2028, Wednesday 21 August 2028, Thursday 22 August 2028, Friday 23 August 2028, Sunday 25 August 2028, Monday 26 August 2028, Tuesday 27 August 2028, Wednesday 28 August 2028, Thursday 29 August 2028, Friday 30 August 2028, Sunday 1 September 2028, Monday 2 September 2028, Tuesday 3 September 2028, Wednesday 4 September 2028, Thursday 5 September 2028, Friday 6 September 2028, Sunday 8 September 2028, Monday 9 September 2028, Tuesday 10 September 2028, Wednesday 11 September 2028, Thursday 12 September 2028, Friday 13 September 2028, Sunday 15 September 2028, Monday 16 September 2028, Tuesday 17 September 2028, Wednesday 18 September 2028, Thursday 19 September 2028, Friday 20 September 2028, Sunday 22 September 2028, Monday 23 September 2028, Tuesday 24 September 2028, Wednesday 25 September 2028, Thursday 26 September 2028, Friday 27 September 2028, Sunday 29 September 2028, Monday 30 September 2028, Tuesday 1 October 2028, Wednesday 2 October 2028, Thursday 3 October 2028, Friday 4 October 2028, Sunday 6 October 2028, Monday 7 October 2028, Tuesday 8 October 2028, Wednesday 9 October 2028, Thursday 10 October 2028, Friday 11 October 2028, Sunday 13 October 2028, Monday 14 October 2028, Tuesday 15 October 2028, Wednesday 16 October 2028, Thursday 17 October 2028, Friday 18 October 2028, Sunday 20 October 2028, Monday 21 October 2028, Tuesday 22 October 2028, Wednesday 23 October 2028, Thursday 24 October 2028, Friday 25 October 2028, Sunday 27 October 2028, Monday 28 October 2028, Tuesday 29 October 2028, Wednesday 30 October 2028, Thursday 31 October 2028, Friday 1 November 2028, Sunday 3 November 2028, Monday 4 November 2028, Tuesday 5 November 2028, Wednesday 6 November 2028, Thursday 7 November 2028, Friday 8 November 2028, Sunday 10 November 2028, Monday 11 November 2028, Tuesday 12 November 2028, Wednesday 13 November 2028, Thursday 14 November 2028, Friday 15 November 2028, Sunday 17 November 2028, Monday 18 November 2028, Tuesday 19 November 2028, Wednesday 20 November 2028, Thursday 21 November 2028, Friday 22 November 2028, Sunday 24 November 2028, Monday 25 November 2028, Tuesday 26 November 2028, Wednesday 27 November 2028, Thursday 28 November 2028, Friday 29 November 2028, Sunday 1 December 2028, Monday 2 December 2028, Tuesday 3 December 2028, Wednesday 4 December 2028, Thursday 5 December 2028, Friday 6 December 2028, Sunday 8 December 2028, Monday 9 December 2028, Tuesday 10 December 2028, Wednesday 11 December 2028, Thursday 12 December 2028, Friday 13 December 2028, Sunday 15 December 2028, Monday 16 December 2028, Tuesday 17 December 2028, Wednesday 18 December 2028, Thursday 19 December 2028, Friday 20 December 2028, Sunday 22 December 2028, Monday 23 December 2028, Tuesday 24 December 2028, Wednesday 25 December 2028, Thursday 26 December 2028, Friday 27 December 2028, Sunday 29 December 2028, Monday 30 December 2028, Tuesday 31 December 2028, Wednesday 1 January 2029, Thursday 2 January 2029, Friday 3 January 2029, Sunday 5 January 2029, Monday 6 January 2029, Tuesday 7 January 2029, Wednesday 8 January 2029, Thursday 9 January 2029, Friday 10 January 2029, Sunday 12 January 2029, Monday 13 January 2029, Tuesday 14 January 2029, Wednesday 15 January 2029, Thursday 16 January 2029, Friday 17 January 2029, Sunday 19 January 2029, Monday 20 January 2029, Tuesday 21 January 2029, Wednesday 22 January 2029, Thursday 23 January 2029, Friday 24 January 2029, Sunday 26 January 2029, Monday 27 January 2029, Tuesday 28 January 2029, Wednesday 29 January 2029, Thursday 30 January 2029, Friday 31 January 2029, Sunday 2 February 2029, Monday 3 February 2029, Tuesday 4 February 2029, Wednesday 5 February 2029, Thursday 6 February 2029, Friday 7 February 2029, Sunday 9 February 2029, Monday 10 February 2029, Tuesday 11 February 2029, Wednesday 12 February 2029, Thursday 13 February 2029, Friday 14 February 2029, Sunday 16 February 2029, Monday 17 February 2029, Tuesday 18 February 2029, Wednesday 19 February 2029, Thursday 20 February 2029, Friday 21 February 2029, Sunday 23 February 2029, Monday 24 February 2029, Tuesday 25 February 2029, Wednesday 26 February 2029, Thursday 27 February 2029, Friday 28 February 2029, Sunday 1 March 2029, Monday 2 March 2029, Tuesday 3 March 2029, Wednesday 4 March 2029, Thursday 5 March 2029, Friday 6 March 2029, Sunday 8 March 2029, Monday 9 March 2029, Tuesday 10 March 2029, Wednesday 11 March 2029, Thursday 12 March 2029, Friday 13 March 2029, Sunday 15 March 2029, Monday 16 March 2029, Tuesday 17 March 2029, Wednesday 18 March 2029, Thursday 19 March 2029, Friday 20 March 2029, Sunday 22 March 2029, Monday 23 March 2029, Tuesday 24 March 2029, Wednesday 25 March 2029, Thursday 26 March 2029, Friday 27 March 2029, Sunday 29 March 2029, Monday 30 March 2029, Tuesday 31 March 2029, Wednesday 1 April 2029, Thursday 2 April 2029, Friday 3 April 2029, Sunday 5 April 2029, Monday 6 April 2029, Tuesday 7 April 2029, Wednesday 8 April 2029, Thursday 9 April 2029, Friday 10 April 2029, Sunday 12 April 2029, Monday 13 April 2029, Tuesday 14 April 2029, Wednesday 15 April 2029, Thursday 16 April 2029, Friday 17 April 2029, Sunday 19 April 2029, Monday 20 April 2029, Tuesday 21 April 2029, Wednesday 22 April 2029, Thursday 23 April 2029, Friday 24 April 2029, Sunday 26 April 2029, Monday 27 April 2029, Tuesday 28 April 2029, Wednesday 29 April 2029, Thursday 30 April 2029, Friday 1 May 2029, Sunday 3 May 2029, Monday 4 May 2029, Tuesday 5 May 2029, Wednesday 6 May 2029, Thursday 7 May 2029, Friday 8 May 2029, Sunday 10 May 2029, Monday 11 May 2029, Tuesday 12 May 2029, Wednesday 13 May 2029, Thursday 14 May 2029, Friday 15 May 2029, Sunday 17 May 2029, Monday 18 May 2029, Tuesday 19 May 2029, Wednesday 20 May 2029, Thursday 21 May 2029, Friday 22 May 2029, Sunday 24 May 2029, Monday 25 May 2029, Tuesday 26 May 2029, Wednesday 27 May 202",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "during the first week of january 2024, on which days did bkn's stock price reach a higher closing price?",
+                104
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2024-01-02, 2024-01-03, 2024-01-04"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.227624289225787,
+            "number_input_tokens": 50
+        },
+        "generated_text": "4",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has trevor noah hosted the grammys?",
+                50
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "4"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.120973655022681,
+            "number_input_tokens": 50
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many members are part of red hot chili pepper?",
+                50
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "red hot chili peppers currently has 4 members."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7507308716885746,
+            "number_input_tokens": 25
+        },
+        "generated_text": "$2.55B",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "nep's current market cap.",
+                25
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$2,543,205,863.73"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.15816932823509,
+            "number_input_tokens": 52
+        },
+        "generated_text": "In the Land of Blood and Honey",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what film marked angelina jolie's directorial debut?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "in the land of blood and honey released in 2011"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.386324725113809,
+            "number_input_tokens": 70
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many women billionaires are there in the united states as of 2023?",
+                70
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "92 as of 2023"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9399632830172777,
+            "number_input_tokens": 67
+        },
+        "generated_text": "Titanic (1997)",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in which film did leonardo dicaprio and kate winslet first co-star?",
+                67
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "titanic"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.033575701992959,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who did rihanna co-headline a tour with?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "rihanna and eminem co-headlined the monster tour in 2014"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.738019246608019,
+            "number_input_tokens": 48
+        },
+        "generated_text": "Dan Reynolds, Wayne Sermon, Ben McKee, and Daniel Platzman.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who are the members of the band imagine dragons?",
+                48
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the members of imagine dragons are dan reynolds, wayne sermon, ben mckee and daniel platzman."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6167467990890145,
+            "number_input_tokens": 87
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many actors had roles in both gifted hands: the ben carson story and bone tomahawk?",
+                87
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.775111127644777,
+            "number_input_tokens": 35
+        },
+        "generated_text": "11",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many songs are in adele's \"21\"?",
+                35
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "there are 11 songs in the album"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.541186695918441,
+            "number_input_tokens": 61
+        },
+        "generated_text": "16",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was taylor swifts age when she released her debut album?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "16 years old"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.511243548244238,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who made the creative decisions for madea's big happy family?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "tyler perry"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.029814504086971,
+            "number_input_tokens": 81
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the total amount of corporate bonds issued in the united states in 2020?",
+                81
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the total amount of corporate bonds issued in the united states in 2020 was $1.189 trillion."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.906127169262618,
+            "number_input_tokens": 43
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the price-to-earnings ratio of haia",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "i don't know"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3135615279898047,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which movie has a higher number of sequels, toy story or the matrix?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "they both have 4 movies total in their franchises."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.992396987043321,
+            "number_input_tokens": 62
+        },
+        "generated_text": "Music of the Sun (2005), A Girl like Me (2006), Good Girl Gone Bad (2007), Rated R (2009), Loud (2010), Talk That Talk (2011), Unapologetic (2012), Anti (2016)",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the names of rihanna's albums in chronological order?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "music of the sun (2005), a girl like me (2006), good girl gone bad (2007), rated r (2009), loud (2010), talk that talk (2011), unapologetic (2012), and anti (2016)"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.435638736002147,
+            "number_input_tokens": 98
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most consecutive stolen bases in mlb history without being caught since 1980?",
+                98
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "vince coleman has the most consecutive stolen bases in mlb history without being caught, with 50 stolen bases."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.621506565716118,
+            "number_input_tokens": 67
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the language that the man who lost himself was released in?",
+                67
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "en"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.08426141506061,
+            "number_input_tokens": 118
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most career home runs in major league baseball among players who have never won a home run title?",
+                118
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "rafael palmeiro has the most career home runs in major league baseball among players who have never won a home run title, with 569 home runs."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.219245397951454,
+            "number_input_tokens": 96
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which wta player had a higher singles ranking to end last year, madison keys or daria kasatkina?",
+                96
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "madison keys"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.9088223478756845,
+            "number_input_tokens": 40
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was tbmc's closing price yesterday?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$10.53"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.465738236904144,
+            "number_input_tokens": 34
+        },
+        "generated_text": "4",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many singers do westlife have?",
+                34
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "5"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3591146301478148,
+            "number_input_tokens": 38
+        },
+        "generated_text": "2006",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did meryl streep stop performing?",
+                38
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.5110828983597457,
+            "number_input_tokens": 51
+        },
+        "generated_text": "John F. Clauser",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who won the nobel prize in physics in 2022 from usa",
+                51
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "john f clauser"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.954448560718447,
+            "number_input_tokens": 108
+        },
+        "generated_text": "19-6-3",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on their last game day in eng-premier league, what was manchester city's record in terms of wins and losses?",
+                108
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "d"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.8432740662246943,
+            "number_input_tokens": 62
+        },
+        "generated_text": "Yes. Colin Dench.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "do you know who the director of katherine ryan: in trouble is?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "colin dench"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.688111187890172,
+            "number_input_tokens": 98
+        },
+        "generated_text": "23%",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the market share of microsoft in the cloud computing industry compared to its competitors?",
+                98
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "22%"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.758546635042876,
+            "number_input_tokens": 58
+        },
+        "generated_text": "31 years",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many years did barack obama serve as president for usa",
+                58
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "8 years"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.946696592029184,
+            "number_input_tokens": 93
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which law school has a longer history, monterey college of law or san joaquin college of law?",
+                93
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "san joaquin college of law"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.291667834855616,
+            "number_input_tokens": 117
+        },
+        "generated_text": "The Chainsmokers.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has had more number one hits on the us billboard dance/electronic songs chart, calvin harris or the chainsmokers?",
+                117
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the chainsmokers"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9340678839944303,
+            "number_input_tokens": 47
+        },
+        "generated_text": "1997",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did one for all start performing together?",
+                47
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1993"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.5410024458542466,
+            "number_input_tokens": 43
+        },
+        "generated_text": "4",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many tours has beyonc\u00e9 gone on by 2006?",
+                43
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "beyonc\u00e9 went on one tour herself and co-headlined an additional tour by 2006."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.697281447704881,
+            "number_input_tokens": 53
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the global box office revenue for caught up?",
+                53
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "6754484"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9840905480086803,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the nasdaq 100 index has the highest return on assets (roa)?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest roa in the nasdaq 100 index is nvidia, with an roa of 55.67%."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.365556078031659,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the opening price of nike stock in january last year?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$118.55"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.9757503401488066,
+            "number_input_tokens": 41
+        },
+        "generated_text": "Daniel Scheinert and Daniel Kwan.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who directed swiss army man, can you say?",
+                41
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "daniel scheinert"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.033825452905148,
+            "number_input_tokens": 52
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who is the youngest player in the san antonio spurs?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "sidy cissoko is the youngest player of the san antonio spurs."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.909838333260268,
+            "number_input_tokens": 76
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has kanye west won the grammy award for producer of the year?",
+                76
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "kanye west has never won the grammy award for producer of the year, however he was nominated in 2019."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.156817618291825,
+            "number_input_tokens": 71
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the russell 2000 index has the highest dividend yield?",
+                71
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest dividend yield in the russell 2000 index is b. riley financial, with a dividend yield of 23.65%."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.0292565720155835,
+            "number_input_tokens": 42
+        },
+        "generated_text": "Superior, Michigan, Huron, and Erie.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what are the four great lakes in michigan?",
+                42
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "superior, michigan, huron and erie."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.1954434579238296,
+            "number_input_tokens": 104
+        },
+        "generated_text": "Philip Rivers",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which player has the most career wins in the nfl among quarterbacks who have never been to a super bowl?",
+                104
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "philip rivers has the most career wins in the nfl among quarterbacks who have never been to a super bowl, with 134 wins."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3344636419788003,
+            "number_input_tokens": 108
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the total number of shares traded for special opportunities fund during the first week of february?",
+                108
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "93600"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.900468427222222,
+            "number_input_tokens": 82
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when did serena williams win their first grand slam title in men's singles tennis?",
+                82
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.783164975699037,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which has a greater market capitalization, tron or mgrm?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "mgrm"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.253621655981988,
+            "number_input_tokens": 71
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the number of shares traded for adsk on the final trading day?",
+                71
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "951000"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.115326841827482,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which animal has a longer gestation period, whale or giraffe?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "whale"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.739596331957728,
+            "number_input_tokens": 68
+        },
+        "generated_text": "113-111",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was the final score of los angeles lakers's game on 2023-05-22?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "111"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.765585212036967,
+            "number_input_tokens": 56
+        },
+        "generated_text": "2009",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when was the last time the yankees won the world series?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "2009"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.71980981528759,
+            "number_input_tokens": 100
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "i'm curious to know, which of the two stars, procyon or arcturus, is the brighter object in the sky?",
+                100
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "arcturus"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.607199196238071,
+            "number_input_tokens": 62
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on 2022-10-11, how many points did bulls put up in their game?",
+                62
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "127"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.993176243267953,
+            "number_input_tokens": 61
+        },
+        "generated_text": "164.17",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "could you provide me with the price-to-earnings ratio of gps?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "15.52"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.925082886125892,
+            "number_input_tokens": 47
+        },
+        "generated_text": "Katherine, Christina, Patrick, Christopher, and Joseph.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which children does arnold schwarzenegger have?",
+                47
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "arnold schwarzenegger has five children, including katherine schwarzenegger, patrick schwarzenegger and joseph baena."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.7223695372231305,
+            "number_input_tokens": 40
+        },
+        "generated_text": "Jerome H. Powell.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who is the chair of the federal reserve?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "jerome powell"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.5478874603286386,
+            "number_input_tokens": 83
+        },
+        "generated_text": "2017: Chance the Rapper\n2018: Alessia Cara",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who were awarded the best new artist from 59th grammy (2016) to 61st grammy (2018)?",
+                83
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "chance the rapper, alessia cara, dua lipa"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.041255595628172,
+            "number_input_tokens": 38
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many kids does justin beiber have?",
+                38
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.095185063313693,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which movie had the higher box office earnings, whiplash or the big lebowski?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "whiplash had a box office earnings, with a profit of $49 million, while the big lebowski earned $46.7 million."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.289770359173417,
+            "number_input_tokens": 70
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what time did the noto earthquake in japan happened in january of 2022",
+                70
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6408208645880222,
+            "number_input_tokens": 60
+        },
+        "generated_text": "404, 470, 678, and 770.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "i need to know the area codes for the atlanta. can you help?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "404, 678, 470, 943, 770"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.227578844875097,
+            "number_input_tokens": 60
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many different record labels has eminem been signed for?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "throughout his career, eminem has been signed to 5 different record labels."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.20475820498541,
+            "number_input_tokens": 72
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has been in more stage productions, idris elba or denzel washington?",
+                72
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "denzel washington has been in more stage productions than idris elba , with his roles in plays like \"fences\" and \"a raisin in the sun\", while elba has primarily focused on film and tv roles, with only a few stage appearances in plays like \"hamlet\" and \"the wire\"."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.897181548178196,
+            "number_input_tokens": 52
+        },
+        "generated_text": "Jahan Shah.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who ordered the building of the blue mosque, tabriz?",
+                52
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "jahan shah"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.258729095570743,
+            "number_input_tokens": 68
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has had a longer career in music, the beattles or elvis presley?",
+                68
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "elvis presley"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.55700932117179,
+            "number_input_tokens": 51
+        },
+        "generated_text": "$2.464 B",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the total market worth of indb as of today?",
+                51
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "$2,256,297,068.58"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.524800557177514,
+            "number_input_tokens": 124
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what year did ben-hur win the most academy awards in a single year, including best picture, best director, and best actress?",
+                124
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.499615609180182,
+            "number_input_tokens": 64
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who has won more american music awards, drake or kendrick lamar?",
+                64
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "drake has won more american music awards than kendrick lamar, with eight wins compared to kendrick's 4 wins."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.192300146911293,
+            "number_input_tokens": 61
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many people live in the smallest state in the us by area?",
+                61
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the smallest state in the us by area, rhode island, has a population of 1,097,379."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.890637891832739,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many minarets does al-muhdhar mosque have?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "1"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.277377183083445,
+            "number_input_tokens": 56
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what's the current score of rayo vallecano's game today?",
+                56
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.140324981417507,
+            "number_input_tokens": 66
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company has a higher price-to-book ratio, splunk or mongodb?",
+                66
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "as of the current financial data, splunk has a higher price-to-book ratio than mongodb, with a price-to-book ratio of 132.33 compared to mongodb's 32.98."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.856052973307669,
+            "number_input_tokens": 40
+        },
+        "generated_text": "38 years old",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how old is dave franco's oldest brother?",
+                40
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "dave franco's oldest brother, james franco, is 45 years old."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.041799332946539,
+            "number_input_tokens": 44
+        },
+        "generated_text": "Wrangell St Elias National Park.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what is the largest national park in the us?",
+                44
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "wrangell-st. elias national park & preserve"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.704597331117839,
+            "number_input_tokens": 66
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "for the fall of saigon, can you tell me who was the main director?",
+                66
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "michael dutfield"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 5.34801472723484,
+            "number_input_tokens": 82
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which company in the nasdaq 100 index has the highest ratio of green energy usage?",
+                82
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the company with the highest percentage of renewable energy usage in the nasdaq 100 index is google (alphabet), with over 106% of its total power usage coming from green energy."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.880064737051725,
+            "number_input_tokens": 87
+        },
+        "generated_text": "Jeremy Irons for his role in \"Reversal of Fortune\".",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in 1990 who received the best actor oscar for their outstanding performance in a movie?",
+                87
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "daniel day lewis"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.2049073236994445,
+            "number_input_tokens": 65
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what year did david cassidy release their hit song \"white horse\"?",
+                65
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.917759499978274,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what was dallas mavericks's win tally in 2022?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "67"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.057093465700746,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which artist was younger, alice cooper or nina simone?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "alice cooper"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.009533494245261,
+            "number_input_tokens": 77
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "on which day did the gdev inc. warrant distribute dividends in the last year?",
+                77
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "none of the days"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.3200606680475175,
+            "number_input_tokens": 46
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "where did g. p. nerli paint whistler's mother?",
+                46
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.9128128117881715,
+            "number_input_tokens": 37
+        },
+        "generated_text": "5",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many masters has tiger woods won?",
+                37
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "5 times"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.044320037122816,
+            "number_input_tokens": 83
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "in 2021-12, which teams were able to take down houston rockets and come out on top?",
+                83
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "charlotte hornets, chicago bulls, cleveland cavaliers, indiana pacers, los angeles lakers, memphis grizzlies, miami heat, milwaukee bucks, new york knicks"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.98937593633309,
+            "number_input_tokens": 54
+        },
+        "generated_text": "I don't know",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "who among patricia place and lana clarkson is younger?",
+                54
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "lana clarkson"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.861443527042866,
+            "number_input_tokens": 60
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has brooks koepka won the masters tournament?",
+                60
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "invalid question"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.2690685000270605,
+            "number_input_tokens": 90
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "when forest whitaker won his/her first oscar best actor, which movie won the best picture?",
+                90
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "the departed"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 4.5462077697739005,
+            "number_input_tokens": 79
+        },
+        "generated_text": "710,978 (SBUX) vs 204,820 (HSIC)",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "which one has the higher trading volume on the last trading day, sbux or  hsic?",
+                79
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "sbux"
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6033469708636403,
+            "number_input_tokens": 27
+        },
+        "generated_text": "The Battle of New Orleans, January 8, 1815, and the ratification of the Treaty of Ghent on February 17, 1815.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "what ended the war of 1812?",
+                27
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "on february 16, 1815, the day president james madison sent the treaty of ghent to the senate, senators approved it unanimously. with ratification of this treaty, the war of 1812 came to an end."
+            }
+        }
+    },
+    {
+        "metrics": {
+            "error_code": null,
+            "error_msg": "",
+            "inter_token_latency_s": [],
+            "end_to_end_latency_s": 3.6914130351506174,
+            "number_input_tokens": 80
+        },
+        "generated_text": "I don't know.",
+        "request_config": {
+            "model": "RAG",
+            "prompt": [
+                "how many times has taylor swift won the billboard award for best country artist?",
+                80
+            ],
+            "sampling_params": {},
+            "llm_api": "RAG",
+            "metadata": {
+                "answer": "taylor swift has won the billboard award for best country artist two times, in 2013 and 2022."
+            }
+        }
+    }
+]

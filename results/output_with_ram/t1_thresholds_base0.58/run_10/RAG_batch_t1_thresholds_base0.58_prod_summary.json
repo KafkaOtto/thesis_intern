@@ -1,8 +1,8 @@
 {
     "version": "2023-08-31",
     "name": "RAG_batch_t1_thresholds_base0.58_prod_summary",
-    "start_time": 1750236099.092727,
-    "end_time": 1750247374.8938231,
+    "start_time": 1751085738.3599956,
+    "end_time": 1751094961.4800878,
     "number_errors": 0,
     "num_mismatched_requests": 0,
     "error_rate": 0.0,
@@ -12,5 +12,5 @@
     "model": "RAG",
     "num_concurrent_requests": 1,
     "llm_api": "RAG",
-    "timestamp": 1750247374
+    "timestamp": 1751094961
 }

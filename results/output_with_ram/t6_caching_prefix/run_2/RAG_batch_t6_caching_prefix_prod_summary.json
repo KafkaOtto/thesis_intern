@@ -1,8 +1,8 @@
 {
     "version": "2023-08-31",
     "name": "RAG_batch_t6_caching_prefix_prod_summary",
-    "start_time": 1749780535.2716215,
-    "end_time": 1749790027.688091,
+    "start_time": 1751140709.3117893,
+    "end_time": 1751152045.3243315,
     "number_errors": 0,
     "num_mismatched_requests": 0,
     "error_rate": 0.0,
@@ -12,5 +12,5 @@
     "model": "RAG",
     "num_concurrent_requests": 1,
     "llm_api": "RAG",
-    "timestamp": 1749790027
+    "timestamp": 1751152045
 }

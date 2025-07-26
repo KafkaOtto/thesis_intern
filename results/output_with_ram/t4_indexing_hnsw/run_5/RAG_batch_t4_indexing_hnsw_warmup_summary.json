@@ -1,8 +1,8 @@
 {
     "version": "2023-08-31",
     "name": "RAG_batch_t4_indexing_hnsw_warmup_summary",
-    "start_time": 1748561641.196803,
-    "end_time": 1748562006.0797553,
+    "start_time": 1751063563.435607,
+    "end_time": 1751063643.508189,
     "number_errors": 0,
     "num_mismatched_requests": 0,
     "error_rate": 0.0,
@@ -12,5 +12,5 @@
     "model": "RAG",
     "num_concurrent_requests": 1,
     "llm_api": "RAG",
-    "timestamp": 1748562006
+    "timestamp": 1751063643
 }

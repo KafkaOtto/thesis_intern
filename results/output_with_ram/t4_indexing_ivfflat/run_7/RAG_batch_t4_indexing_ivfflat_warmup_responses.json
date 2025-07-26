@@ -4,10 +4,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.597921663895249,
+            "end_to_end_latency_s": 1.258462819736451,
             "number_input_tokens": 33
         },
-        "generated_text": "$-0.55",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -26,10 +26,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7703644949942827,
+            "end_to_end_latency_s": 0.7714507393538952,
             "number_input_tokens": 39
         },
-        "generated_text": "HARIBO is the acronym that comprises the founder's name and the city in which the company was born: HAns RIegel BOnn.",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -48,10 +48,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.097564846044406,
+            "end_to_end_latency_s": 0.785342653747648,
             "number_input_tokens": 57
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -70,7 +70,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.882529817055911,
+            "end_to_end_latency_s": 0.748566395137459,
             "number_input_tokens": 45
         },
         "generated_text": "7,641",
@@ -92,10 +92,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.885604861890897,
+            "end_to_end_latency_s": 0.8360905521549284,
             "number_input_tokens": 46
         },
-        "generated_text": "Assets, Liabilities, and Equity.",
+        "generated_text": "Assets, liabilities, and equity.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -114,7 +114,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.1509094319771975,
+            "end_to_end_latency_s": 0.77932642493397,
             "number_input_tokens": 69
         },
         "generated_text": "I don't know.",
@@ -136,10 +136,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 265.58083522412926,
+            "end_to_end_latency_s": 0.7873560707084835,
             "number_input_tokens": 84
         },
-        "generated_text": "Cars 2 had a higher box office gross worldwide ($191.45M) than Cars ($191.45M is not correct, it is actually $191.45M is not the correct answer, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the correct answer is $191.45M is not correct, the",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -158,7 +158,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.120494701899588,
+            "end_to_end_latency_s": 0.8143487838096917,
             "number_input_tokens": 88
         },
         "generated_text": "I don't know.",
@@ -180,10 +180,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.902054450009018,
+            "end_to_end_latency_s": 0.7832089508883655,
             "number_input_tokens": 54
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -202,10 +202,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.903566715074703,
+            "end_to_end_latency_s": 1.1271375874057412,
             "number_input_tokens": 69
         },
-        "generated_text": "I don't know.",
+        "generated_text": "American Express, Amgen, Apple, Boeing, Caterpillar, Chevron, Cisco Systems, Coca-Cola, Disney, Dow",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -224,7 +224,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.61490851896815,
+            "end_to_end_latency_s": 0.8009772822260857,
             "number_input_tokens": 43
         },
         "generated_text": "Lamb has more fat.",
@@ -246,10 +246,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3503370548132807,
+            "end_to_end_latency_s": 0.7896060347557068,
             "number_input_tokens": 81
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -268,10 +268,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 5.427979968022555,
+            "end_to_end_latency_s": 0.8092300868593156,
             "number_input_tokens": 104
         },
-        "generated_text": "Monday 22 January 2024, Tuesday 23 January 2024, Wednesday 24 January 2024, Thursday 25 January 2024, Monday 29 January 2024, Tuesday 30 January 2024, Wednesday 31 January 2024, Thursday 1 February 2024, Monday 5 February 2024, Tuesday 6 February 2024, Wednesday 7 February 2024, Thursday 8 February 2024",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -290,7 +290,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.4209929150529206,
+            "end_to_end_latency_s": 0.6994515317492187,
             "number_input_tokens": 50
         },
         "generated_text": "4",
@@ -312,7 +312,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.887061861110851,
+            "end_to_end_latency_s": 0.7934636152349412,
             "number_input_tokens": 50
         },
         "generated_text": "I don't know.",
@@ -334,10 +334,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.270103112095967,
+            "end_to_end_latency_s": 0.8676602840423584,
             "number_input_tokens": 25
         },
-        "generated_text": "$2.55B",
+        "generated_text": "306,196 crore (US$24 billion)",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -356,7 +356,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.957662943052128,
+            "end_to_end_latency_s": 0.833154154010117,
             "number_input_tokens": 52
         },
         "generated_text": "In the Land of Blood and Honey.",
@@ -378,7 +378,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9422932991292328,
+            "end_to_end_latency_s": 0.7986022918485105,
             "number_input_tokens": 70
         },
         "generated_text": "I don't know.",
@@ -400,7 +400,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.930764661869034,
+            "end_to_end_latency_s": 0.7934646499343216,
             "number_input_tokens": 67
         },
         "generated_text": "Titanic (1997)",
@@ -422,7 +422,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5755959001835436,
+            "end_to_end_latency_s": 0.7798758093267679,
             "number_input_tokens": 40
         },
         "generated_text": "I don't know.",
@@ -444,7 +444,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9176210288424045,
+            "end_to_end_latency_s": 0.9885864374227822,
             "number_input_tokens": 48
         },
         "generated_text": "Dan Reynolds, Wayne Sermon, Ben McKee, and Daniel Platzman.",
@@ -466,7 +466,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.517300989944488,
+            "end_to_end_latency_s": 0.7769466922618449,
             "number_input_tokens": 87
         },
         "generated_text": "I don't know.",
@@ -488,7 +488,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7393463170155883,
+            "end_to_end_latency_s": 0.7036165562458336,
             "number_input_tokens": 35
         },
         "generated_text": "11",
@@ -510,7 +510,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.03646225691773,
+            "end_to_end_latency_s": 0.7120347060263157,
             "number_input_tokens": 61
         },
         "generated_text": "16",
@@ -532,7 +532,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.379479160066694,
+            "end_to_end_latency_s": 0.7818074291571975,
             "number_input_tokens": 61
         },
         "generated_text": "I don't know.",
@@ -554,7 +554,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8098771658260375,
+            "end_to_end_latency_s": 0.789305814076215,
             "number_input_tokens": 81
         },
         "generated_text": "I don't know.",
@@ -576,7 +576,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.695396018214524,
+            "end_to_end_latency_s": 0.7956031039357185,
             "number_input_tokens": 43
         },
         "generated_text": "I don't know.",
@@ -598,7 +598,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.501782177016139,
+            "end_to_end_latency_s": 0.7920300900004804,
             "number_input_tokens": 68
         },
         "generated_text": "I don't know.",
@@ -620,10 +620,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.602788191987202,
+            "end_to_end_latency_s": 1.961067607626319,
             "number_input_tokens": 62
         },
-        "generated_text": "Music of the Sun (2005), A Girl like Me (2006), Good Girl Gone Bad (2007), Rated R (2009), Loud (2010), Talk That Talk (2011), Unapologetic (2012), Anti (2016)",
+        "generated_text": "1. Music of the Sun (2005)\n2. A Girl like Me (2006)\n3. Good Girl Gone Bad (2007)\n4. Rated R (2009)\n5. Loud (2010)\n6. Talk That Talk (2011)\n7. Unapologetic (2012)\n8. Anti (2016)",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -642,7 +642,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6990729419048876,
+            "end_to_end_latency_s": 0.7957050669938326,
             "number_input_tokens": 98
         },
         "generated_text": "I don't know.",
@@ -664,7 +664,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.682739990996197,
+            "end_to_end_latency_s": 0.8077534823678434,
             "number_input_tokens": 67
         },
         "generated_text": "I don't know.",
@@ -686,7 +686,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.892396988114342,
+            "end_to_end_latency_s": 0.7804330200888216,
             "number_input_tokens": 118
         },
         "generated_text": "I don't know.",
@@ -708,7 +708,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.695705169113353,
+            "end_to_end_latency_s": 0.7771372310817242,
             "number_input_tokens": 96
         },
         "generated_text": "I don't know.",
@@ -730,7 +730,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.215163331013173,
+            "end_to_end_latency_s": 0.8111541420221329,
             "number_input_tokens": 40
         },
         "generated_text": "I don't know.",
@@ -752,10 +752,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5110024991445243,
+            "end_to_end_latency_s": 0.7726780828088522,
             "number_input_tokens": 34
         },
-        "generated_text": "4",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -774,10 +774,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.337994351051748,
+            "end_to_end_latency_s": 0.7704505026340485,
             "number_input_tokens": 38
         },
-        "generated_text": "2006",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -796,10 +796,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.167060094885528,
+            "end_to_end_latency_s": 0.8102914299815893,
             "number_input_tokens": 51
         },
-        "generated_text": "John F. Clauser",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -818,10 +818,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.2250617512036115,
+            "end_to_end_latency_s": 0.6284594847820699,
             "number_input_tokens": 108
         },
-        "generated_text": "19-6-3",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -840,10 +840,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9735154882073402,
+            "end_to_end_latency_s": 0.8008847651071846,
             "number_input_tokens": 62
         },
-        "generated_text": "Yes. Colin Dench.",
+        "generated_text": "Colin Dench",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -862,10 +862,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5320667340420187,
+            "end_to_end_latency_s": 0.7902530119754374,
             "number_input_tokens": 98
         },
-        "generated_text": "23%",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -884,10 +884,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.799945775885135,
+            "end_to_end_latency_s": 0.7294235532172024,
             "number_input_tokens": 58
         },
-        "generated_text": "31 years",
+        "generated_text": "8 years",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -906,7 +906,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.157760136062279,
+            "end_to_end_latency_s": 0.826173179782927,
             "number_input_tokens": 93
         },
         "generated_text": "I don't know.",
@@ -928,10 +928,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6205017699394375,
+            "end_to_end_latency_s": 0.750712723005563,
             "number_input_tokens": 117
         },
-        "generated_text": "The Chainsmokers.",
+        "generated_text": "Calvin Harris.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -950,10 +950,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.989575869869441,
+            "end_to_end_latency_s": 0.7657092222943902,
             "number_input_tokens": 47
         },
-        "generated_text": "1997",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -972,10 +972,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.693547755945474,
+            "end_to_end_latency_s": 0.7787446500733495,
             "number_input_tokens": 43
         },
-        "generated_text": "4",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -994,10 +994,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.376595532987267,
+            "end_to_end_latency_s": 0.7833679569885135,
             "number_input_tokens": 53
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1016,7 +1016,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.719035833142698,
+            "end_to_end_latency_s": 0.7907292698509991,
             "number_input_tokens": 77
         },
         "generated_text": "I don't know.",
@@ -1038,10 +1038,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3660992400255054,
+            "end_to_end_latency_s": 0.7964895493350923,
             "number_input_tokens": 62
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1060,10 +1060,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.802332874853164,
+            "end_to_end_latency_s": 0.7583735440857708,
             "number_input_tokens": 41
         },
-        "generated_text": "Daniel Kwan and Daniel Scheinert.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1082,10 +1082,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.813382945023477,
+            "end_to_end_latency_s": 0.7617690940387547,
             "number_input_tokens": 52
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1104,7 +1104,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.505366531899199,
+            "end_to_end_latency_s": 0.7778488649055362,
             "number_input_tokens": 76
         },
         "generated_text": "I don't know.",
@@ -1126,7 +1126,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.59484267514199,
+            "end_to_end_latency_s": 0.7906670551747084,
             "number_input_tokens": 71
         },
         "generated_text": "I don't know.",
@@ -1148,10 +1148,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.726977932965383,
+            "end_to_end_latency_s": 0.9144059047102928,
             "number_input_tokens": 42
         },
-        "generated_text": "Superior, Michigan, Huron, and Erie.",
+        "generated_text": "Superior, Huron, Erie, and Michigan.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1170,10 +1170,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9018658860586584,
+            "end_to_end_latency_s": 0.797367824241519,
             "number_input_tokens": 104
         },
-        "generated_text": "Philip Rivers",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1192,7 +1192,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.0545715789776295,
+            "end_to_end_latency_s": 0.8003240497782826,
             "number_input_tokens": 108
         },
         "generated_text": "I don't know.",
@@ -1214,7 +1214,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8959747629705817,
+            "end_to_end_latency_s": 0.7804388892836869,
             "number_input_tokens": 82
         },
         "generated_text": "I don't know.",
@@ -1236,7 +1236,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5867984648793936,
+            "end_to_end_latency_s": 0.791758248116821,
             "number_input_tokens": 56
         },
         "generated_text": "I don't know.",
@@ -1258,10 +1258,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.112850914010778,
+            "end_to_end_latency_s": 0.8071658378466964,
             "number_input_tokens": 71
         },
-        "generated_text": "200,916 million",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1280,10 +1280,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.498030791990459,
+            "end_to_end_latency_s": 0.7619727742858231,
             "number_input_tokens": 61
         },
-        "generated_text": "I don't know.",
+        "generated_text": "Giraffe.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1302,10 +1302,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.560708606848493,
+            "end_to_end_latency_s": 0.7897360646165907,
             "number_input_tokens": 68
         },
-        "generated_text": "113-111",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1324,7 +1324,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.189588160021231,
+            "end_to_end_latency_s": 0.7207403318025172,
             "number_input_tokens": 56
         },
         "generated_text": "2009",
@@ -1346,7 +1346,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7306639219168574,
+            "end_to_end_latency_s": 0.7761406409554183,
             "number_input_tokens": 100
         },
         "generated_text": "I don't know.",
@@ -1368,7 +1368,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.624583438970149,
+            "end_to_end_latency_s": 0.7964581521227956,
             "number_input_tokens": 62
         },
         "generated_text": "I don't know.",
@@ -1390,10 +1390,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3331214799545705,
+            "end_to_end_latency_s": 0.8000097409822047,
             "number_input_tokens": 61
         },
-        "generated_text": "164.17",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1412,7 +1412,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.055711875902489,
+            "end_to_end_latency_s": 0.8990069902502,
             "number_input_tokens": 47
         },
         "generated_text": "Katherine, Christina, Patrick, Christopher, and Joseph.",
@@ -1434,7 +1434,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5331012280657887,
+            "end_to_end_latency_s": 0.8206703951582313,
             "number_input_tokens": 40
         },
         "generated_text": "Jerome H. Powell.",
@@ -1456,10 +1456,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.039779492886737,
+            "end_to_end_latency_s": 0.7590622208081186,
             "number_input_tokens": 83
         },
-        "generated_text": "2017: Chance the Rapper\n2018: Alessia Cara",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1478,7 +1478,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.028209724929184,
+            "end_to_end_latency_s": 0.8139028446748853,
             "number_input_tokens": 38
         },
         "generated_text": "I don't know.",
@@ -1500,7 +1500,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7953511448577046,
+            "end_to_end_latency_s": 0.7714308327995241,
             "number_input_tokens": 77
         },
         "generated_text": "I don't know.",
@@ -1522,7 +1522,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5929195331409574,
+            "end_to_end_latency_s": 0.629073116928339,
             "number_input_tokens": 70
         },
         "generated_text": "I don't know",
@@ -1544,10 +1544,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.9500572730321437,
+            "end_to_end_latency_s": 0.7857277179136872,
             "number_input_tokens": 60
         },
-        "generated_text": "404, 470, 678, and 770.",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1566,7 +1566,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.030977008864284,
+            "end_to_end_latency_s": 0.7872119923122227,
             "number_input_tokens": 60
         },
         "generated_text": "I don't know.",
@@ -1588,7 +1588,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.905148390913382,
+            "end_to_end_latency_s": 0.7927512810565531,
             "number_input_tokens": 72
         },
         "generated_text": "I don't know.",
@@ -1610,10 +1610,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.292776069138199,
+            "end_to_end_latency_s": 0.7582442848943174,
             "number_input_tokens": 52
         },
-        "generated_text": "Jahan Shah.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1632,7 +1632,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.317641791189089,
+            "end_to_end_latency_s": 0.7801972380839288,
             "number_input_tokens": 68
         },
         "generated_text": "I don't know.",
@@ -1654,10 +1654,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8106862839777023,
+            "end_to_end_latency_s": 0.7839700379408896,
             "number_input_tokens": 51
         },
-        "generated_text": "$2.464 B",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1676,10 +1676,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5927457239013165,
+            "end_to_end_latency_s": 0.7679870766587555,
             "number_input_tokens": 124
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1698,7 +1698,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.799948394065723,
+            "end_to_end_latency_s": 0.7799201007001102,
             "number_input_tokens": 64
         },
         "generated_text": "I don't know.",
@@ -1720,10 +1720,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.000744466902688,
+            "end_to_end_latency_s": 0.7543468829244375,
             "number_input_tokens": 61
         },
-        "generated_text": "I don't know.",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1742,7 +1742,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.473840093938634,
+            "end_to_end_latency_s": 0.7874001017771661,
             "number_input_tokens": 46
         },
         "generated_text": "I don't know.",
@@ -1764,10 +1764,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.0953975901938975,
+            "end_to_end_latency_s": 0.7878246400505304,
             "number_input_tokens": 56
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1786,10 +1786,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.000593335134909,
+            "end_to_end_latency_s": 0.790147596038878,
             "number_input_tokens": 66
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1808,10 +1808,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.375261248089373,
+            "end_to_end_latency_s": 0.7224828600883484,
             "number_input_tokens": 40
         },
-        "generated_text": "38 years old",
+        "generated_text": "38",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1830,7 +1830,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.082952239084989,
+            "end_to_end_latency_s": 0.8430786039680243,
             "number_input_tokens": 44
         },
         "generated_text": "Wrangell St Elias National Park.",
@@ -1852,7 +1852,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.963074732106179,
+            "end_to_end_latency_s": 0.786961279809475,
             "number_input_tokens": 66
         },
         "generated_text": "I don't know.",
@@ -1874,7 +1874,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7100922861136496,
+            "end_to_end_latency_s": 0.7805970972403884,
             "number_input_tokens": 82
         },
         "generated_text": "I don't know.",
@@ -1896,10 +1896,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6069464560132474,
+            "end_to_end_latency_s": 0.7857724209316075,
             "number_input_tokens": 87
         },
-        "generated_text": "Jeremy Irons for \"Reversal of Fortune\".",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1918,7 +1918,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.477449611062184,
+            "end_to_end_latency_s": 0.7876832112669945,
             "number_input_tokens": 65
         },
         "generated_text": "I don't know.",
@@ -1940,10 +1940,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.876256524818018,
+            "end_to_end_latency_s": 0.7175426208414137,
             "number_input_tokens": 46
         },
-        "generated_text": "I don't know",
+        "generated_text": "52",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1962,7 +1962,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.113511363975704,
+            "end_to_end_latency_s": 0.7865121639333665,
             "number_input_tokens": 54
         },
         "generated_text": "I don't know.",
@@ -1984,7 +1984,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.710905381012708,
+            "end_to_end_latency_s": 0.8122860216535628,
             "number_input_tokens": 77
         },
         "generated_text": "I don't know.",
@@ -2006,7 +2006,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7005988280288875,
+            "end_to_end_latency_s": 0.7925237277522683,
             "number_input_tokens": 46
         },
         "generated_text": "I don't know.",
@@ -2028,10 +2028,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7113685379736125,
+            "end_to_end_latency_s": 0.7990734339691699,
             "number_input_tokens": 37
         },
-        "generated_text": "5",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2050,7 +2050,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3065307741053402,
+            "end_to_end_latency_s": 0.7904700729995966,
             "number_input_tokens": 83
         },
         "generated_text": "I don't know.",
@@ -2072,10 +2072,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8351571259554476,
+            "end_to_end_latency_s": 0.7958972873166203,
             "number_input_tokens": 54
         },
-        "generated_text": "I don't know",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2094,7 +2094,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.929889400023967,
+            "end_to_end_latency_s": 0.8015487571246922,
             "number_input_tokens": 60
         },
         "generated_text": "I don't know.",
@@ -2116,7 +2116,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.714352946029976,
+            "end_to_end_latency_s": 0.7835356476716697,
             "number_input_tokens": 90
         },
         "generated_text": "I don't know.",
@@ -2138,10 +2138,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.597784416982904,
+            "end_to_end_latency_s": 0.7890236303210258,
             "number_input_tokens": 79
         },
-        "generated_text": "710,978 (SBUX) vs 204,820 (HSIC)",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2160,10 +2160,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.279119265032932,
+            "end_to_end_latency_s": 0.942672067321837,
             "number_input_tokens": 27
         },
-        "generated_text": "The Battle of New Orleans, January 8, 1815, and the ratification of the Treaty of Ghent on February 17, 1815.",
+        "generated_text": "The Battle of New Orleans, January 8, 1815.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2182,7 +2182,7 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.027730954810977,
+            "end_to_end_latency_s": 0.7773189079016447,
             "number_input_tokens": 80
         },
         "generated_text": "I don't know.",

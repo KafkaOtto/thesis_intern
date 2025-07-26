@@ -4,10 +4,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 0.0736530888825655,
+            "end_to_end_latency_s": 4.452273903880268,
             "number_input_tokens": 33
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "$-0.55",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -26,10 +26,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 0.004755751695483923,
+            "end_to_end_latency_s": 4.682521915994585,
             "number_input_tokens": 39
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "HARIBO is the acronym that comprises the founder's name and the city in which the company was born: HAns RIegel BOnn.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -48,10 +48,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 0.005248037166893482,
+            "end_to_end_latency_s": 4.135376669000834,
             "number_input_tokens": 57
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -70,10 +70,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.036143757868558,
+            "end_to_end_latency_s": 4.17264411598444,
             "number_input_tokens": 45
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "7,641",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -92,10 +92,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.044725741725415,
+            "end_to_end_latency_s": 3.681712292134762,
             "number_input_tokens": 46
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Assets, Liabilities, and Equity.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -114,10 +114,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0451286835595965,
+            "end_to_end_latency_s": 4.483468691818416,
             "number_input_tokens": 69
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -136,10 +136,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.047852064948529,
+            "end_to_end_latency_s": 266.1245075054467,
             "number_input_tokens": 84
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Cars 2 had a higher box office gross worldwide ($191.45M) than Cars ($191.45M is not correct, it is actually $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct answer, the correct answer is $191.45M is not the correct",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -158,10 +158,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.047382927965373,
+            "end_to_end_latency_s": 3.7343736249022186,
             "number_input_tokens": 88
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -180,10 +180,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0457194643095136,
+            "end_to_end_latency_s": 4.038494143169373,
             "number_input_tokens": 54
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -202,10 +202,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0444739321246743,
+            "end_to_end_latency_s": 3.9730416531674564,
             "number_input_tokens": 69
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -224,10 +224,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0471017630770802,
+            "end_to_end_latency_s": 3.4442655169405043,
             "number_input_tokens": 43
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Lamb has more fat.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -246,10 +246,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0443501779809594,
+            "end_to_end_latency_s": 3.729548226110637,
             "number_input_tokens": 81
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -268,10 +268,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.04522845428437,
+            "end_to_end_latency_s": 5.860202462878078,
             "number_input_tokens": 104
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Monday 22 January 2024, Tuesday 23 January 2024, Wednesday 24 January 2024, Thursday 25 January 2024, Monday 29 January 2024, Tuesday 30 January 2024, Wednesday 31 January 2024, Thursday 1 February 2024, Monday 5 February 2024, Tuesday 6 February 2024, Wednesday 7 February 2024, Thursday 8 February 2024",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -290,10 +290,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0452603162266314,
+            "end_to_end_latency_s": 3.7677118331193924,
             "number_input_tokens": 50
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "4",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -312,10 +312,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.043777098879218,
+            "end_to_end_latency_s": 3.408608302939683,
             "number_input_tokens": 50
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -334,10 +334,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0486109950579703,
+            "end_to_end_latency_s": 3.0832962063141167,
             "number_input_tokens": 25
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "$2.55B",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -356,10 +356,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.042710044886917,
+            "end_to_end_latency_s": 3.2679101950488985,
             "number_input_tokens": 52
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "In the Land of Blood and Honey.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -378,10 +378,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0455205268226564,
+            "end_to_end_latency_s": 3.682418532203883,
             "number_input_tokens": 70
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -400,10 +400,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0467299320735037,
+            "end_to_end_latency_s": 3.8574947491288185,
             "number_input_tokens": 67
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Titanic (1997)",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -422,10 +422,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0447138831950724,
+            "end_to_end_latency_s": 3.194862235337496,
             "number_input_tokens": 40
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -444,10 +444,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.043495158199221,
+            "end_to_end_latency_s": 3.3752651452086866,
             "number_input_tokens": 48
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Dan Reynolds, Wayne Sermon, Ben McKee, Daniel Platzman.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -466,10 +466,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.049109707120806,
+            "end_to_end_latency_s": 3.8196739559061825,
             "number_input_tokens": 87
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -488,10 +488,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0464407429099083,
+            "end_to_end_latency_s": 3.2124931612052023,
             "number_input_tokens": 35
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "11",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -510,10 +510,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.045331803150475,
+            "end_to_end_latency_s": 3.3976832437328994,
             "number_input_tokens": 61
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "16",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -532,10 +532,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.0205580643378198,
+            "end_to_end_latency_s": 3.3777239420451224,
             "number_input_tokens": 61
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -554,10 +554,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0464811511337757,
+            "end_to_end_latency_s": 3.415743611752987,
             "number_input_tokens": 81
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -576,10 +576,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.045490824151784,
+            "end_to_end_latency_s": 3.3475169772282243,
             "number_input_tokens": 43
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -598,10 +598,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.044528129976243,
+            "end_to_end_latency_s": 3.802648323122412,
             "number_input_tokens": 68
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -620,10 +620,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.045808183029294,
+            "end_to_end_latency_s": 4.829409461002797,
             "number_input_tokens": 62
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Music of the Sun (2005), A Girl like Me (2006), Good Girl Gone Bad (2007), Rated R (2009), Loud (2010), Talk That Talk (2011), Unapologetic (2012), Anti (2016)",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -642,10 +642,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.488002350088209,
+            "end_to_end_latency_s": 3.1429967819713056,
             "number_input_tokens": 98
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -664,10 +664,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.251032066065818,
+            "end_to_end_latency_s": 4.025807091034949,
             "number_input_tokens": 67
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -686,10 +686,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.2455804953351617,
+            "end_to_end_latency_s": 4.299324817955494,
             "number_input_tokens": 118
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -708,10 +708,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.4713506838306785,
+            "end_to_end_latency_s": 3.6287895529530942,
             "number_input_tokens": 96
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -730,10 +730,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.326466021127999,
+            "end_to_end_latency_s": 3.5073330109007657,
             "number_input_tokens": 40
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -752,10 +752,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.544730942696333,
+            "end_to_end_latency_s": 3.0274062361568213,
             "number_input_tokens": 34
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "4",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -774,10 +774,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.5013845707289875,
+            "end_to_end_latency_s": 4.175277326721698,
             "number_input_tokens": 38
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "2006",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -796,10 +796,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.490278069395572,
+            "end_to_end_latency_s": 3.509587076958269,
             "number_input_tokens": 51
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "John F. Clauser",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -818,10 +818,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.458325040061027,
+            "end_to_end_latency_s": 3.4995169159956276,
             "number_input_tokens": 108
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "19-6-3",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -840,10 +840,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0398599398322403,
+            "end_to_end_latency_s": 3.909970815759152,
             "number_input_tokens": 62
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Yes. Colin Dench.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -862,10 +862,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.3077058191411197,
+            "end_to_end_latency_s": 4.079837888944894,
             "number_input_tokens": 98
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "23%",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -884,10 +884,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.1862298930063844,
+            "end_to_end_latency_s": 2.9563107271678746,
             "number_input_tokens": 58
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "8 years",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -906,10 +906,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0669238599948585,
+            "end_to_end_latency_s": 4.343401197809726,
             "number_input_tokens": 93
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -928,10 +928,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.8975553810596466,
+            "end_to_end_latency_s": 3.3941295058466494,
             "number_input_tokens": 117
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "The Chainsmokers.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -950,10 +950,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.538750410079956,
+            "end_to_end_latency_s": 3.4368385770358145,
             "number_input_tokens": 47
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "1997",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -972,10 +972,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.6049511949531734,
+            "end_to_end_latency_s": 3.5228553083725274,
             "number_input_tokens": 43
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "4",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -994,10 +994,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.5897328280843794,
+            "end_to_end_latency_s": 4.491773074958473,
             "number_input_tokens": 53
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1016,10 +1016,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.300579281989485,
+            "end_to_end_latency_s": 4.141071537043899,
             "number_input_tokens": 77
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1038,10 +1038,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.4007797962985933,
+            "end_to_end_latency_s": 3.3719832920469344,
             "number_input_tokens": 62
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1060,10 +1060,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.4398620957508683,
+            "end_to_end_latency_s": 3.2970019979402423,
             "number_input_tokens": 41
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Daniel Scheinert and Daniel Kwan.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1082,10 +1082,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.348845592699945,
+            "end_to_end_latency_s": 4.282688768114895,
             "number_input_tokens": 52
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1104,10 +1104,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.3030830239877105,
+            "end_to_end_latency_s": 3.4294300372712314,
             "number_input_tokens": 76
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1126,10 +1126,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.2848372091539204,
+            "end_to_end_latency_s": 3.423251233063638,
             "number_input_tokens": 71
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1148,10 +1148,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.0222761118784547,
+            "end_to_end_latency_s": 3.706507185008377,
             "number_input_tokens": 42
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Superior, Michigan, Huron, and Erie.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1170,10 +1170,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.6437189439311624,
+            "end_to_end_latency_s": 4.101064006332308,
             "number_input_tokens": 104
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Philip Rivers",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1192,10 +1192,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5417794520035386,
+            "end_to_end_latency_s": 4.185269299894571,
             "number_input_tokens": 108
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1214,10 +1214,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.7064320230856538,
+            "end_to_end_latency_s": 3.374838074669242,
             "number_input_tokens": 82
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1236,10 +1236,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.5007900749333203,
+            "end_to_end_latency_s": 3.078281061258167,
             "number_input_tokens": 56
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1258,10 +1258,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.3718848740682006,
+            "end_to_end_latency_s": 4.511058430187404,
             "number_input_tokens": 71
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "200,916 million",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1280,10 +1280,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.3047498627565801,
+            "end_to_end_latency_s": 4.031792863737792,
             "number_input_tokens": 61
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1302,10 +1302,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.1627909201197326,
+            "end_to_end_latency_s": 3.443072837777436,
             "number_input_tokens": 68
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "113-111",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1324,10 +1324,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.4430970093235373,
+            "end_to_end_latency_s": 3.7531985328532755,
             "number_input_tokens": 56
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "2009",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1346,10 +1346,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.402885199058801,
+            "end_to_end_latency_s": 3.383983040228486,
             "number_input_tokens": 100
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1368,10 +1368,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.3456093412823975,
+            "end_to_end_latency_s": 3.325560346711427,
             "number_input_tokens": 62
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1390,10 +1390,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.303308597765863,
+            "end_to_end_latency_s": 4.0325206951238215,
             "number_input_tokens": 61
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "193.70",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1412,10 +1412,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.4054227978922427,
+            "end_to_end_latency_s": 3.7328687901608646,
             "number_input_tokens": 47
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Katherine, Christina, Patrick, Christopher, and Joseph.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1434,10 +1434,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.4792765667662024,
+            "end_to_end_latency_s": 3.4422344299964607,
             "number_input_tokens": 40
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Jerome H. Powell.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1456,10 +1456,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.351649107877165,
+            "end_to_end_latency_s": 4.767577359918505,
             "number_input_tokens": 83
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Meghan Trainor (2016), Chance the Rapper (2017), and Alessia Cara (2018).",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1478,10 +1478,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.063618054613471,
+            "end_to_end_latency_s": 3.3089606291614473,
             "number_input_tokens": 38
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1500,10 +1500,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.5992374517954886,
+            "end_to_end_latency_s": 3.3938668430782855,
             "number_input_tokens": 77
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1522,10 +1522,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.3462188350968063,
+            "end_to_end_latency_s": 3.597802507225424,
             "number_input_tokens": 70
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1544,10 +1544,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.3403718029148877,
+            "end_to_end_latency_s": 3.622122226282954,
             "number_input_tokens": 60
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "404, 470, 678, 770.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1566,10 +1566,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.637648206204176,
+            "end_to_end_latency_s": 4.259832052979618,
             "number_input_tokens": 60
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1588,10 +1588,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.195986021310091,
+            "end_to_end_latency_s": 3.2101974077522755,
             "number_input_tokens": 72
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1610,10 +1610,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.9148626099340618,
+            "end_to_end_latency_s": 3.262387943919748,
             "number_input_tokens": 52
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Jahan Shah.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1632,10 +1632,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.7541464259848,
+            "end_to_end_latency_s": 4.108807190787047,
             "number_input_tokens": 68
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1654,10 +1654,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.994319292716682,
+            "end_to_end_latency_s": 4.489994187839329,
             "number_input_tokens": 51
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "$2.464 B",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1676,10 +1676,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3297853018157184,
+            "end_to_end_latency_s": 4.317960856948048,
             "number_input_tokens": 124
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1698,10 +1698,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5022648870944977,
+            "end_to_end_latency_s": 3.713377100415528,
             "number_input_tokens": 64
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1720,10 +1720,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.2986266720108688,
+            "end_to_end_latency_s": 3.401953912805766,
             "number_input_tokens": 61
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1742,10 +1742,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.2561617502942681,
+            "end_to_end_latency_s": 3.2008095011115074,
             "number_input_tokens": 46
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1764,10 +1764,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.3289405801333487,
+            "end_to_end_latency_s": 3.27581924200058,
             "number_input_tokens": 56
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1786,10 +1786,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.2705591348931193,
+            "end_to_end_latency_s": 4.034083710983396,
             "number_input_tokens": 66
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1808,10 +1808,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 1.242770683951676,
+            "end_to_end_latency_s": 3.941496128682047,
             "number_input_tokens": 40
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "38 years old",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1830,10 +1830,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.3871003151871264,
+            "end_to_end_latency_s": 4.293070578947663,
             "number_input_tokens": 44
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Wrangell St Elias National Park.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1852,10 +1852,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.7693585860542953,
+            "end_to_end_latency_s": 3.6189152812585235,
             "number_input_tokens": 66
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1874,10 +1874,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.028744217008352,
+            "end_to_end_latency_s": 4.285254909191281,
             "number_input_tokens": 82
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1896,10 +1896,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.3974408670328557,
+            "end_to_end_latency_s": 3.8260859539732337,
             "number_input_tokens": 87
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "Jeremy Irons for \"Reversal of Fortune\".",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1918,10 +1918,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.8603957379236817,
+            "end_to_end_latency_s": 3.4239232717081904,
             "number_input_tokens": 65
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1940,10 +1940,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.605101604014635,
+            "end_to_end_latency_s": 3.171202154830098,
             "number_input_tokens": 46
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1962,10 +1962,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.9463704847730696,
+            "end_to_end_latency_s": 3.6067706807516515,
             "number_input_tokens": 54
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -1984,10 +1984,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.642320667859167,
+            "end_to_end_latency_s": 3.1986618977971375,
             "number_input_tokens": 77
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2006,10 +2006,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.153580896090716,
+            "end_to_end_latency_s": 3.3209870499558747,
             "number_input_tokens": 46
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2028,10 +2028,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.5484621128998697,
+            "end_to_end_latency_s": 3.617979673203081,
             "number_input_tokens": 37
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "5",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2050,10 +2050,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 3.954101951792836,
+            "end_to_end_latency_s": 4.221066324971616,
             "number_input_tokens": 83
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2072,10 +2072,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.081611042842269,
+            "end_to_end_latency_s": 3.5828199121169746,
             "number_input_tokens": 54
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2094,10 +2094,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 2.8501604981720448,
+            "end_to_end_latency_s": 4.317928325850517,
             "number_input_tokens": 60
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2116,10 +2116,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.245470131747425,
+            "end_to_end_latency_s": 3.5894824131391943,
             "number_input_tokens": 90
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2138,10 +2138,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.302368392236531,
+            "end_to_end_latency_s": 4.55347771756351,
             "number_input_tokens": 79
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "710,978 (SBUX) vs 204,820 (HSIC)",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2160,10 +2160,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.446917076129466,
+            "end_to_end_latency_s": 3.6935203475877643,
             "number_input_tokens": 27
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "The Battle of New Orleans, January 8, 1815, and the ratification of the Treaty of Ghent on February 17, 1815.",
         "request_config": {
             "model": "RAG",
             "prompt": [
@@ -2182,10 +2182,10 @@
             "error_code": null,
             "error_msg": "",
             "inter_token_latency_s": [],
-            "end_to_end_latency_s": 4.203138865996152,
+            "end_to_end_latency_s": 3.103966841008514,
             "number_input_tokens": 80
         },
-        "generated_text": "        Sorry, something went wrong with your request. Try again or reload the page.\n        If the problem persists, contact the CodeWhisperers team.\n",
+        "generated_text": "I don't know.",
         "request_config": {
             "model": "RAG",
             "prompt": [

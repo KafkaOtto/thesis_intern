@@ -12,14 +12,14 @@ if [ -z "$2" ] || [ -z "$1" ] || [ -z "$3" ]; then
 fi
 
 TREATMENT_ID="$1"
-OUTPUT_BASE_DIR="/Users/zhinuanguo/Documents/thesis/projects/internship/results/output_with_ram/${TREATMENT_ID}"
+OUTPUT_BASE_DIR="$BASE_DIR/results/output_with_ram/${TREATMENT_ID}"
 LOG_DIR="logs/accuracy"
 START_NUM_RUNS="$2"
 END_NUM_RUNS="$3"
 
 mkdir -p "${LOG_DIR}"
 
-ADDITIONAL_SAMPLING_PARAMS="{\"response_file\": \"/Users/zhinuanguo/Documents/thesis/projects/internship/results/output_with_ram/t7_combination_emb384with078/run_1/RAG_batch_t7_combination_emb384with078_prod_responses.json\", \"accuracy_file\": \"/Users/zhinuanguo/Documents/thesis/projects/internship/results/output_with_ram/t7_combination_emb384with078/run_1/RAG_batch_t7_combination_emb384with078_prod_accuracies.json\"}"
+ADDITIONAL_SAMPLING_PARAMS="{\"response_file\": \"$BASE_DIR/results/output_with_ram/t7_combination_emb384with078/run_1/RAG_batch_t7_combination_emb384with078_prod_responses.json\", \"accuracy_file\": \"$BASE_DIR/results/output_with_ram/t7_combination_emb384with078/run_1/RAG_batch_t7_combination_emb384with078_prod_accuracies.json\"}"
 
 for (( i=START_NUM_RUNS; i<=END_NUM_RUNS; i++ ))
 do

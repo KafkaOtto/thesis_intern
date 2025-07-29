@@ -3,7 +3,7 @@
 echo "Running pre-hooks before committing..."
 
 export ACCURACY_BASE_URL=https://api.deepseek.com
-export OPENAI_API_KEY=sk-35902931181441e897400b402994bff0
+export OPENAI_API_KEY="$OPEN_AI_API_KEY"
 
 
 if [ -z "$2" ] || [ -z "$1" ] || [ -z "$3" ]; then

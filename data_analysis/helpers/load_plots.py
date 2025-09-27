@@ -6,11 +6,11 @@ from matplotlib.ticker import ScalarFormatter
 
 def format_pvalue(p: float) -> str:
     if p < 0.0001:
-        return f"p < 0.0001"
-    # elif p < 0.001:
-    #     return f"p = {p:.1e}"
+        return "p<1e-4"
+    elif p < 0.001:
+        return f"p={p:.0e}".replace("e-0", "e-")  # p=2e-4 instead of p=2e-04
     else:
-        return f"p = {p:.4f}"
+        return f"p={p:.4f}"
 
 def plot_effect_sizes(
         effect_sizes: List[float],
@@ -19,7 +19,7 @@ def plot_effect_sizes(
         title: str,
         p_values: Optional[List[float]] = None,
         alpha: float = 0.05,
-        figsize: Tuple[int, int] = (12, 8),
+        figsize: Tuple[int, int] = (12, 6),
         palette: Dict[str, str] = None,
         font_family: str = "Arial",
         grid: bool = True,
@@ -58,7 +58,10 @@ def plot_effect_sizes(
     # Set font properties
     plt.rcParams['font.family'] = font_family
     title_font = {'size': 16, 'weight': 'bold'}
-    label_font = {'size': 14}
+    y_label_font = {'size': 16}
+    x_label_font = 16
+    legend_font = 14
+    value_font = 16
 
     # Create figure with constrained layout
     fig, ax = plt.subplots(figsize=figsize)
@@ -116,12 +119,12 @@ def plot_effect_sizes(
             group_width = treatment_labels.count(treatment_labels[i])
             group_center = i + (group_width - 1) / 2
             ax.text(group_center, -0.15, treatment_labels[i],
-                    ha='center', va='top', fontsize=12, fontweight='bold',
+                    ha='center', va='top', fontsize=x_label_font, fontweight='bold',
                     transform=ax.get_xaxis_transform())
 
         # Condition sub-label
         ax.text(i, -0.08, variable_labels[i],
-                ha='center', va='top', fontsize=10,
+                ha='center', va='top', fontsize=x_label_font,
                 transform=ax.get_xaxis_transform())
     # Add vertical lines between treatment groups
     for i in range(1, len(treatment_labels)):
@@ -142,7 +145,7 @@ def plot_effect_sizes(
         ax.spines[spine].set_linewidth(0.5)
 
     # Set labels and title with improved styling
-    ax.set_ylabel("Cohen's d Effect Size", **label_font)
+    ax.set_ylabel("Cohen's d Effect Size", **y_label_font)
     # ax.set_title(title, pad=20, **title_font)
 
     # Configure grid
@@ -171,11 +174,11 @@ def plot_effect_sizes(
             ax.text(
                 bar.get_x() + bar.get_width() / 2,
                 value_y,
-                f"d = {d_val:{value_format}}",
+                f"d={d_val:{value_format}}",
                 ha='center',
                 va=va,
                 color=color,
-                fontsize=12,
+                fontsize=value_font,
                 fontweight='bold'
             )
 
@@ -187,7 +190,7 @@ def plot_effect_sizes(
                 ha='center',
                 va=va,
                 color=color,
-                fontsize=12
+                fontsize=value_font
             )
 
 
@@ -207,7 +210,7 @@ def plot_effect_sizes(
             frameon=True,  # Adds a light border
             framealpha=0.8,  # Makes the legend slightly transparent
             edgecolor='gray',  # Border color
-            fontsize=12,
+            fontsize=legend_font,
         )
 
     # Adjust ylim to account for annotations
@@ -243,7 +246,7 @@ def plot_percentage_change(
         palette: Dict[str, str] = None,
         font_family: str = "Arial",
         grid: bool = True,
-        bar_width: float = 0.7,
+        bar_width: float = 0.9,
         value_format: str = ".2f",
         show_legend: bool = True,
         significance_labels: bool = True
@@ -276,7 +279,10 @@ def plot_percentage_change(
     # Set font properties
     plt.rcParams['font.family'] = font_family
     title_font = {'size': 16, 'weight': 'bold'}
-    label_font = {'size': 14}
+    y_label_font = {'size': 16}
+    x_label_font = 16
+    legend_font = 14
+    value_font = 16
 
     # Create figure with constrained layout
     fig, ax = plt.subplots(figsize=figsize)
@@ -327,12 +333,12 @@ def plot_percentage_change(
             group_width = filter_treatment_labels.count(filter_treatment_labels[i])
             group_center = i + (group_width - 1) / 2
             ax.text(group_center, -0.15, filter_treatment_labels[i],
-                    ha='center', va='top', fontsize=12, fontweight='bold',
+                    ha='center', va='top', fontsize=x_label_font, fontweight='bold',
                     transform=ax.get_xaxis_transform())
 
         # Condition sub-label
         ax.text(i, -0.08, filter_variable_labels[i],
-                ha='center', va='top', fontsize=12,
+                ha='center', va='top', fontsize=x_label_font,
                 transform=ax.get_xaxis_transform())
     # Add vertical lines between treatment groups
     for i in range(1, len(filter_treatment_labels)):
@@ -353,7 +359,7 @@ def plot_percentage_change(
         ax.spines[spine].set_linewidth(0.5)
 
     # Set labels and title with improved styling
-    ax.set_ylabel("Percentage Changes(-%)", **label_font)
+    ax.set_ylabel("Percentage Changes(-%)", **y_label_font)
     # ax.set_title(title, pad=20, **title_font)
 
     # Configure grid
@@ -381,7 +387,7 @@ def plot_percentage_change(
                 ha='center',
                 va=va,
                 color=color,
-                fontsize=12,
+                fontsize=value_font,
                 fontweight='bold'
             )
 
@@ -402,7 +408,7 @@ def plot_percentage_change(
                 frameon=True,  # Adds a light border
                 framealpha=0.8,  # Makes the legend slightly transparent
                 edgecolor='gray',  # Border color
-                fontsize=12,
+                fontsize=legend_font,
             )
         else:
             ax.legend(
@@ -412,7 +418,7 @@ def plot_percentage_change(
                 frameon=True,  # Adds a light border
                 framealpha=0.8,  # Makes the legend slightly transparent
                 edgecolor='gray',  # Border color
-                fontsize=12,
+                fontsize=legend_font,
             )
 
 
@@ -499,7 +505,7 @@ def plot_gpu_percentage(
         palette: Optional[Dict[str, str]] = None,
         font_family: str = "Arial",
         grid: bool = True,
-        bar_width: float = 0.7,
+        bar_width: float = 0.9,
         value_format: str = ".1f",
         show_legend: bool = True,
         significance_labels: bool = True,
@@ -532,6 +538,11 @@ def plot_gpu_percentage(
             'total': '#1f77b4',  # muted blue
             'gpu': '#ff7f0e'  # safety orange
         }
+    
+    y_label_font = {'size': 16}
+    x_label_font = 16
+    legend_font = 14
+    value_font = 16
 
     # Calculate percentages
     gpu_percentages = [gpu / total * 100 for gpu, total in zip(energy_gpu_means, energy_total_means)]
@@ -581,12 +592,12 @@ def plot_gpu_percentage(
             group_width = treatment_labels.count(treatment_labels[i])
             group_center = i + (group_width - 1) / 2
             ax.text(group_center, -0.15, treatment_labels[i],
-                    ha='center', va='top', fontsize=12, fontweight='bold',
+                    ha='center', va='top', fontsize=x_label_font, fontweight='bold',
                     transform=ax.get_xaxis_transform())
 
         # Condition sub-label
         ax.text(i, -0.08, variable_labels[i],
-                ha='center', va='top', fontsize=10,
+                ha='center', va='top', fontsize=x_label_font,
                 transform=ax.get_xaxis_transform())
     # Add vertical lines between treatment groups
     for i in range(1, len(treatment_labels)):
@@ -613,7 +624,7 @@ def plot_gpu_percentage(
                 va='center',
                 color='white',
                 fontweight='bold',
-                fontsize=10
+                fontsize=value_font
             )
 
             # Other components percentage (centered in remaining portion)
@@ -624,7 +635,7 @@ def plot_gpu_percentage(
                 ha='center',
                 va='center',
                 color='black',
-                fontsize=10
+                fontsize=value_font
             )
 
     # Customize axes and labels
@@ -634,7 +645,7 @@ def plot_gpu_percentage(
     formatter.set_powerlimits((0, 0))
     ax.yaxis.set_major_formatter(formatter)
     ax.yaxis.get_offset_text().set_fontsize(10)
-    ax.set_ylabel("Energy (mJ)", fontsize=12)
+    ax.set_ylabel("Energy (mJ)", y_label_font)
     # ax.set_title(title, fontsize=14, pad=20)
 
     # Add grid if enabled
@@ -655,7 +666,7 @@ def plot_gpu_percentage(
             bbox_to_anchor=(0.5, 1.0),  # (x, y) - 0.5 is horizontal center, 1.0 is top
             frameon=True,
             framealpha=0.4,
-            fontsize=10,
+            fontsize=legend_font,
             ncol=2  # Arrange items in 2 columns (for compact horizontal layout)
         )
 
@@ -670,28 +681,30 @@ def plot_energy_breakdown(
         treatment_labels: List[str],
         variable_labels: List[str],
         component_labels: Dict[str, str],
-        figsize: Tuple[int, int] = (12, 6),
+        figsize: Tuple[int, int] = (12, 8),
         palette: Optional[Dict[str, str]] = None,
         font_family: str = "Arial",
         grid: bool = True,
-        bar_width: float = 0.7,
+        bar_width: float = 0.9,
         value_format: str = ".1f",
         show_legend: bool = True,
         show_percentage_labels: bool = True,
-        min_pct_threshold: float = 1.0,
-        small_pct_offset: float = 0.3,
-        small_pct_marker: bool = True
+        min_pct_threshold: float = 2.0,
+        small_pct_offset: float = 0.8,
+        small_pct_marker: bool = True,
+        y_axis_label: str = "Energy (mJ)"
 ) -> None:
     """
     Plot stacked bar chart showing energy breakdown by components as percentage of total energy,
-    with improved handling of small percentage values.
+    with improved readability and label handling.
 
     Args:
         energy_components: Dictionary of component names to their mean energy values
         energy_total_means: List of mean total energy values
         treatment_labels: Labels for each treatment group
+        variable_labels: Labels for the energy components (used in legend)
         component_labels: Labels for the energy components (used in legend)
-        figsize: Figure size (width, height)
+        figsize: Figure size (width, height) - increased for better readability
         palette: Color palette dictionary with component names as keys
         font_family: Font family to use
         grid: Whether to show grid lines
@@ -699,9 +712,10 @@ def plot_energy_breakdown(
         value_format: Format string for percentage values
         show_legend: Whether to show legend
         show_percentage_labels: Whether to show percentage labels
-        min_pct_threshold: Minimum percentage to show label (default: 1.0)
-        small_pct_offset: Offset for small percentage labels (default: 0.3)
-        small_pct_marker: Whether to show markers for very small percentages (default: True)
+        min_pct_threshold: Minimum percentage to show label (increased to 2.0)
+        small_pct_offset: Offset for small percentage labels (increased to 0.5)
+        small_pct_marker: Whether to show markers for very small percentages
+        y_axis_label: Label for y-axis
     """
     # Set default palette if none provided
     if palette is None:
@@ -710,8 +724,8 @@ def plot_energy_breakdown(
             'embedding': '#ff7f0e',  # safety orange
             'generation': '#2ca02c',  # cooked asparagus green
             'db': '#d62728',  # brick red
-            'reranking': '#9467bd',  # muted purple,
-            'system': '#17becf',
+            'reranking': '#9467bd',  # muted purple
+            'system': '#17becf',  # cyan
             'other': '#8c564b'  # chestnut brown
         }
 
@@ -723,14 +737,25 @@ def plot_energy_breakdown(
 
     # Set font and style
     plt.rcParams['font.family'] = font_family
-    plt.style.use('seaborn-v0_8-whitegrid' if grid else 'seaborn')
+    plt.rcParams['font.size'] = 12
+    plt.style.use('seaborn-v0_8-whitegrid' if grid else 'seaborn-v0_8')
 
-    # Create figure
+    # Create figure with more vertical space
     fig, ax = plt.subplots(figsize=figsize)
+
+    # Increase DPI for better resolution
+    plt.rcParams['figure.dpi'] = 300
 
     # Plot stacked bars
     bottom = [0] * len(treatment_labels)
     bars = {}
+
+    # Increased font sizes
+    y_label_font = {'size': 16, 'weight': 'normal'}
+    x_label_font = 16
+    legend_font = 14
+    value_font = 16
+    small_value_font = 12
 
     for component in energy_components.keys():
         bars[component] = ax.bar(
@@ -739,35 +764,54 @@ def plot_energy_breakdown(
             width=bar_width,
             bottom=bottom,
             color=palette.get(component, '#7f7f7f'),
-            label=component_labels.get(component, component)
+            label=component_labels.get(component, component),
+            edgecolor='white',
+            linewidth=0.5
         )
         bottom = [b + h for b, h in zip(bottom, energy_components[component])]
 
-    # Create two levels of x-axis labels
-    for i, (treat, cond) in enumerate(zip(treatment_labels, variable_labels)):
-        # Main treatment label (centered over group)
-        if i == 0 or treatment_labels[i] != treatment_labels[i - 1]:
-            group_width = treatment_labels.count(treatment_labels[i])
-            group_center = i + (group_width - 1) / 2
-            ax.text(group_center, -0.15, treatment_labels[i],
-                    ha='center', va='top', fontsize=12, fontweight='bold',
-                    transform=ax.get_xaxis_transform())
+    # Improved x-axis labeling with better spacing
+    ax.tick_params(axis='x', which='major', length=0)  # Remove x-axis ticks
 
-        # Condition sub-label
-        ax.text(i, -0.08, variable_labels[i],
-                ha='center', va='top', fontsize=10,
+    # Create grouped x-axis labels with better positioning
+    current_treatment = None
+    group_start = 0
+
+    for i, treatment in enumerate(treatment_labels):
+        if treatment != current_treatment:
+            if current_treatment is not None:
+                # Center the treatment label over the previous group
+                group_center = (group_start + i - 1) / 2
+                ax.text(group_center, -0.12, current_treatment,
+                        ha='center', va='top', fontsize=x_label_font,
+                        fontweight='bold', transform=ax.get_xaxis_transform())
+
+            current_treatment = treatment
+            group_start = i
+
+    # Add the last treatment label
+    if current_treatment is not None:
+        group_center = (group_start + len(treatment_labels) - 1) / 2
+        ax.text(group_center, -0.12, current_treatment,
+                ha='center', va='top', fontsize=x_label_font,
+                fontweight='bold', transform=ax.get_xaxis_transform())
+
+    # Add condition labels with rotation for better fit
+    for i, condition in enumerate(variable_labels):
+        ax.text(i, -0.05, condition, ha='center', va='top',
+                fontsize=x_label_font - 1, rotation=45 if len(condition) > 10 else 0,
                 transform=ax.get_xaxis_transform())
 
     # Add vertical lines between treatment groups
     for i in range(1, len(treatment_labels)):
         if treatment_labels[i] != treatment_labels[i - 1]:
-            ax.axvline(x=i - 0.5, color='gray', linestyle='--', alpha=0.7)
+            ax.axvline(x=i - 0.5, color='gray', linestyle='--', alpha=0.5, linewidth=1)
 
     # Remove default x-tick labels
     ax.set_xticks([])
     ax.set_xticklabels([])
 
-    # Add percentage labels with improved handling of small values
+    # Improved percentage labels with better positioning and readability
     if show_percentage_labels:
         for i in range(len(treatment_labels)):
             cumulative_height = 0
@@ -775,90 +819,100 @@ def plot_energy_breakdown(
                 component_height = energy_components[component][i]
                 pct = percentages[component][i]
 
-                # Skip if percentage is zero
-                if pct == 0:
+                # Skip if percentage is zero or too small
+                if pct == 0 or component_height == 0:
                     cumulative_height += component_height
                     continue
 
+                # Calculate position and text properties
+                y_pos = cumulative_height + component_height / 2
+                bar_center = i
+
                 # For percentages above threshold
                 if pct >= min_pct_threshold:
-                    # For small percentages (1-5%), place label outside with leader line
-                    if pct < 5:
-                        y_pos = cumulative_height + component_height
+                    # Check if text fits well in the segment
+                    segment_height_ratio = component_height / energy_total_means[i]
 
-                        # Add the label outside the bar
+                    if pct >= 10:  # Large percentages - place inside
                         ax.text(
-                            x=i + small_pct_offset,
+                            x=bar_center,
                             y=y_pos,
-                            s=f"{pct:{value_format}}%",
-                            ha='left',
-                            va='center',
-                            color='black',
-                            fontsize=10,
-                            bbox=dict(facecolor='white', alpha=0.7, edgecolor='none', pad=0.5)
-                        )
-
-                        # Add a connecting line
-                        ax.plot(
-                            [i + bar_width / 2, i + small_pct_offset * 0.8],
-                            [y_pos, y_pos],
-                            color='gray',
-                            linestyle=':',
-                            linewidth=0.5,
-                            alpha=0.7
-                        )
-                    else:
-                        # Normal label placement inside the bar
-                        ax.text(
-                            x=i,
-                            y=cumulative_height + component_height / 2,
                             s=f"{pct:{value_format}}%",
                             ha='center',
                             va='center',
-                            color='white' if component_height / 2 + cumulative_height < energy_total_means[
-                                i] / 2 else 'black',
+                            color='white',
                             fontweight='bold',
-                            fontsize=10
+                            fontsize=value_font,
+                            # bbox=dict(boxstyle="round,pad=0.1", facecolor='black', alpha=0.3)
+                            # if pct < 15 else None
                         )
-                # For very small but non-zero percentages
-                elif small_pct_marker and pct > 0:
-                    # Add a tiny dot marker
-                    ax.plot(
-                        i,
-                        cumulative_height + component_height / 2,
-                        marker='o',
-                        markersize=3,
-                        color='white' if component_height / 2 + cumulative_height < energy_total_means[
-                            i] / 2 else 'black',
-                        alpha=0.7,
-                    )
+
+                    else:  # Small but visible percentages (2-10%)
+                        ax.text(
+                            x=bar_center,
+                            y=y_pos,
+                            s=f"{pct:{value_format}}%",
+                            ha='center',
+                            va='center',
+                            color='white',
+                            fontweight='bold',
+                            fontsize=small_value_font,
+                            # bbox=dict(boxstyle="round,pad=0.1", facecolor='black', alpha=0.3)
+                            # if pct < 15 else None
+                        )
+
+                # For very small percentages (0.1% - 2%)
+                elif small_pct_marker and pct > 0.1:
+                    # Use a small dot with optional tiny label
+                    ax.plot(i, y_pos, marker='.', markersize=4,
+                            color='white' if y_pos < energy_total_means[i] * 0.7 else 'black',
+                            alpha=0.8)
 
                 cumulative_height += component_height
 
-    # Customize axes and labels
+    # Improved y-axis formatting
     formatter = ScalarFormatter(useMathText=True)
-    formatter.set_powerlimits((0, 0))
+    formatter.set_powerlimits((-3, 3))
+    formatter.set_scientific(True)
+    formatter.set_useOffset(False)
     ax.yaxis.set_major_formatter(formatter)
-    ax.yaxis.get_offset_text().set_fontsize(10)
-    ax.set_ylabel("Energy (mJ)", fontsize=12)
 
-    # Add grid if enabled
+    # Improve y-axis label positioning
+    ax.set_ylabel(y_axis_label, **y_label_font)
+    ax.yaxis.set_label_coords(-0.05, 0.5)
+
+    # Improved grid
     if grid:
-        ax.grid(axis='y', linestyle=':', alpha=0.7)
+        ax.grid(axis='y', linestyle=':', alpha=0.4, linewidth=0.8)
+        ax.grid(axis='x', linestyle=':', alpha=0.2, linewidth=0.5)
 
-    # Add legend if enabled
+    # Improved legend
     if show_legend:
-        ax.legend(
-            loc='lower center',
-            bbox_to_anchor=(0.5, 1.0),
+        # Create custom legend with better spacing
+        handles, labels = ax.get_legend_handles_labels()
+        legend = ax.legend(
+            handles[::-1], labels[::-1],  # Reverse order to match stack
+            loc='upper center',
+            bbox_to_anchor=(0.5, 1.05),  # Position below plot
             frameon=True,
-            framealpha=0.7,
-            fontsize=10,
-            ncol=len(energy_components)
+            framealpha=0.9,
+            fontsize=legend_font,
+            ncol=min(4, len(energy_components)),  # Limit columns
+            columnspacing=1.0,
+            handletextpad=0.5
         )
 
+        # Make legend frame more visible
+        legend.get_frame().set_edgecolor('black')
+        legend.get_frame().set_alpha(0.9)
+
+    # Adjust layout with more bottom space for legend
     plt.tight_layout()
-    plt.savefig("plots/energy_breakdown.pdf", dpi=600, bbox_inches='tight')
+    plt.subplots_adjust(bottom=0.2 if show_legend else 0.1)
+
+    # Save with high quality
+    plt.savefig("plots/energy_breakdown.pdf", dpi=600, bbox_inches='tight',
+                facecolor='white', edgecolor='none')
     plt.close()
 
 
@@ -868,11 +922,11 @@ def plot_metrics_comparison(
         variable_labels: List[str],
         title: str,
         alpha: float = 0.05,
-        figsize: Tuple[int, int] = (14, 8),
+        figsize: Tuple[int, int] = (12, 6),
         palette: Dict[str, str] = None,
         font_family: str = "Arial",
         grid: bool = True,
-        bar_width: float = 0.25,
+        bar_width: float = 0.9,
         value_format: str = ".1f",
         show_legend: bool = True,
         significance_labels: bool = True,
@@ -909,7 +963,10 @@ def plot_metrics_comparison(
     # Set font properties
     plt.rcParams['font.family'] = font_family
     title_font = {'size': 16, 'weight': 'bold'}
-    label_font = {'size': 14}
+    y_label_font = {'size': 16}
+    x_label_font = 16
+    legend_font = 14
+    value_font = 16
 
     # Create figure with constrained layout
     fig, ax = plt.subplots(figsize=figsize)
@@ -955,12 +1012,12 @@ def plot_metrics_comparison(
             group_width = treatment_labels.count(treatment_labels[i])
             group_center = i + (group_width - 1) / 2 + (n_metrics - 1) * adjusted_bar_width / 2
             ax.text(group_center, -0.15, treatment_labels[i],
-                    ha='center', va='top', fontsize=16, fontweight='bold',
+                    ha='center', va='top', fontsize=x_label_font, fontweight='bold',
                     transform=ax.get_xaxis_transform())
 
         # Condition sub-label
         ax.text(i + (n_metrics - 1) * adjusted_bar_width / 2, -0.08, variable_labels[i],
-                ha='center', va='top', fontsize=14,
+                ha='center', va='top', fontsize=x_label_font,
                 transform=ax.get_xaxis_transform())
 
     # Add vertical lines between treatment groups
@@ -984,7 +1041,7 @@ def plot_metrics_comparison(
         ax.spines[spine].set_linewidth(0.5)
 
     # Set labels and title
-    ax.set_ylabel("Percentage Change (%)", **label_font)
+    ax.set_ylabel("Percentage Change (%)", **y_label_font)
     # ax.set_title(title, pad=20, **title_font)
 
     # Configure grid
@@ -1011,7 +1068,7 @@ def plot_metrics_comparison(
                     ha='center',
                     va=va,
                     color=bar.get_facecolor(),
-                    fontsize=12,
+                    fontsize=value_font,
                     fontweight='bold'
                 )
 
@@ -1023,7 +1080,7 @@ def plot_metrics_comparison(
                 frameon=True,
                 framealpha=0.8,
                 edgecolor='gray',
-                fontsize=12
+                fontsize=legend_font
             )
         elif 't2' in save_path:
             ax.legend(
@@ -1031,7 +1088,7 @@ def plot_metrics_comparison(
                 frameon=True,
                 framealpha=0.8,
                 edgecolor='gray',
-                fontsize=12
+                fontsize=legend_font
             )
         else:
             ax.legend(
@@ -1039,7 +1096,7 @@ def plot_metrics_comparison(
                 frameon=True,
                 framealpha=0.8,
                 edgecolor='gray',
-                fontsize=12
+                fontsize=legend_font
             )
 
 

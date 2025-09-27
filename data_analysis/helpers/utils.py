@@ -20,11 +20,11 @@ LABEL_MAPPING = {
 }
 
 TREATMENT_MAPPING = {
-    "t1": "T1: thresholds",
-    "t2": "T2: reranking",
-    "t3": "T3: embedding",
-    "t4": "T4: indexing",
-    "t6": "T5: caching",
+    "t1": "T1",
+    "t2": "T2",
+    "t3": "T3",
+    "t4": "T4",
+    "t6": "T5",
     "t7": "combo",
 }
 

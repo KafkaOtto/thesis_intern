@@ -1,7 +1,7 @@
 \c ragdb ragdb_mgmt_user;
 
 -- Types
-create type rag.source_type as enum ('SIGRID_DOCS', 'SLACK', 'SHAREPOINT', 'CONFLUENCE', 'SALESFORCE');
+create type rag.source_type as enum ('SLACK', 'SHAREPOINT', 'CONFLUENCE', 'SALESFORCE');
 
 alter type rag.source_type owner to ragdb_mgmt_user;
 

@@ -18,7 +18,7 @@ This project presents a controlled experiment assessing the effectiveness of var
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:KafkaOtto/thesis_intern.git
+   Download or clone this repository to your local machine.
    ```
 2. **Create Kubernetes cluster:**
 ```bash
